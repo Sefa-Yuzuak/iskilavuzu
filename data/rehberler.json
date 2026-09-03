@@ -3962,5 +3962,392 @@
         "url": "https://www.aa.com.tr/tr/yasam/kimliklendirilen-ev-hayvani-sayisi-2-milyonu-asti/3007313"
       }
     ]
+  },
+  {
+    "slug": "ev-hanimi-icin-yasal-gelir-yollari",
+    "alan": "ev-hanimi",
+    "baslik": "Ev hanımı için yasal gelir yolları: muafiyet, destek, sigorta",
+    "ozet": "Evde üretip vergisiz satmanın iki ayrı yolu ve farkları. Kadın girişimci destekleri, kooperatifler, isteğe bağlı sigorta ve ev hanımlarını hedefleyen dolandırıcılık kalıpları.",
+    "cevap": "Evde ürettiğinizi satmanın iki ayrı yasal yolu var ve karıştırılıyor. Hem pazarda hem internette satarsanız internet satışınız 2026'da 396.360 lirayı aşamıyor. Yalnızca internetten satarsanız sınır 1.900.000 liraya çıkıyor ama muafiyet belgesi ve ticari banka hesabı zorunlu oluyor. İkisinden aynı yıl birden yararlanılamıyor.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "baslik",
+        "metin": "Esnaf muafiyeti: iki ayrı yol, iki ayrı sınır"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gelir Vergisi Kanunu'nun 9. maddesinde iki ayrı bent var ve aynı takvim yılında ikisinden birden yararlanılamıyor (1, 2). İnternetteki içeriklerin çoğu bu ikisini karıştırıyor, o yüzden ayrı ayrı anlatalım."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Birinci yol: evde üretip her yerde satmak"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kanunda sayılan ürün listesi şu: havlu, örtü, çarşaf, çorap, halı, kilim, dokuma mamulleri, kırpıntı deriden üretilen mamuller, örgü, dantel, her çeşit nakış işi ve turistik eşya, hasır, sepet, süpürge, paspas, fırça, yapma çiçek, pul, payet ve boncuk işleme, tığ örgü işleri, ip ve urgan, tarhana, erişte, mantı gibi ürünler (1)."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Sanayi tipi ya da seri üretim makinesi kullanmamak. Dikiş makinesi, nakış makinesi, mutfak robotu ve ütü gibi ev aletleri serbest.",
+          "Dışarıdan işçi çalıştırmamak.",
+          "İşyeri açmamak.",
+          "Pazar takibi suretiyle satmamak, yani düzenli pazarcılık yapmamak.",
+          "Vergi mükelleflerinin düzenlediği kermes, festival ve panayırlarda satmamak."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu yolda belge almak isteğe bağlı, ticari banka hesabı zorunlu değil ve tevkifat oranı yüzde 2 (1). Elden ve pazarda satışta tutar sınırı yok. Sınır yalnızca internetten yapılan satışlar için ve o yılın brüt asgari ücretinin yıllık tutarı kadar. 2026 için 396.360 lira."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "İkinci yol: yalnızca internetten satmak"
+      },
+      {
+        "tur": "metin",
+        "metin": "Aynı ürün listesi geçerli ama sınır 1.900.000 liraya çıkıyor (2). Buna karşılık şartlar sıkılaşıyor."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Esnaf vergi muafiyeti belgesi almak zorunlu.",
+          "Türkiye'de bir bankada ticari hesap açmak ve hasılatı bu hesaptan tahsil etmek zorunlu.",
+          "Satışların tamamının internetten olması gerekiyor."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Bankalar ticari hesaba aktarılan tutar üzerinden yüzde 4 gelir vergisi tevkifatı yapıyor. Bir ya da daha fazla işçi çalıştırıyorsanız, ilgili ayda en az on gün olmak şartıyla, oran yüzde 2'ye iniyor (2)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Sınırı aşarsanız o yıl muafiyet devam ediyor, izleyen yılın başından itibaren bitiyor. Yani yıl ortasında birden mükellef olmuyorsunuz, ama sonraki yıla hazırlıklı girmeniz gerekiyor."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Belge nasıl alınır?"
+      },
+      {
+        "tur": "metin",
+        "metin": "İkametgâhınızın bağlı olduğu vergi dairesine başvurarak ya da dijital vergi dairesi üzerinden dilekçe oluşturarak. Belge üç yılda bir yenileniyor (2). Muaf esnafın mükellefiyet açtırma, belge düzenleme, defter tutma ve beyanname verme yükümlülüğü yok. Ancak gider pusulalarını ve alış belgelerini beş yıl saklamak zorunda."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kadın girişimci destekleri"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Destek",
+          "Tutar",
+          "Kadına ilave"
+        ],
+        "satirlar": [
+          [
+            "İş kurma, geri ödemesiz, gerçek kişi",
+            "10.000 TL",
+            "+10.000 TL"
+          ],
+          [
+            "İş kurma, geri ödemesiz, sermaye şirketi",
+            "20.000 TL",
+            "+10.000 TL"
+          ],
+          [
+            "İş geliştirme, geri ödemeli",
+            "1.500.000 TL",
+            "+150.000 TL"
+          ],
+          [
+            "Faiz ve kâr payı desteği",
+            "1.000.000 TL kredi",
+            "Kadın ve gençlere öncelik"
+          ]
+        ],
+        "not": "KOSGEB girişimci destek programı. İş kurma için işletme sıfır bir yaş, iş geliştirme için sıfır üç yaş aralığında olmalı (3)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Uygulamalı girişimcilik eğitimi zorunlu ama ücretsiz ve çevrimiçi, e-Devlet girişiyle alınabiliyor (3, 4)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Kritik uyarı: bu destek kurulmuş bir işletmeye veriliyor. Esnaf muafiyeti bu program için yeterli değil. Yani destek almak istiyorsanız muafiyetten çıkıp mükellefiyet açtırmanız gerekiyor. İkisi aynı anda olmuyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Tarım ve Orman Bakanlığı'nın kırsal kalkınma yatırım programı da var. On milyar lira bütçeli, proje tutarı yüz bin ile otuz milyon lira arasında. Hibe oranı yüzde 50 ile 70 arasında; kadınlar, gençler ve kırsal yerleşimler için yüzde 60. Program bütçesinin en az yüzde 20'si kadın ve genç girişimcilere ayrılıyor (5)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kadın kooperatifi kurmak"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kooperatif en az yedi ortağın imzaladığı ana sözleşmeyle kuruluyor (6). Kadın girişimi üretim ve işletme kooperatifine ortak olmak için Türkiye Cumhuriyeti vatandaşı, on sekiz yaşını doldurmuş ve medeni haklarını kullanma ehliyetine sahip kadın olmak gerekiyor (7)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Başvuru Ticaret İl Müdürlüğü'ne yapılıyor. Kuruluş sermayesinin en az dörtte biri kooperatif adına açılan banka hesabına yatırılmış olmalı (8). Sermayesi ne olursa olsun her ortağın bir oy hakkı var."
+      },
+      {
+        "tur": "metin",
+        "metin": "Asıl avantaj şu: bireysel olarak giremeyeceğiniz kanallara toplu erişim. Belediyelerin sergi, pazar yeri, büfe ve stant ihaleleri ile kamu alımlarında yüklenici olabilme imkânı (7)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kooperatif desteği",
+          "Üst limit"
+        ],
+        "satirlar": [
+          [
+            "Makine ve ekipman alımı",
+            "1.000.000 TL"
+          ],
+          [
+            "Nitelikli personel, bir kişi",
+            "Yıllık 420.000 TL"
+          ],
+          [
+            "Nitelikli personel, iki kişi",
+            "Yıllık 840.000 TL"
+          ]
+        ],
+        "not": "Destek oranı gelişmiş illerde yüzde 50, diğerlerinde yüzde 75. Ortaklarının en az yüzde 90'ı kadın olan kooperatiflerde il sırası aranmaksızın yüzde 75 (9)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sigorta ve emeklilik"
+      },
+      {
+        "tur": "metin",
+        "metin": "İsteğe bağlı sigorta, on sekiz yaşını doldurmuş ve zorunlu sigortalı sayılmayı gerektirecek şekilde çalışmayanlar için. Prim oranı yüzde 33 ve 2026'da asgari aylık prim 10.899,90 lira (10)."
+      },
+      {
+        "tur": "metin",
+        "metin": "2008 sonrası ilk defa isteğe bağlı sigortalı olanların süreleri Bağ-Kur kapsamında değerlendiriliyor. Bu kapsamda kadın için 58 yaş ve 9.000 prim günü aranıyor. 5.400 gün üzerinden aylık bağlanması da mümkün ama yaş haddine üç yıl ekleniyor (11)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Hiç sigortalı olmamış bir ev hanımına özel prim indirimi ya da erken emeklilik düzenlemesi yok. Tek özel imkân doğum borçlanması: en fazla üç doğum için ikişer yıl, toplam altı yıl borçlanılabiliyor. Ancak doğumdan önce sigortalılığın tescil edilmiş ve adına prim bildirilmiş olması şart (12). Yani hiç sigortası olmayan kadın bu haktan yararlanamıyor. Önce isteğe bağlı sigortaya girmek gerekiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Nerede satılır?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kanal",
+          "Kayıt şartı",
+          "Komisyon"
+        ],
+        "satirlar": [
+          [
+            "Instagram ve mesajlaşma",
+            "Yok, ödeme ticari hesaba",
+            "Yok"
+          ],
+          [
+            "Pazaryerleri",
+            "Vergi levhası ya da şirket kaydı",
+            "Kategoriye göre, panelde ilan ediliyor"
+          ],
+          [
+            "Semt pazarı",
+            "Serbest, ama pazar takibi muafiyeti bozuyor",
+            "Yok"
+          ],
+          [
+            "Belediye kadın emeği pazarları",
+            "Belediyeye başvuru",
+            "Çoğu belediyede stant ücretsiz"
+          ],
+          [
+            "Kooperatif üzerinden belediye satış noktaları",
+            "Kooperatif ortaklığı",
+            "Kooperatif kararına bağlı"
+          ]
+        ],
+        "not": "Pazaryeri komisyonları kategori, satıcı seviyesi ve markaya göre değişiyor, tek bir oran verilemiyor (13, 14)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Sermayesi sınırlı biri için gerçekçi başlangıç sırası şu: önce Instagram ve yerel pazar, sonra belediye pazarı, sonra kooperatif, en son pazaryeri."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Büyük pazaryerleri kural olarak vergi levhası ya da şirket kaydı istiyor. Muafiyet belgesi uygulamada çoğu zaman kabul edilmiyor. Yani muafiyetle başlayacaksanız kendi kanalınızdan satmayı planlayın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Gıda üretiminde kural ne?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gıda işletmeleri için işletme kayıt belgesi kural olarak zorunlu (15). Ama önemli bir istisna var."
+      },
+      {
+        "tur": "metin",
+        "metin": "Konutta üretilen salça, tarhana, pekmez, reçel, pasta, börek, tatlı, kurutulmuş meyve ve sebze gibi ürünler konutta, semt pazarında ya da benzeri yerlerde üreticisi tarafından son tüketiciye arz edilebiliyor. Sadece son tüketiciye satılıyorsa kayıt belgesi düzenlenmeden gıda güvenliği sistemine kayıt yapılıyor (16)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Ama son tüketiciye ilaveten yerel perakendeciye de satıyorsanız, yani bakkala, markete ya da kafeye veriyorsanız, işletme perakende sayılıyor ve kayıt belgesi düzenleniyor. Bu ayrımı atlamak en sık yapılan hata."
+      },
+      {
+        "tur": "metin",
+        "metin": "Hangi ürünün ne kadar sattığına dair kaynaklı bir Türkiye verisi bulunamadı. Bu yüzden burada tahmini bir talep sıralaması vermiyoruz."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Dolandırıcılık kalıpları"
+      },
+      {
+        "tur": "metin",
+        "metin": "Evde paketleme en yaygın tuzak ve kalıbı hep aynı: sosyal medya ilanı, ardından başvurunuz onaylandı mesajı, sonra kimlik, adres ve hesap numarası talebi, sonra kapora talebi. Ürün ya hiç gelmiyor ya da eksik ve hatalı iş gerekçesiyle cayma bedeli isteniyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "İçişleri Bakanlığı'nın siber operasyonlarında, şüpheli hesap hareketleri arasında doğrudan evde paketleme işi kapora ücreti açıklamalı transferler tespit edilmiş (17). Şikayet platformu verisine göre bu başlıkta otuz üç binden fazla şikayet var (18)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Kesin kural şu: iş kurumu mevzuatına göre, yönetmelikte belirlenen istisnai meslekler dışında iş arayandan hiçbir ad altında ücret alınamaz, menfaat temin edilemez (19). Yani sizden para isteyen her iş teklifi baştan hukuka aykırı."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kurum ayrıca dolandırıcıların bakanlık ve kurum adlarıyla logolarını taklit ettiğini, işlemlerin yalnızca resmî devlet siteleri üzerinden yapılması gerektiğini duyurmuş (20)."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Peşin para ya da kapora isteniyorsa reddedin.",
+          "Devlet destekli iddiası varsa doğrulayın, kurumlar böyle ilan vermiyor.",
+          "Hesap numarası ve kimlik fotoğrafı erken isteniyorsa durun.",
+          "Sözleşme yoksa iş yok demektir.",
+          "Haftada şu kadar lira sabit kazanç vaadi hikâyedir."
+        ]
+      }
+    ],
+    "sss": [
+      {
+        "s": "Vergi dairesine kayıt olmadan evde ürettiğimi satabilir miyim?",
+        "c": "Evet, ürün kanunda sayılan listedeyse ve şartlar sağlanıyorsa. Ama yalnız internetten satacaksanız muafiyet belgesi ve banka ticari hesabı zorunlu."
+      },
+      {
+        "s": "Hem pazarda hem internette satabilir miyim?",
+        "c": "Evet ama o zaman birinci bentte kalırsınız. İnternet satışlarınız 2026'da 396.360 lirayı aşamaz. Pazar satışında tutar sınırı yok. 1.900.000 liralık sınır yalnızca sadece internetten satanlar için."
+      },
+      {
+        "s": "Muafiyetim varken büyük pazaryerinde mağaza açabilir miyim?",
+        "c": "Pazaryerleri kural olarak vergi levhası ya da şirket kaydı istiyor, muafiyet belgesi uygulamada çoğu zaman kabul edilmiyor. Kendi hesabınız ya da belediye pazarları daha güvenli bir başlangıç."
+      },
+      {
+        "s": "Evde reçel yapıp satmak için belge lazım mı?",
+        "c": "Sadece son tüketiciye, yani konutta ya da semt pazarında satıyorsanız işletme kayıt belgesi düzenlenmiyor, sisteme kayıt yapılıyor. Markete ya da kafeye de veriyorsanız kayıt belgesi zorunlu."
+      },
+      {
+        "s": "Sigortam yok, emekli olabilir miyim?",
+        "c": "İsteğe bağlı sigortaya girebilirsiniz. 2026'da aylık en az 10.899,90 lira prim ödüyorsunuz. Bağ-Kur sayılıyorsunuz ve kadın için 58 yaş ile 9.000 gün esas."
+      },
+      {
+        "s": "Hiç sigortam olmadıysa doğum borçlanması yapabilir miyim?",
+        "c": "Hayır. Doğumdan önce sigortalılığın tescil edilmiş ve prim bildirilmiş olması şart. Önce isteğe bağlı sigortaya girmeniz gerekiyor."
+      },
+      {
+        "s": "KOSGEB desteğini muafiyet belgesiyle alabilir miyim?",
+        "c": "Hayır. Destek kurulmuş işletmeye veriliyor. Ayrıca uygulamalı girişimcilik eğitimi şartı var, o da ücretsiz."
+      },
+      {
+        "s": "Evde paketleme işi teklif edildi, kapora istiyorlar. Ne yapmalıyım?",
+        "c": "Ödemeyin. İş arayandan ücret alınması mevzuata aykırı. Şikâyet için polis merkezine, Cumhuriyet Başsavcılığına ya da siber suçlarla mücadele şubesine başvurabilirsiniz."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Gelir İdaresi Başkanlığı, evlerde üretilen ürünlerin satışında esnaf muaflığı",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fyardim-kaynaklar%2Finfografikler%2Fpdfs%2Fesnaf_muafiyeti9_1_6.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, internet üzerinden satışta esnaf muaflığı",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fyardim-kaynaklar%2Finfografikler%2Fpdfs%2Fesnaf_muafiyeti9_1_10.pdf"
+      },
+      {
+        "ad": "KOSGEB girişimci destek programı",
+        "url": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/1231/girisimci-destek-programi"
+      },
+      {
+        "ad": "KOSGEB uygulamalı girişimcilik eğitimi",
+        "url": "https://lms.kosgeb.gov.tr/"
+      },
+      {
+        "ad": "Tarım ve Orman Bakanlığı, kırsal kalkınma yatırım programı 2026",
+        "url": "https://www.tarimorman.gov.tr/Haber/7052/Bakan-Yumakli-Kirsal-Kalkinma-Yatirim-Programi-2026-Basvuru-Donemi-Basladi"
+      },
+      {
+        "ad": "1163 sayılı Kooperatifler Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.1163.pdf"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, kadın girişimi üretim ve işletme kooperatifleri",
+        "url": "https://ticaret.gov.tr/data/5d4c0d1b13b876180c773f8f/BROSUR-KADIN-KOOP%20(1).pdf"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, kadın kooperatifi kuruluş belgeleri",
+        "url": "https://ticaret.gov.tr/kooperatifcilik/kooperatiflere-yonelik-hizmetler/kooperatif-kurulus-islemleri/il-mudurluklerince-kurulusu-yapilan-kooperatifler-ve-gerekli-belgeler/kadin-girisimi-uretim-ve-isletme-kooperatifi-kurulus-belgeleri"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, kooperatiflerin desteklenmesi programı",
+        "url": "https://ticaret.gov.tr/kooperatifcilik/koop-des"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, ilk defa isteğe bağlı sigortalı olanlar",
+        "url": "https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2026-01-12-09-48-59"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, bağımsız çalışanlarda yaşlılık aylığı",
+        "url": "https://www.sgk.gov.tr/Content/Post/e528abf5-8e23-4ed5-b4ab-c016d7cd9ab2/4b-Kendi-Adina-ve-Hesabina-Bagimsiz-Calisanlar-ile-Koy-ve-Mahalle-Muhtarlari-2024-01-11-02-40-49"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, doğum borçlanması",
+        "url": "https://www.sgk.gov.tr/Content/Post/4aa4cd49-4af5-43f2-8ecc-ec00326153ff/Dogum-Borclanmasi-2026-05-11-10-54-53"
+      },
+      {
+        "ad": "Trendyol satıcı paneli, komisyon oranları",
+        "url": "https://partner.trendyol.com"
+      },
+      {
+        "ad": "İstanbul Büyükşehir Belediyesi, kadın emeği pazarı",
+        "url": "https://www.ibb.istanbul/News/Detail/37911"
+      },
+      {
+        "ad": "Tarım ve Orman Bakanlığı, gıda işletmelerinde kayıt ve onay",
+        "url": "https://www.tarimorman.gov.tr/Konular/Gida-Ve-Yem-Hizmetleri/Gida-Hizmetleri/Kayit-Onay"
+      },
+      {
+        "ad": "İstanbul İl Tarım Müdürlüğü, perakende işletmelerin kayıt işlemleri",
+        "url": "https://istanbul.tarimorman.gov.tr/Belgeler/SolMenu/Subeler/GidaYem/03-1_DepoPerakendeveTopluTuketimYerleriKayitIslemleri_20160112.pdf"
+      },
+      {
+        "ad": "İçişleri Bakanlığı, siber dolandırıcılık operasyonu duyurusu",
+        "url": "https://icisleri.gov.tr/sibergoz-49-operasyonlarinda-hesaplarinda-3-milyar-750-milyon-tl-islem-hacmi-bulunan-110-supheli-yakalandi"
+      },
+      {
+        "ad": "Evde paketleme vaadiyle dolandırıcılık şikayetleri",
+        "url": "https://www.dunya.com/gundem/evde-paketleme-vaadiyle-dolandiricilikta-sikayetler-33-bini-asti-haberi-773981"
+      },
+      {
+        "ad": "İŞKUR, iş arayandan ücret alınamaz kuralı",
+        "url": "https://www.iskur.gov.tr/sikca-sorulan-sorular/ozel-istihdam-burolari/"
+      },
+      {
+        "ad": "İŞKUR, kişisel bilgilerinizi paylaşmayın uyarısı",
+        "url": "https://www.iskur.gov.tr/haberler/bakanimiz-selcuk-tan-onemli-uyari-guvenliginiz-icin-kisisel-bilgilerinizi-paylasmayin/"
+      }
+    ]
   }
 ]
