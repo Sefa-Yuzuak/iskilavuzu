@@ -1,0 +1,39 @@
+name: Coolify deploy
+
+# Coolify'in manual webhook'u push'a 200 doner ama deploy tetiklemez (ankaradacocuk'ta
+# olculdu). Tek guvenilir yol deploy API'sini force=true ile cagirmak.
+#
+# Secret'lar (Settings -> Secrets and variables -> Actions):
+#   COOLIFY_DEPLOY_URL = https://coolify.polyazilim.com/api/v1/deploy?uuid=...
+#   COOLIFY_TOKEN      = Coolify API token (Keys & Tokens)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Coolify deploy API'sini cagir
+        env:
+          DEPLOY_URL: ${{ secrets.COOLIFY_DEPLOY_URL }}
+          TOKEN: ${{ secrets.COOLIFY_TOKEN }}
+        run: |
+          if [ -z "$DEPLOY_URL" ] || [ -z "$TOKEN" ]; then
+            echo "::error::COOLIFY_DEPLOY_URL ve/veya COOLIFY_TOKEN secret'i eksik."
+            exit 1
+          fi
+          case "$DEPLOY_URL" in
+            *force=*) URL="$DEPLOY_URL" ;;
+            *\?*)     URL="$DEPLOY_URL&force=true" ;;
+            *)        URL="$DEPLOY_URL?force=true" ;;
+          esac
+          code=$(curl -sS -o /tmp/y.txt -w "%{http_code}" -X POST "$URL" -H "Authorization: Bearer $TOKEN")
+          echo "HTTP $code"; cat /tmp/y.txt; echo ""
+          case "$code" in
+            2*) echo "Deploy tetiklendi" ;;
+            401) echo "::error::401 - token gecersiz. Coolify -> Keys & Tokens'tan yeni token uret."; exit 1 ;;
+            *)  echo "::error::Beklenmeyen yanit (HTTP $code)"; exit 1 ;;
+          esac
