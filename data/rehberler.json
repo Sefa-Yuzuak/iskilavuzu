@@ -1921,5 +1921,1606 @@
         "url": "https://anbeankampus.co/ilanlar/mt-programi/"
       }
     ]
+  },
+  {
+    "slug": "ek-gelir-yollari-saat-basina-getiri",
+    "alan": "ek-gelir",
+    "baslik": "Ek gelir yolları: saat başına gerçek getiri hesabı",
+    "ozet": "Her ek gelir yolunu tek bir ölçütle test ediyoruz: saat başına ne bırakıyor. Komisyonlar, kesintiler ve vergiyle birlikte gerçek rakamlar.",
+    "cevap": "2026 net asgari ücret saat başına 124,78 liraya denk geliyor. Bir ek gelir yolu, bütün kesintiler düştükten sonra bunu bırakmıyorsa asgari ücretin altında çalışıyorsunuz demektir. Üstelik bu eşik sigortalı ve izinli bir işin karşılığı; ek gelirde bunların hiçbiri yok, yani gerçek eşik daha yüksek.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "baslik",
+        "metin": "Ölçüt: saat başına 124,78 lira"
+      },
+      {
+        "tur": "metin",
+        "metin": "2026 asgari ücret brüt 33.030 lira, net 28.075 lira (1). Yasal aylık çalışma süresi 225 saat. Buradan net saatlik karşılık çıkıyor: 124,78 lira."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu rehberin tek ölçütü bu. Bir ek gelir yolu, bütün kesintiler ve giderler düşüldükten sonra saat başına 124,78 lira bırakmıyorsa, asgari ücretin altında kalıyor demektir."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Kritik nokta: bu eşik sigortalı, yıllık izinli, kıdem tazminatlı bir işin karşılığı. Ek gelir yollarının hiçbirinde bunlar yok. Yani gerçek eşik pratikte daha yüksek."
+      },
+      {
+        "tur": "metin",
+        "metin": "Sermaye gerektiren yollarda ikinci bir eşik var: yıllık enflasyon yüzde 31,51 (2). Parayı bankada tutmaktan daha az kazandıran bir yatırım, zarardır."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Freelance dijital işler"
+      },
+      {
+        "tur": "metin",
+        "metin": "Komisyon, brüt fiyatın ne kadarının size kaldığını belirliyor."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Platform",
+          "Komisyon",
+          "Para çekme"
+        ],
+        "satirlar": [
+          [
+            "Bionluk",
+            "%20, Akbank hesabıyla %18",
+            "Yerel banka, TL"
+          ],
+          [
+            "Upwork",
+            "Sözleşmeye göre %0 ile %15",
+            "Yerel bankaya 0,99 dolar"
+          ],
+          [
+            "Fiverr",
+            "%20 sabit",
+            "Payoneer 1-3 dolar, üstüne kur farkı"
+          ],
+          [
+            "Armut",
+            "Teklif başına bakiye düşüyor",
+            "İş alınmasa bile ödeniyor"
+          ]
+        ],
+        "not": "Bionluk'ta 69,90 lira tek seferlik giriş ücreti var. Upwork'ün eski sabit yüzde 10 komisyonu 2025'te kaldırıldı (3, 4, 5, 6)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Armut'un modeli diğerlerinden yapısal olarak farklı ve saat başına getiri hesabını bozuyor. Ücret satıştan değil, teklif verme anında kesiliyor. Yani kazanmadığınız işler için de ödüyorsunuz (6)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Saat başına çevirelim. Bionluk'ta 1.000 liralık bir iş, yüzde 20 komisyon sonrası 800 lira bırakıyor. Asgari ücreti geçmesi için işin 6,4 saatten kısa sürmesi gerekiyor. Fiverr'da 100 dolarlık bir iş, komisyon ve para çekme kesintisiyle yaklaşık 77 dolara iniyor (5)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Tipik iş fiyatları için güvenilir kamu verisi bulunamadı. Platformlar ortalama sipariş tutarı yayımlamıyor. Blog sitelerindeki ortalama kazanç rakamları kaynaksız, bu yüzden buraya alınmadı."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kurye ve motokurye"
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu alandaki bütün rakamlar iş ilanı sitelerinden geliyor, platformların yayımlanmış resmî tarifesi yok. Aşağıdakiler düşük güvenilirlikle veriliyor (7)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Platform",
+          "Paket başına"
+        ],
+        "satirlar": [
+          [
+            "Yemeksepeti, İstanbul",
+            "65-92 TL"
+          ],
+          [
+            "Yemeksepeti, büyük iller",
+            "55-78 TL"
+          ],
+          [
+            "Yemeksepeti, diğer iller",
+            "46-66 TL"
+          ],
+          [
+            "Getir, kendi motoruyla",
+            "İlk sipariş 88 TL, sonrakiler 60,50 TL"
+          ],
+          [
+            "Getir, şirket motoruyla",
+            "68 TL ve 47 TL"
+          ],
+          [
+            "Trendyol Go",
+            "Gündüz 64,50 TL, gece 92 TL"
+          ]
+        ],
+        "not": "İş ilanı verisi, resmî tarife değil (7)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "En önemli uyarı: bu rakamların hiçbiri net kazanç değil, ciro. Yakıt, bakım, lastik, sigorta, motorlu taşıtlar vergisi, motosikletin yıpranması ve Bağ-Kur primi bu tutarlardan düşülmemiş. Kendi motoruyla çalışan bu giderlerin tamamını üstleniyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "İlan sitelerindeki yüksek aylık toplamlar da 13 ile 14 saatlik günlere dayanıyor, 225 saatlik yasal aya değil (7). Saat başına gerçek net getiri, gider verisi olmadan hesaplanamıyor. Bu konuda güvenilir veri yok."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Satış: ikinci el ve el yapımı"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kanal",
+          "Kesinti"
+        ],
+        "satirlar": [
+          [
+            "Dolap",
+            "%15 komisyon, 250 TL üstünde kargo satıcıda"
+          ],
+          [
+            "Sahibinden",
+            "Komisyon yok, kategoriye göre ücretsiz ilan hakkı"
+          ],
+          [
+            "Etsy",
+            "0,20 dolar ilan + %6,5 işlem + ödeme ücreti"
+          ]
+        ],
+        "not": "Dolap'ta 10.000 lira ve üzeri satışta sabit 1.800 lira kesinti var. Etsy'de isteğe bağlı reklam yüzde 15 daha ekliyor (8, 9, 10)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kritik ayrım şu: Dolap komisyon alıyor, Sahibinden almıyor. Dört bin liralık bir üründe Dolap'ta yaklaşık 600 lira komisyon artı kargo gidiyor, Sahibinden'de ilan ücreti dışında kesinti yok."
+      },
+      {
+        "tur": "uyari",
+        "metin": "İkinci elde saat başına getiri yanıltıcı biçimde yüksek görünüyor, çünkü ürünün alış maliyeti hesaba katılmıyor. Evdeki eşyayı satmak gelir değil, varlığı nakde çevirmektir. Tekrarlanamaz."
+      },
+      {
+        "tur": "baslik",
+        "metin": "İçerik üretimi"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kesin olanlar şunlar. YouTube ortaklık programına girmek için bin abone ve son on iki ayda dört bin geçerli izlenme saati gerekiyor. Alternatif yol bin abone ve son doksan günde on milyon kısa video izlenmesi (11). Reklam geliri ödeme eşiği Türk lirası için 200 lira (12)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Türkiye'de bin gösterim başına içerik üreticisine ne kaldığına dair birincil ve doğrulanabilir kaynak yok. Dolaşan rakamlar 20 lira ile 139 lira arasında değişiyor ve hiçbiri birincil kaynağa dayanmıyor (13). Bu yüzden buraya rakam yazmadık."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kesin olan tek yapısal kural şu: YouTube reklam gelirinin yüzde 55'ini üreticiye veriyor. Yani üreticiye kalan tutar her zaman reklamverenin ödediğinin belirgin biçimde altında."
+      },
+      {
+        "tur": "uyari",
+        "metin": "İçerik üretiminde asıl mesele eşik değil zaman. Dört bin saatlik izlenmeye ulaşana kadar geçen ayların saat başına getirisi sıfır. Bu, hiçbir kırk fikir listesinin yazmadığı gerçek."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Pasif gelir masalını sayılarla test edelim"
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Mevduat"
+      },
+      {
+        "tur": "metin",
+        "metin": "Ağustos 2026 başında üç aya kadar vadeli mevduatın ağırlıklı ortalama faizi yüzde 47,99 (14). Altı aya kadar vadelerde stopaj yüzde 17,50 (15). Yıllık enflasyon yüzde 31,51 (2)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Adım",
+          "Sonuç"
+        ],
+        "satirlar": [
+          [
+            "Brüt faiz",
+            "%47,99"
+          ],
+          [
+            "Stopaj sonrası net faiz",
+            "%39,59"
+          ],
+          [
+            "Enflasyon",
+            "%31,51"
+          ],
+          [
+            "Reel getiri",
+            "%6,14"
+          ]
+        ],
+        "not": "Reel getiri, satın alma gücü cinsinden gerçek kazanç."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yani 100.000 lira, bir yılda satın alma gücü olarak yaklaşık 6.140 lira kazandırıyor. Ayda 512 lira. Bu, net asgari ücretin yüzde 1,8'i."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Asgari ücrete denk bir pasif gelir için, bu koşullarda kabaca 5,5 milyon lira sermaye gerekiyor. Uzun vadede stopaj düşüyor ama faiz oranı da düşme eğiliminde; temmuzdan ağustosa bir ayda 1,51 puan geriledi (14)."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Kira"
+      },
+      {
+        "tur": "metin",
+        "metin": "Konut kiralarında yasal azami artış oranı on iki aylık tüketici fiyat endeksi ortalaması. Eylül 2026 için yüzde 31,79 (16). Yıllık enflasyon ise yüzde 31,51 (2)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yani kira, tanımı gereği enflasyona ancak eşlik ediyor, onu geçemiyor. Üstelik bu hesap boş kalan aylar, tadilat, emlak vergisi ve gelir vergisi düşülmeden önceki hâli. Kira gelirinde 2026 mesken istisnası 58.000 lira (17)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Buradan çıkan sonuç net: pasif gelir sermayenin fonksiyonu, yöntemin değil. Sermayeniz yoksa pasif gelir de yok. Size bunun tersini söyleyen içerik bir şey satıyordur."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Anket ve uygulama geliri"
+      },
+      {
+        "tur": "metin",
+        "metin": "Türkiye'deki anket sitelerinin gerçek saatlik getirisi için güvenilir veri yok. Ayda şu kadar dolar tipi ifadeler kaynaksız blog iddiaları (18), bu yüzden buraya alınmadı."
+      },
+      {
+        "tur": "metin",
+        "metin": "Elimizdeki tek sağlam referans, akademik araştırma platformu Prolific'in araştırmacılara dayattığı asgari ödeme kuralı: saatte en az 8 dolar, tavsiye edilen 12 dolar. Platform bu oranı katılımcıların gerçek tamamlama süresine göre hesaplıyor ve altında kalan çalışmaları askıya alıyor (19)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Asıl bulgu şu: anket sektörünün küresel etik tabanı bile saatte 8 dolar ve bu taban zorunlu kılınmak zorunda kalınmış. Çünkü doğal seviye daha düşük. Kural uygulamayan platformlarda saat başına getirinin asgari ücret eşiğini geçtiğine dair hiçbir kanıt bulunamadı."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Vergi tarafı"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "2026 tutarı"
+        ],
+        "satirlar": [
+          [
+            "Arızi kazanç istisnası",
+            "350.000 TL"
+          ],
+          [
+            "Mesken kira geliri istisnası",
+            "58.000 TL"
+          ],
+          [
+            "Menkul ve gayrimenkul sermaye iradı beyan sınırı",
+            "22.000 TL"
+          ],
+          [
+            "Değer artışı kazancı istisnası",
+            "150.000 TL"
+          ],
+          [
+            "İçerik üreticiliği istisnası",
+            "5.300.000 TL"
+          ]
+        ],
+        "not": "Kaynak: 2026 gelir vergisi had ve tutarları (17, 21)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Arızi kazanç, süreklilik taşımayan işlerden elde edilen kazanç. 350.000 liraya kadar istisna (17). Ama freelance işi düzenli yapıyorsanız bu arızi kazanç sayılmıyor, mükellefiyet açtırmanız gerekiyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Pazaryerlerinde satış yapıyorsanız ayrıca yüzde 1 e-ticaret stopajı kesiliyor. Bu, platform komisyonundan ayrı bir kesinti ve 1 Ocak 2025'ten beri yürürlükte (20)."
+      },
+      {
+        "tur": "metin",
+        "metin": "İçerik üreticileri için özel bir rejim var ve ek gelir yolları içindeki en avantajlı vergi düzenlemesi bu. 2026'da 5.300.000 liraya kadar kazanç, Türkiye'de kurulu bir bankadaki özel hesaptan tahsil edilmesi şartıyla yüzde 15 nihai stopajla vergileniyor ve beyanname gerekmiyor (21)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Hepsini yan yana koyalım"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Yol",
+          "Sermaye",
+          "Zaman",
+          "Eşiği geçer mi?"
+        ],
+        "satirlar": [
+          [
+            "Freelance, Bionluk ve Fiverr",
+            "Düşük",
+            "Yüksek",
+            "Beceriye bağlı, 1.000 TL'lik iş 6,4 saati aşarsa hayır"
+          ],
+          [
+            "Freelance, Upwork",
+            "Düşük",
+            "Yüksek",
+            "Komisyon daha düşük, aynı hesap"
+          ],
+          [
+            "Armut",
+            "Ön ödeme",
+            "Orta",
+            "Hesaplanamıyor, kayıp teklifler getiriyi bilinmez kılıyor"
+          ],
+          [
+            "Kurye",
+            "Motosiklet ve giderler",
+            "Çok yüksek",
+            "Güvenilir veri yok, rakamlar ciro"
+          ],
+          [
+            "İkinci el, Dolap",
+            "Ürün",
+            "Orta",
+            "Ev eşyası satışı tekrarlanamaz"
+          ],
+          [
+            "İkinci el, Sahibinden",
+            "Ürün",
+            "Orta",
+            "Kesinti açısından en avantajlı"
+          ],
+          [
+            "El yapımı, Etsy",
+            "Malzeme",
+            "Yüksek",
+            "Üretim süresi hesaba katılmalı"
+          ],
+          [
+            "İçerik üretimi",
+            "Düşük",
+            "Çok yüksek",
+            "Eşiğe kadar sıfır, sonrası için veri yok"
+          ],
+          [
+            "Mevduat",
+            "Çok yüksek",
+            "Sıfır",
+            "Reel yüzde 6,14 yıllık"
+          ],
+          [
+            "Kira",
+            "Çok yüksek",
+            "Düşük",
+            "Enflasyonu geçmiyor"
+          ],
+          [
+            "Anket",
+            "Yok",
+            "Orta",
+            "Neredeyse kesinlikle hayır"
+          ]
+        ]
+      }
+    ],
+    "sss": [
+      {
+        "s": "Ek gelirim için beyanname vermem gerekir mi?",
+        "c": "Duruma göre. Süreklilik taşımayan arızi kazançta 2026 istisnası 350.000 lira. Ama işi düzenli yapıyorsanız arızi sayılmıyor ve mükellefiyet gerekiyor. Kira gelirinde mesken istisnası 58.000 lira."
+      },
+      {
+        "s": "Bionluk'ta 1.000 liralık iş aldım, elime ne geçer?",
+        "c": "Yüzde 20 komisyonla 800 lira. Bu işi 6,4 saatten uzun sürede yaparsanız asgari ücretin altında çalışmış olursunuz."
+      },
+      {
+        "s": "Kurye olmak asgari ücretten çok mu kazandırır?",
+        "c": "İlan sitelerindeki yüksek aylık rakamlar 13-14 saatlik günlere ve giderler düşülmemiş ciroya dayanıyor. Yakıt, bakım, sigorta ve Bağ-Kur düşüldükten sonraki net getiri için güvenilir kamu verisi yok."
+      },
+      {
+        "s": "YouTube'da bin izlenme kaç lira?",
+        "c": "Dürüst cevap: doğrulanabilir kaynak yok. Dolaşan rakamlar 20 lira ile 139 lira arasında değişiyor ve hiçbiri birincil kaynağa dayanmıyor. Kesin olan tek şey, YouTube'un reklam gelirinin yüzde 55'ini üreticiye vermesi."
+      },
+      {
+        "s": "Parayı bankada tutmak pasif gelir sayılır mı?",
+        "c": "Sayılır ama ölçeği küçük. Yüzde 47,99 faiz, yüzde 17,5 stopaj ve yüzde 31,51 enflasyonla reel getiri yıllık yüzde 6,14. Yüz bin lira ayda yaklaşık 512 lira reel kazandırıyor, net asgari ücretin yüzde 1,8'i."
+      },
+      {
+        "s": "Ne kadar sermayeyle asgari ücret kadar pasif gelir olur?",
+        "c": "Bugünkü faiz ve enflasyonla, reel bazda kabaca 5,5 milyon lira. Nominal gelirle yetinirseniz daha az, ama o zaman anaparanız enflasyona eriyor."
+      },
+      {
+        "s": "İçerik üretiminin vergi avantajı var mı?",
+        "c": "Evet, en belirgin olanı. 2026 için 5.300.000 liraya kadar kazanç, bankadaki özel hesaptan yüzde 15 nihai stopajla vergileniyor ve beyanname gerekmiyor."
+      },
+      {
+        "s": "Pazaryerinde satış yaparsam ekstra vergi var mı?",
+        "c": "Evet. Platformlar ödemelerinizden yüzde 1 e-ticaret stopajı kesiyor. Bu platform komisyonundan ayrı bir kesinti ve yıllık beyannamede mahsup ediliyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "EY Türkiye, 2026 yılı asgari ücreti",
+        "url": "https://www.ey.com/tr_tr/insights/tax/2026-asgari-ucret"
+      },
+      {
+        "ad": "Alomaliye, tüketici fiyat endeksi Ağustos 2026",
+        "url": "https://www.alomaliye.com/2026/09/03/enflasyon-rakamlari-tufe-agustos-2026/"
+      },
+      {
+        "ad": "Bionluk komisyon oranları, ikincil kaynak",
+        "url": "https://enssoft.com.tr/blog/bionluk-komisyon-oranlari"
+      },
+      {
+        "ad": "Upwork hizmet ücreti 2026, ikincil kaynak",
+        "url": "https://freelancercalculator.com/upwork-service-fee-2026-official-guide/"
+      },
+      {
+        "ad": "Fiverr satıcı ücretleri 2026, ikincil kaynak",
+        "url": "https://vaultleap.com/blog/fiverr-fees-explained-2026"
+      },
+      {
+        "ad": "Armut, teklif verme süreci",
+        "url": "https://info.armut.com/teklif-verme-sureci"
+      },
+      {
+        "ad": "Eleman.net, kurye ücretleri, iş ilanı verisi",
+        "url": "https://www.eleman.net/is-rehberi/maaslar-ve-ucretler/yemeksepeti-kuryesi-ne-kadar-kazaniyor-2024-yeni-ucretler-h2667"
+      },
+      {
+        "ad": "Dolap komisyon hesaplama, ikincil kaynak",
+        "url": "https://www.ucretkac.com.tr/ikinci-el-komisyon"
+      },
+      {
+        "ad": "Sahibinden yardım, hesap ve ilan ücretleri",
+        "url": "https://yardim.sahibinden.com/hc/tr/articles/115004690434"
+      },
+      {
+        "ad": "Etsy ücretleri 2026",
+        "url": "https://printify.com/blog/how-much-does-etsy-take-per-sale/"
+      },
+      {
+        "ad": "Google, YouTube iş ortağı programı uygunluk şartları",
+        "url": "https://support.google.com/adsense/answer/72851?hl=tr"
+      },
+      {
+        "ad": "Google AdSense, ödeme eşikleri",
+        "url": "https://support.google.com/adsense/answer/1709871?hl=tr"
+      },
+      {
+        "ad": "YouTube izlenme başına gelir tartışması, çelişkili ikincil kaynak",
+        "url": "https://dijipedya.com/youtube-1000-izlenme-kac-tl-veriyor-2026-guncel-kazanc-rehberi/"
+      },
+      {
+        "ad": "Merkez Bankası haftalık ağırlıklı ortalama mevduat faizi",
+        "url": "https://ekonomi365.com.tr/para-piyasalari/mevduat-faizleri.html"
+      },
+      {
+        "ad": "Yapı Kredi, mevduat stopaj oranları",
+        "url": "https://www.yapikredi.com.tr/bireysel-bankacilik/mevduat-urunleri/mevduat-stopaj-oranlari"
+      },
+      {
+        "ad": "Eylül 2026 kira artış oranı",
+        "url": "https://ayboga.av.tr/kira-artis-orani/"
+      },
+      {
+        "ad": "KPMG, 2026 gelir vergisi had ve tutarları",
+        "url": "https://kpmgvergi.com/yayinlar/mali-bultenler/vergi/2026-yili-gelir-vergisi-dilimleri-ile-dikkate-alinacak-bazi-had-ve-tutarlar-belirlendi/3351"
+      },
+      {
+        "ad": "Anket siteleri kazanç iddiaları, kaynaksız, kullanılmadı",
+        "url": "https://www.vepara.com.tr/anket-doldurarak-para-kazanma/"
+      },
+      {
+        "ad": "Prolific, araştırmacılar için ödeme ilkeleri",
+        "url": "https://researcher-help.prolific.com/en/articles/445230-prolific-s-payment-principles"
+      },
+      {
+        "ad": "KPMG, e-ticarette stopaj oranı",
+        "url": "https://kpmgvergi.com/yayinlar/mali-bultenler/vergi/9284-sayili-cumhurbaskani-karari-ile-elektronik-ticarette-uygulanacak-stopaj-orani-1-olarak-belirlendi/2892"
+      },
+      {
+        "ad": "Sosyal içerik üreticiliği vergi istisnası 2026",
+        "url": "https://www.fatiharas.com/gvk-madde-mukerrer-20-b-sosyal-icerik-ureticiligi-istisnasi/"
+      }
+    ]
+  },
+  {
+    "slug": "part-time-calisma-haklar-ve-ucret",
+    "alan": "part-time",
+    "baslik": "Part time çalışma: hakların ve gerçek ücretin",
+    "ozet": "Kısmi süreli çalışmanın yasal sınırı, sigorta primi, saatlik ücret hesabı, yıllık izin ve kıdem hakkı. Bir de kimsenin yazmadığı emeklilik aritmetiği.",
+    "cevap": "Part time çalışmanın yasal sınırı haftada 30 saat. Bu sınırı aşan sözleşme fiilen tam süreliye döner. Kısmi süreli çalışana fazla mesai yaptırılması yönetmelikle yasak. Yıllık izin gün sayısı orantılanmaz, tam süreliyle aynıdır. Kaybettiğiniz tek şey ücretin miktarı, hakların kendisi değil.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "baslik",
+        "metin": "Kısmi süreli sözleşme nedir, sınırı nerede?"
+      },
+      {
+        "tur": "metin",
+        "metin": "İş Kanunu'nun 13. maddesine göre, işçinin haftalık çalışma süresi tam süreli emsal işçiye göre önemli ölçüde azsa sözleşme kısmi süreli sayılıyor. Aynı madde iki güvence veriyor: işçi salt sözleşmesi kısmi süreli olduğu için farklı işleme tabi tutulamıyor, ücret ve paraya ilişkin haklar çalıştığı süreye orantılı ödeniyor (1)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Sınır net: yönetmelik, tam süreli çalışmanın üçte ikisine kadar olan çalışmayı kısmi süreli sayıyor (2). Haftalık yasal süre 45 saat olduğuna göre pratik sınır haftada 30 saat. Haftada 30 saati aşan bir part time sözleşme fiilen tam süreli çalışmaya dönüyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Çağrı üzerine çalışma ayrı bir tür. Sözleşmede haftalık süre belirlenmemişse 20 saat kararlaştırılmış sayılıyor. İşveren işçiyi en az dört gün önce çağırmak ve her çağrıda en az dört saat üst üste çalıştırmak zorunda. İşçi çağrılsın ya da çağrılmasın kararlaştırılan sürenin ücretine hak kazanıyor (1)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sigorta: en çok atlanan konu"
+      },
+      {
+        "tur": "metin",
+        "metin": "Part time çalışanın primi saat üzerinden hesaplanıyor. Ay içindeki toplam çalışma saati, günlük olağan süre olan 7,5 saate bölünüyor ve küsurat bir güne tamamlanıyor. Kalan günler kısmi istihdam koduyla eksik gün olarak bildiriliyor (3, 6)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bunun iki somut sonucu var. Sağlık tarafında: sağlık hizmetinden yararlanmak için başvurudan önceki son bir yıl içinde toplam 30 gün prim gerekiyor (4). Ayda dört sekiz gün primle çalışan biri bu eşiği yıl içinde doldurabilir, ama düzensiz çalışıyorsa sağlık hakkı kesintiye uğrayabilir. Emeklilik tarafında ise eksik günler gün sayısına yazılmıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Eksik günler isteğe bağlı sigortayla tamamlanabiliyor. 2026'da isteğe bağlı prim oranı yüzde 33 ve asgari kazanç beyanıyla aylık tutar 10.899,90 lira (5). Kısmi süreli çalışıp eksik gününü otuza tamamlayanlar işsizlik sigortası kapsamına da girdiği için oran yüzde 36'ya çıkıyor (7)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Ücret nasıl hesaplanıyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "2026 asgari ücret brüt 33.030 lira, net 28.075 lira, günlük brüt 1.101 lira (8, 9). Saatlik brüt, günlük tutarın 7,5'e bölünmesiyle 146,80 lira çıkıyor. Part time ücreti bu saatlik tutarla çarpılıyor."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Aylık çalışma saati",
+          "Bildirilen prim günü",
+          "Brüt ücret"
+        ],
+        "satirlar": [
+          [
+            "60 saat",
+            "8 gün",
+            "8.808 TL"
+          ],
+          [
+            "90 saat",
+            "12 gün",
+            "13.212 TL"
+          ],
+          [
+            "120 saat",
+            "16 gün",
+            "17.616 TL"
+          ],
+          [
+            "150 saat",
+            "20 gün",
+            "22.020 TL"
+          ],
+          [
+            "225 saat, tam süreli",
+            "30 gün",
+            "33.030 TL"
+          ]
+        ],
+        "not": "Asgari ücret düzeyinde hesaplanmıştır. Prim günü, sosyal güvenlik kurumunun kendi bölme kuralıyla bulundu (3, 8)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Fazla mesai konusunda bilinen yanlış: yönetmelik, kısmi süreli iş sözleşmesiyle çalışan işçiye fazla çalışma ve fazla sürelerle çalışma yaptırılamayacağını açıkça düzenliyor (10). Yani bugün üç saat fazladan kal talebi hukuken part time sözleşmenin dışında. Düzenli aşım hâlinde çalışma tam süreliye dönüyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Hangi hakları kaybetmiyorsunuz?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kaybettiğiniz tek şey ücretin miktarı. Hakların kendisi değil."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Hak",
+          "Part time çalışandaki durumu"
+        ],
+        "satirlar": [
+          [
+            "Yıllık ücretli izin",
+            "Tam süreliyle aynı gün sayısı, orantılanmıyor"
+          ],
+          [
+            "Kıdem tazminatı",
+            "Bir yıl kıdemle hak doğuyor, son ücret üzerinden"
+          ],
+          [
+            "İhbar süresi",
+            "Kanundaki süreler aynen uygulanıyor"
+          ],
+          [
+            "Hafta tatili ücreti",
+            "Sözleşmedeki günlük saat üzerinden ödeniyor"
+          ],
+          [
+            "Resmî tatil",
+            "İzin süresinden sayılmıyor, ücret hakkı korunuyor"
+          ]
+        ],
+        "not": "Kaynak: İş Kanunu ve Yargıtay kararları (1, 11, 12)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yıllık izin süreleri kıdeme göre değişiyor: bir ile beş yıl arası 14 gün, beş ile on beş yıl arası 20 gün, on beş yıl ve üzeri 26 gün. On sekiz yaşından küçükler ve elli yaş üstü için en az 20 gün (11)."
+      },
+      {
+        "tur": "metin",
+        "metin": "İhbar süreleri de kıdeme bağlı: altı aydan az çalışmada iki hafta, altı ay ile bir buçuk yıl arası dört hafta, bir buçuk ile üç yıl arası altı hafta, üç yıldan fazlasında sekiz hafta (1)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Hafta tatilinde Yargıtay 2020'de görüş değiştirdi. Belirlenen iş günlerinde mesaisini tamamlayan kısmi süreli işçiye hafta tatili ücreti ödenmesi gerektiği kabul edildi (11). Eski kararlara dayanarak bu ücreti ödemeyen işverene karşı elinizde güncel içtihat var."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Öğrenci çalışması"
+      },
+      {
+        "tur": "metin",
+        "metin": "Çalıştırma yaşı kural olarak 15. On dört yaşını bitirmiş ve ilköğretimini tamamlamış çocuklar yalnızca hafif işlerde çalışabiliyor (1)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Durum",
+          "Azami çalışma süresi"
+        ],
+        "satirlar": [
+          [
+            "Okula gitmeyen, temel eğitimi tamamlamış çocuk",
+            "Günde 7, haftada 35 saat"
+          ],
+          [
+            "15 yaşını tamamlamış",
+            "Günde 8, haftada 40 saat"
+          ],
+          [
+            "Okula devam eden çocuk",
+            "Eğitim saatleri dışında günde 2, haftada 10 saat"
+          ]
+        ],
+        "not": "Gece çalıştırma yasak. Ara dinlenme iki ile dört saatlik işlerde 30 dakika, dört ile 7,5 saatlik işlerde bir saat (13)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Staj sigortası tam sigorta değil. Stajyerler için yalnızca iş kazası ve meslek hastalığı primi ile genel sağlık sigortası yatıyor. Malullük, yaşlılık ve ölüm primi ödenmediği için staj süresi emeklilik gün sayısına sayılmıyor (14)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Aile üzerinden sağlık hakkında: on sekiz yaşını doldurmamış herkes şartsız kapsamda. On sekiz üstü öğrenciler lisede yirmi, yükseköğrenimde yirmi beş yaşına kadar anne baba üzerinden yararlanıyor (15). Sigortalı çalışmaya başlayan kişi bakmakla yükümlü olunan kişi olmaktan çıkıyor, kendi sigortası üzerinden yararlanıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kredi ve yurtlar kurumunun bursu ve öğrenim kredisi ise sigortalı çalışma nedeniyle kesilmiyor. Kesilme sebepleri başarısızlık, kayıt dondurma ve kurumdan ayrılma gibi öğrencilik durumuna bağlı hâller (16)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Emeklilik aritmetiği: gizli maliyet burada"
+      },
+      {
+        "tur": "metin",
+        "metin": "2008 sonrası ilk defa sigortalı olan hizmet akdiyle çalışanlar için yaşlılık aylığı şartı 7.200 prim günü ve kadında 58, erkekte 60 yaş. 5.400 günle kısmi aylık da bağlanabiliyor ama yaş sınırına üç yıl ekleniyor (18)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Aylık prim günü",
+          "7.200 güne ulaşma süresi"
+        ],
+        "satirlar": [
+          [
+            "30 gün, tam süreli",
+            "20 yıl"
+          ],
+          [
+            "15 gün",
+            "40 yıl"
+          ],
+          [
+            "10 gün",
+            "60 yıl"
+          ]
+        ],
+        "not": "Gün sayıları kaynaklı, süreler bu sayılardan hesaplandı (18)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Part time çalışmanın en büyük gizli maliyeti ücret değil, emeklilik takvimi. Ayda on gün primle çalışan biri, tek başına o çalışmayla altmış yılda emekli olabiliyor. Eksik günleri isteğe bağlı sigortayla tamamlamak bu takvimi kısaltmanın tek yasal yolu."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Nerede part time iş var?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Başlıca alanlar: perakendede mağaza satış danışmanlığı, çağrı merkezi, kurye ve kargo, kafe ve restoran servisi, özel ders, fuar ve etkinlik görevlisi."
+      },
+      {
+        "tur": "metin",
+        "metin": "İş kurumu verisine göre 2026 yılının ocak temmuz döneminde 1.414.414 açık iş yayımlanmış ve 847.805 kişinin işe yerleştirilmesine aracılık edilmiş (17)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Dürüst uyarı: iş kurumu, açık işlerin kaçının kısmi süreli olduğuna dair ayrıştırılmış veri yayımlamıyor (17). Özel iş sitelerinin part time filtre sayıları da anlık ve doğrulanamaz. Bu yüzden burada sektör bazlı ilan adedi vermiyoruz."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Part time çalışırsam kıdem tazminatı alabilir miyim?",
+        "c": "Evet. Bir yıllık kıdem ve haklı fesih koşulu sağlanırsa tam süreli işçiyle aynı şekilde hak doğuyor."
+      },
+      {
+        "s": "Yıllık iznim gün sayısı olarak kısalır mı?",
+        "c": "Hayır. İzin günleri orantılanmıyor. Bir ile beş yıl kıdemde 14 gün, tam süreli çalışanla aynı."
+      },
+      {
+        "s": "Haftada 35 saat çalışıyorum ama sözleşmem part time. Sorun var mı?",
+        "c": "Evet. Otuz saat sınırı aşıldığı için çalışma kısmi süreli sayılmıyor, tam süreli hükümleri devreye giriyor."
+      },
+      {
+        "s": "İşveren part time'da fazla mesai ödemiyorum diyor. Doğru mu?",
+        "c": "Yönetmelik zaten kısmi süreli işçiye fazla çalışma yaptırılmasını yasaklıyor. Fazladan çalıştırıldıysanız bu, sözleşmenin niteliğinin tartışılmasını gerektirir. Ücretsiz bırakılması meşru değil."
+      },
+      {
+        "s": "Ayda on gün primle sağlık hizmeti alabilir miyim?",
+        "c": "Son bir yıl içinde toplam otuz gün priminiz varsa evet. Yılda üç ay bile çalışmadıysanız hakkınız askıya giriyor."
+      },
+      {
+        "s": "Eksik günlerimi nasıl tamamlarım?",
+        "c": "İsteğe bağlı sigortalı olarak. 2026'da asgari kazançtan aylık 10.899,90 lira."
+      },
+      {
+        "s": "Stajım emekliliğime sayılır mı?",
+        "c": "Hayır. Stajda emeklilik primi yatmıyor, yalnızca iş kazası ve genel sağlık sigortası primi ödeniyor."
+      },
+      {
+        "s": "Part time çalışırsam bursum kesilir mi?",
+        "c": "Hayır. Kredi ve yurtlar kurumu bursu sigortalı çalışma nedeniyle kesilmiyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "4857 sayılı İş Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4857.pdf"
+      },
+      {
+        "ad": "İş Kanununa İlişkin Çalışma Süreleri Yönetmeliği",
+        "url": "https://mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=5447&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5"
+      },
+      {
+        "ad": "Eksik gün nedeni kısmi istihdam ve prim gün hesabı",
+        "url": "https://www.alomaliye.com/2019/01/29/eksik-gun-nedeni-kismi-istihdam/"
+      },
+      {
+        "ad": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5510.pdf"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, isteğe bağlı sigortalılık 2026",
+        "url": "https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2026-01-12-09-48-59"
+      },
+      {
+        "ad": "PwC Türkiye, kısmi süreli çalışma ve sigorta bildirimi",
+        "url": "https://www.pwc.com.tr/tr/medya/kose-yazilari/celal-ozcan/kismi-sureli-calisma-ve-sgk-bildirim-surecleri.html"
+      },
+      {
+        "ad": "İsteğe bağlı sigorta prim tutarları",
+        "url": "https://www.isvesosyalguvenlik.com/istege-bagli-sigorta-prim-tutarlari/"
+      },
+      {
+        "ad": "2026 asgari ücret tespit komisyonu kararı",
+        "url": "https://www.alomaliye.com/2025/12/26/2026-yili-asgari-ucret-tespit-komisyonu-karari-2025-1/"
+      },
+      {
+        "ad": "Alomaliye, 2026 asgari ücreti ve işverene maliyeti",
+        "url": "https://www.alomaliye.com/2025/12/23/2026-yili-asgari-ucreti-2026-yili-asgari-ucret-bilgilendirme/"
+      },
+      {
+        "ad": "Fazla Çalışma ve Fazla Sürelerle Çalışma Yönetmeliği",
+        "url": "https://www.lexpera.com.tr/mevzuat/yonetmelikler/is-kanununa-iliskin-fazla-calisma-ve-fazla-surelerle-calisma-yonetmeligi"
+      },
+      {
+        "ad": "Kısmi süreli çalışanda hafta tatili ve yıllık izin, Yargıtay kararı",
+        "url": "https://www.mondaq.com/turkey/employee-benefits-compensation/1773926/"
+      },
+      {
+        "ad": "Yargıtay, kısmi süreli çalışmada kıdem ihbar ve yıllık izin alacağı",
+        "url": "https://www.alomaliye.com/2026/05/12/yargitaydan-kismi-sureli-calismada-kidem-ihbar-ve-yillik-izin-alacagina-iliskin-karar/"
+      },
+      {
+        "ad": "Çocuk ve Genç İşçilerin Çalıştırılma Usul ve Esasları Yönetmeliği",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040406.htm"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, çırak ve mesleki eğitim görenlerin sigortalılığı",
+        "url": "https://www.sgk.gov.tr/Content/Post/f6d6392c-52e6-4880-a271-38d22b6c1786/Cirak-ve-Mesleki-Egitim-Gorenlerin-Sigortaliligi-2022-05-15-08-03-43"
+      },
+      {
+        "ad": "Anne baba üzerinden sağlık hizmetinden yararlanma",
+        "url": "https://www.pwc.com.tr/tr/medya/kose-yazilari/celal-ozcan/anne-ve-baba-cocuklari-uzerinden-saglik-hizmetlerinden-nasil-yararlanabilir.html"
+      },
+      {
+        "ad": "İşe giren öğrencinin burs veya kredisi kesilir mi",
+        "url": "https://www.isvesosyalguvenlik.com/ise-giren-ogrencinin-burs-veya-kredisi-kesilir-mi/"
+      },
+      {
+        "ad": "İŞKUR 2026 temmuz ayı istatistik bülteni",
+        "url": "https://www.iskur.gov.tr/haberler/2026-yili-temmuz-ayi-istatistik-bulteni-yayimlandi/"
+      },
+      {
+        "ad": "5510 sayılı Kanun, yaşlılık aylığı şartları",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5510.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "evden-is-ve-dolandiricilik-kaliplari",
+    "alan": "evden-is",
+    "baslik": "Evden iş: gerçek modeller ve dolandırıcılık kalıpları",
+    "ozet": "Evde paketleme ilanlarının neden tuzak olduğu, resmî kurum uyarılarıyla. Gerçekten var olan evden iş modelleri, esnaf muaflığı ve ilan doğrulama kontrol listesi.",
+    "cevap": "Evde paketleme, toka dizme ve boncuk dizme ilanlarının Türkiye'de meşru bir işveren karşılığı yok. Bunlar dolandırıcılık şablonu ve şikayet sayısı 33 bini aşmış durumda. Basit kural şu: gerçek işte para size akar. Kapora, malzeme bedeli, kayıt ücreti ya da iade edilecek transfer isteyen her model tuzaktır.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "baslik",
+        "metin": "Hangi modeller gerçek, hangileri masal?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gerçek olanlar şunlar: uzaktan çağrı merkezi ve müşteri hizmetleri, freelance dijital işler yani çeviri, grafik tasarım, yazılım, sosyal medya yönetimi ve kurgu, online eğitmenlik ve özel ders, evde üretim yapıp kendi kanalından satış, sınırlı ölçüde veri girişi."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Masal olanlar: evde paketleme, sabun paketleme, toka dizme, tükenmez kalem montajı, boncuk dizme. Bu modelin Türkiye'de meşru bir işveren karşılığı fiilen yok, ilanlar dolandırıcılık şablonu (1, 2, 3). Gerçek fason paketleme, gıda ve kozmetik mevzuatı ile hijyen denetimi nedeniyle tescilli tesiste yapılır."
+      },
+      {
+        "tur": "metin",
+        "metin": "Aynı kategoride sayılabilecek diğerleri: sadece telefonla günlük şu kadar kazanç, sermayesiz ithalat ihracat, reklam izleyerek para kazanma."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kritik ayrım tek cümlede: gerçek işte para size akar. Ön ödeme, kapora, malzeme bedeli, kayıt ya da eğitim ücreti veya iade edilecek transfer isteyen her model dolandırıcılıktır."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Dolandırıcılık kalıpları"
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Kişisel veri kurumunun resmî uyarısı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kişisel Verileri Koruma Kurumu, iş vaadi konulu veri ihlallerine ilişkin kamuoyu duyurusunda şablonu birebir tarif ediyor: kişiler sosyal medyadan evde paketleme türü ilanlara başvuruyor, kendilerinden kimlik kartı fotoğrafı ve belirtilen hesap numarasına para gönderip hemen ardından iade işlemi yapılması isteniyor, sonrasında karşı taraf ulaşılamaz oluyor (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kurum, bu fiilin Türk Ceza Kanunu'nun kişisel verilere ilişkin maddeleri kapsamında suç oluşturabileceğini belirtiyor."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Ölçek"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Gösterge",
+          "Veri"
+        ],
+        "satirlar": [
+          [
+            "Toplam şikayet",
+            "33.000'in üzerinde"
+          ],
+          [
+            "Ödeme talebi içeren şikayet",
+            "%60"
+          ],
+          [
+            "Tehdit ve baskı",
+            "%15"
+          ],
+          [
+            "Kimlik bilgisi kötüye kullanımı",
+            "%10"
+          ],
+          [
+            "Ortalama istenen kapora",
+            "550 TL"
+          ],
+          [
+            "Uydurma cayma bedeli talebi",
+            "15.000 ile 300.000 TL arası"
+          ]
+        ],
+        "not": "Şikayet platformu verisi, Nisan 2025 (2)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kolluk boyutu da var. Dokuz ilde otuz iki adreste eşzamanlı yapılan bir operasyonda, elli dört kişiyi evde paketleme vaadiyle dolandıran yirmi dokuz şüpheliden yirmi biri tutuklandı (3)."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Kargo ve gümrük tuzağı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Ticaret Bakanlığı, gönderiniz gümrükte ya da kargonuz teslim edilemedi ek ücret yatırın mesajlarıyla yapılan dolandırıcılığa karşı uyardı ve net bir kural koydu: bakanlık birimleri ve gümrük idareleri vatandaşa e-posta, telefon veya mesajla bildirim yapmaz, hesap numarası veya bağlantı üzerinden ödeme talep etmez (4)."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Para aktarma aracılığı"
+      },
+      {
+        "tur": "uyari",
+        "metin": "Hesabına para gelecek, komisyonunu alıp gerisini şu hesaba gönder teklifi iş değil, suça iştirak. Emniyet, banka hesabı ve kart bilgilerini başkasına kullandırmama konusunda uyarıyor. Hesap sahibi, hesapta gerçekleşen bütün işlemlerden sorumlu tutuluyor ve bu hesaplar dolandırıcılık, yasa dışı bahis ve organize suç finansmanında kullanılabiliyor (5)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Sahte ilan üzerinden kimlik fotoğrafı, hesap numarası, banka şifresi ya da doğrulama kodu istenmesi de aynı ailedendir. Bu verilerle sizin adınıza hesap açılabiliyor, kredi çekilebiliyor. İşe alım güvenliğinin ortak ölçütü şu: güvenilir işveren, başvuru, eğitim, oryantasyon, sözleşme veya kimlik doğrulama karşılığı hiçbir koşulda para talep etmez (18)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Evde üretip satmak yasal olarak nasıl işliyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Evde ürettiğiniz ürünü satmak kural olarak vergi mükellefiyeti doğuruyor. Ancak Gelir Vergisi Kanunu'nun 9. maddesi belirli koşullarda muafiyet tanıyor. Temel şartlar: iş yeri açılmaması, üretimde sanayi tipi ya da seri üretim makinesi kullanılmaması, faaliyetin kendi emeğinize dayanması ve esnaf vergi muafiyeti belgesi alınması (6)."
+      },
+      {
+        "tur": "metin",
+        "metin": "İnternet üzerinden yapılan satışlarda hasılat sınırı, o yılın yıllık brüt asgari ücretine endeksli. 2026'da aylık brüt asgari ücret 33.030 lira olduğuna göre yıllık sınır 396.360 lira (7). Sınır aşılırsa muafiyet kayboluyor ve izleyen yılın başından itibaren mükellefiyet açılıyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Muaf esnaftan mal alan kurumlar tevkifat yapıyor. Havlu, çarşaf, çorap, halı, kilim, dokuma, örgü, dantel, nakış ve turistik eşyada yüzde 2; diğer mal alımlarında yüzde 5; hizmet alımlarında yüzde 10 (8). Bu, ürünün brütünden kesiliyor, kazanç hesabınızda unutmayın."
+      },
+      {
+        "tur": "metin",
+        "metin": "Freelance dijital iş farklı bir rejime tabi. Serbest meslek faaliyeti sürekli hâle geldiğinde vergi dairesine kayıt, serbest meslek makbuzu düzenleme ve Bağ-Kur sigortalılığı zorunlu oluyor. Kurumlara kesilen makbuzlarda yüzde 20 gelir vergisi stopajı uygulanıyor (17)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Freelance platformların komisyonları"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Platform",
+          "Komisyon",
+          "Kaynak niteliği"
+        ],
+        "satirlar": [
+          [
+            "Upwork",
+            "Sözleşme başına %0 ile %15",
+            "Resmî destek sayfası"
+          ],
+          [
+            "Fiverr",
+            "%20, artı para çekme ücreti",
+            "Resmî sayfa erişime kapalı"
+          ],
+          [
+            "Bionluk",
+            "%20 olarak raporlanıyor",
+            "Resmî sayfa doğrulanamadı"
+          ],
+          [
+            "Armut",
+            "Teklif başına, kazanç üzerinden değil",
+            "Yalnızca kullanıcı şikayeti"
+          ]
+        ],
+        "not": "Yalnızca Upwork'ün değişken ücreti resmî sayfadan teyitli (9, 10, 11, 12)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Armut ile diğerleri arasındaki fark önemli: Armut'ta maliyet iş almadan önce doğuyor, yani kazanmadığınız işler için de ödüyorsunuz."
+      },
+      {
+        "tur": "metin",
+        "metin": "Türkiye'den Upwork ve Fiverr kullanmak mümkün. Ödemeler genelde aracı ödeme kuruluşları ya da banka havalesiyle alınıyor ve döviz geliri Türkiye'de beyana tabi."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Gerçekte ne kadar kazanılıyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu konuda dürüst olmak zorundayız: çoğu kalem için resmî kurum verisi yok."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "Rakam",
+          "Kaynak durumu"
+        ],
+        "satirlar": [
+          [
+            "Çeviri, İngilizce Türkçe",
+            "Sayfa 815 TL, kelime 3,5 TL",
+            "Meslek örgütü tarifesi"
+          ],
+          [
+            "Ders saati, kamu referansı",
+            "Brüt 194,30 TL",
+            "Milli Eğitim ek ders ücreti"
+          ],
+          [
+            "Asgari ücret",
+            "Brüt 33.030, net 28.075 TL",
+            "Resmî Gazete"
+          ],
+          [
+            "Çağrı merkezi temsilcisi",
+            "36.600 ile 40.700 TL bildiriliyor",
+            "Resmî veri yok, kullanıcı beyanı"
+          ],
+          [
+            "Veri girişi",
+            "40.900 TL bildiriliyor",
+            "Resmî veri yok, kullanıcı beyanı"
+          ],
+          [
+            "Grafik tasarım ve sosyal medya",
+            "—",
+            "Güvenilir veri yok"
+          ],
+          [
+            "Evde üretim",
+            "—",
+            "Güvenilir veri yok"
+          ]
+        ],
+        "not": "Kaynaklar arasında yüzde 11'e varan sapma var (7, 13, 14). Vergisel tavan olan 396.360 lira bir kazanç göstergesi değildir."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bağlam için: Türkiye'de evden çalışma oranı yüzde 3,7, Avrupa Birliği ortalaması yüzde 8,8 (15). Yani herkes evden çalışıyor algısı istatistiksel olarak yanlış."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Uzaktan çalışma mevzuatı ne diyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Uzaktan Çalışma Yönetmeliği 2021'de yürürlüğe girdi (16). Temel hükümler şunlar: sözleşme yazılı yapılıyor; sözleşmede işin tanımı, yapılma şekli, süresi ve yeri, ücret ve ödeme şekli, işverence sağlanan iş araçları, iletişim ile çalışma şartları yer alıyor."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Malzeme ve iş araçlarının işverence sağlanması esas, sözleşmede aksi kararlaştırılmadıkça.",
+          "İşveren veri korumaya ilişkin kurallar hakkında çalışanı bilgilendiriyor ve tedbir alıyor.",
+          "İş sağlığı ve güvenliğinde bilgilendirme, eğitim, sağlık gözetimi ve ekipman güvenliği yükümlülüğü işverende.",
+          "İşin görülmesinin gerektirdiği harcamalar işverene ait."
+        ]
+      },
+      {
+        "tur": "uyari",
+        "metin": "Kritik sonuç: uzaktan çalışan da İş Kanunu kapsamında işçidir. Sigorta bildirimi, ücret bordrosu, kıdem ve ihbar hakları aynen geçerli. Size uzaktansınız, sigorta olmaz diyen bir yapı yasa dışıdır."
+      },
+      {
+        "tur": "baslik",
+        "metin": "İlan doğrulama kontrol listesi"
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "Para talebi var mı?",
+            "metin": "Kapora, malzeme, kargo, eğitim ya da iade edilecek transfer. Tek başına yeterli ret sebebi."
+          },
+          {
+            "baslik": "Firma tüzel kişi olarak var mı?",
+            "metin": "Ticaret sicil kayıtlarından, e-Devlet'ten ve iş kurumundan unvanı ve vergi numarasını doğrulayın."
+          },
+          {
+            "baslik": "Hesap numarası kime ait?",
+            "metin": "Şahıs hesabı kırmızı bayrak. Gerçek işveren şirket hesabından ödeme yapar, tahsilat yapmaz."
+          },
+          {
+            "baslik": "İletişim kanalı ne?",
+            "metin": "Süreç tamamen sosyal medya ve mesajlaşma uygulamasından yürüyorsa, kurumsal e-posta ve sabit telefon yoksa şüphelenin."
+          },
+          {
+            "baslik": "Sözleşme yazılı mı?",
+            "metin": "Uzaktan çalışmada yazılı sözleşme zorunlu. Vermeyen işveren mevzuatı ihlal ediyordur."
+          },
+          {
+            "baslik": "Kimlik fotoğrafı erken mi isteniyor?",
+            "metin": "İşe alım kesinleşmeden kimlik, banka şifresi ya da doğrulama kodu istenmesi suç kapsamına giren veri toplamadır."
+          },
+          {
+            "baslik": "Kazanç vaadi gerçekçi mi?",
+            "metin": "Vasıfsız, sermayesiz ve esnek bir iş için asgari ücretin katları vaat ediliyorsa hikâyedir."
+          },
+          {
+            "baslik": "Hesabına para gelecek deniyor mu?",
+            "metin": "Para aktarma aracılığı iş değil, suç. Teklifi reddedip şikâyet edin."
+          },
+          {
+            "baslik": "Gümrük ya da kargo ödemesi isteniyor mu?",
+            "metin": "Bakanlık bu yolla ödeme istemiyor."
+          },
+          {
+            "baslik": "Arama testi yaptınız mı?",
+            "metin": "Firma adının yanına dolandırıcılık yazıp aratın, şikayet platformlarına bakın."
+          }
+        ]
+      }
+    ],
+    "sss": [
+      {
+        "s": "Evde paketleme işi gerçek mi?",
+        "c": "İnternette dolaşan biçimiyle hayır. Otuz üç bini aşan şikayet, kişisel veri kurumunun duyurusu ve dokuz ilde yapılan tutuklamalı operasyon bu modelin dolandırıcılık şablonu olduğunu gösteriyor."
+      },
+      {
+        "s": "Kapora yatırdım, param geri gelir mi?",
+        "c": "Hemen bankanızı arayıp işlemi bildirin, ardından savcılığa ya da kolluğa suç duyurusunda bulunun. İadesi transferin hızına ve karşı hesabın durumuna bağlı, garanti yok."
+      },
+      {
+        "s": "Kimlik fotoğrafımı gönderdim, ne yapmalıyım?",
+        "c": "e-Devlet'ten adınıza kayıtlı hat, şirket ve kredi sorgulaması yapın. Kişisel veri kurumuna ihbarda bulunun ve savcılığa başvurun."
+      },
+      {
+        "s": "Evde ürettiğim ürünü satmak için şirket kurmam gerekir mi?",
+        "c": "İş yeri açmadan, seri üretim makinesi kullanmadan, kendi emeğinizle üretip 2026'da internet üzerinden 396.360 lirayı aşmayan satış yaparsanız esnaf muaflığından yararlanabilirsiniz. Muafiyet belgesi almanız gerekiyor."
+      },
+      {
+        "s": "Freelance çalışırken sigortam ne olur?",
+        "c": "Serbest meslek faaliyeti sürekli hâle gelince Bağ-Kur sigortalılığı ve prim ödemesi zorunlu oluyor."
+      },
+      {
+        "s": "Uzaktan çalışırken bilgisayarı ben mi almalıyım?",
+        "c": "Hayır. Sözleşmede aksi yazmadıkça malzeme ve iş araçlarını işveren sağlıyor, işin gerektirdiği harcamalar da işverene ait."
+      },
+      {
+        "s": "Yurt dışı platformlarından Türkiye'de çalışabilir miyim?",
+        "c": "Evet. Ama komisyonu ve döviz gelirinin beyan yükümlülüğünü hesaba katın."
+      },
+      {
+        "s": "Hesabına para gelecek, komisyonunu al teklifi ne?",
+        "c": "Para aktarma aracılığı tuzağı. Hesabınızda gerçekleşen bütün işlemlerden siz sorumlu tutulursunuz. Kabul etmeyin."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Kişisel Verileri Koruma Kurumu, iş vaadi konulu veri ihlalleri kamuoyu duyurusu",
+        "url": "https://www.kvkk.gov.tr/Icerik/7095/IS-VAADI-KONULU-TCK-KAPSAMINDAKI-KISISEL-VERI-IHLALLERINE-ILISKIN-KAMUOYU-DUYURUSU"
+      },
+      {
+        "ad": "Evde paketleme vaadiyle dolandırıcılıkta şikayetler 33 bini aştı",
+        "url": "https://www.dunya.com/gundem/evde-paketleme-vaadiyle-dolandiricilikta-sikayetler-33-bini-asti-haberi-773981"
+      },
+      {
+        "ad": "Sosyal medyadaki evde paketleme ilanlarına dikkat, kolluk operasyonu",
+        "url": "https://www.ntv.com.tr/yerel-haberler/kars/sosyal-medyadaki-evde-paketleme-isi-ilanlarina-dikkat-tuzaga-dusuruyorlar-1730337"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, kargo ve posta üzerinden dolandırıcılık uyarısı",
+        "url": "https://ticaret.gov.tr/haberler/izli-kargo-ya-da-posta-yoluyla-gonderilen-esya-konu-edilerek-yapilan-dolandiriciliga-dikkat"
+      },
+      {
+        "ad": "Emniyet uyarısı, hesaplarınızı başkasına kullandırmayın",
+        "url": "https://www.yeniakit.com.tr/haber/emniyetten-vatandaslara-kritik-uyari-hesaplarinizi-baska-birine-kullandirmayin-2014677.html"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, esnaf muaflığı",
+        "url": "https://www.gib.gov.tr/vergi-konulari/2_isletme_ve_girisimci/3_esnaf_muafligi/3"
+      },
+      {
+        "ad": "2026 asgari ücret tespit komisyonu kararı",
+        "url": "https://www.alomaliye.com/2025/12/26/2026-asgari-ucret-karari-2025-1-gunluk-1-101-tl-net-28-075-50-tl/"
+      },
+      {
+        "ad": "İSMMMO, gelir vergisi stopaj oranları",
+        "url": "https://ismmmo.org.tr/Mevzuat/Gelir-Vergisi-Stopaj-Oranlari-GVK-Md-94---421"
+      },
+      {
+        "ad": "Upwork, değişken hizmet ücreti, resmî sayfa",
+        "url": "https://support.upwork.com/hc/en-us/articles/39620058162963-Variable-Freelancer-Service-Fee"
+      },
+      {
+        "ad": "Fiverr ücret yapısı derlemesi",
+        "url": "https://vaultleap.com/blog/fiverr-fees-explained-2026"
+      },
+      {
+        "ad": "Bionluk komisyon oranı, üçüncü taraf",
+        "url": "https://kirebit.com/haber/bionluk-komisyon-orani-ne-kadar/"
+      },
+      {
+        "ad": "Armut komisyon ve teklif ücreti kullanıcı şikayetleri",
+        "url": "https://www.sikayetvar.com/armut/komisyon"
+      },
+      {
+        "ad": "ÇEVBİR çevirmen asgari tarifesi",
+        "url": "https://cevbir.org.tr/tarife"
+      },
+      {
+        "ad": "Milli Eğitim ek ders ücreti 2026",
+        "url": "https://mustafabaysal.com/ek-ders-ucreti-ogretmen/"
+      },
+      {
+        "ad": "Evden çalışma oranları, Eurostat aktarımı",
+        "url": "https://www.dunya.com/ekonomi/evden-calisma-oranlarinda-finlandiya-ilk-sirada-turkiye-sonlarda-haberi-828323"
+      },
+      {
+        "ad": "Uzaktan Çalışma Yönetmeliği",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210310-2.htm"
+      },
+      {
+        "ad": "Freelance çalışanlarda serbest meslek makbuzu ve Bağ-Kur",
+        "url": "https://mukellef.co/blog/freelancer-calisanlar-smm-nasil-keser/"
+      },
+      {
+        "ad": "İşe alım dolandırıcılığı, sahte ilanlar nasıl anlaşılır",
+        "url": "https://www.randstad.com.tr/insan-kaynaklari/trendler/ise-alim-dolandiriciligi-sahte-ilanlari-nasil-anlasilir/"
+      }
+    ]
+  },
+  {
+    "slug": "kpss-ve-kamuda-ise-girme",
+    "alan": "kamuda-is",
+    "baslik": "KPSS ve kamuda işe girme: 2026 takvimi ve yolları",
+    "ozet": "KPSS türleri, 2026 sınav tarihleri ve ücretleri, A ile B grubu farkı, KPSS'siz alım yolları, atama süreci ve memur maaşı. Kılavuzdan doğrulanmış.",
+    "cevap": "KPSS lisans, ön lisans ve ortaöğretim olmak üzere üç düzeyde yapılıyor ve bir aday aynı yıl birden fazla düzeye giremiyor. Sonuçlar iki yıl geçerli. B grubunda yerleştirmeyi merkezî sistem yapıyor ve yerleşen aday mülakatsız atanıyor. A grubunda ise KPSS sadece başvuru barajı, asıl seçim kurumun kendi sınavıyla.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "baslik",
+        "metin": "KPSS nedir, kaç tür var?"
+      },
+      {
+        "tur": "metin",
+        "metin": "KPSS, kamu görevlerine ilk defa atanacaklar için yapılan merkezî seçme sınavı (1). Üç öğrenim düzeyinde uygulanıyor: lisans, ön lisans ve ortaöğretim. Bir aday aynı yıl birden fazla öğrenim düzeyinden sınava giremiyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bütün düzeylerde ortak oturum, 60 soru genel yetenek ve 60 soru genel kültür olmak üzere 120 soru ve 130 dakika (1, 2, 3)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Düzey",
+          "Başvuru",
+          "Sınav",
+          "Ücret"
+        ],
+        "satirlar": [
+          [
+            "Lisans, genel oturum",
+            "1-13 Temmuz 2026",
+            "6 Eylül 2026",
+            "800 TL"
+          ],
+          [
+            "Lisans, alan bilgisi",
+            "1-13 Temmuz 2026",
+            "12-13 Eylül 2026",
+            "Oturum başına 500 TL"
+          ],
+          [
+            "Ön lisans",
+            "29 Temmuz - 10 Ağustos 2026",
+            "4 Ekim 2026",
+            "800 TL"
+          ],
+          [
+            "Ortaöğretim",
+            "27 Ağustos - 8 Eylül 2026",
+            "25 Ekim 2026",
+            "800 TL"
+          ],
+          [
+            "Din hizmetleri",
+            "22-30 Eylül 2026",
+            "1 Kasım 2026",
+            "800 TL"
+          ]
+        ],
+        "not": "Geç başvuru günlerinde ücret yüzde 50 artırımlı ödeniyor (1, 2, 3)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Geçerlilik süresi çok karıştırılıyor. 2026 sonuçları, açıklanmasından itibaren iki yıl geçerli. Bu sürede yeni sınav yapılamazsa, sonuçlar bir sonraki sınavın sonucu açıklanana kadar geçerli kalıyor (1). İnternette dolaşan A grubu puanı bir yıl geçerli bilgisi yanlış."
+      },
+      {
+        "tur": "baslik",
+        "metin": "A grubu ile B grubu farkı"
+      },
+      {
+        "tur": "metin",
+        "metin": "A grubu kadrolar müfettiş yardımcılığı, uzman yardımcılığı ve denetmen yardımcılığı gibi kadrolar. Bu kadrolar için adaylar ilan veren kuruma doğrudan kendisi başvuruyor, merkezî sistem yerleştirme yapmıyor (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "B grubunda ise yerleştirmeyi merkezî sistem yapıyor. Puan, tercih ve kadro sayısı esas alınıyor. Eşit puan durumunda önce mezun olana, o da aynıysa yaşı büyük olana öncelik veriliyor (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "B grubuna yerleşen aday ayrıca sınav veya mülakat yapılmaksızın doğrudan atanıyor. Ancak şartları taşımayan ya da belgelerini süresinde getirmeyenlerin ataması yapılmıyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Yerleştirme dönemleri konusunda yaygın bir yanlış var. Haziran ve kasım diye sabit bir takvim yok. 2026'nın ilk yerleştirmesinde tercihler 9 ile 16 Temmuz arasında alındı, sonuçlar 24 Temmuz'da açıklandı (5, 6). Tarihler her dönem ayrı duyuruluyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Puan türleri"
+      },
+      {
+        "tur": "metin",
+        "metin": "Puan türleri, kılavuzun ikinci tablosunda testlerin ağırlıklandırılmasıyla tanımlanıyor. B grubu niteliğindeki bütün kadrolu ve sözleşmeli personel alımlarında kullanılan puanlar şunlar (1, 2)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Öğrenim düzeyi",
+          "B grubu puan türü"
+        ],
+        "satirlar": [
+          [
+            "Lisans",
+            "KPSSP3"
+          ],
+          [
+            "Ön lisans",
+            "KPSSP93"
+          ],
+          [
+            "Ortaöğretim",
+            "KPSSP94"
+          ]
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "P1 ile P6 arası puanlar yalnızca genel yetenek ve genel kültür testlerinden hesaplanıyor, birbirlerinden ağırlıklandırma bakımından ayrılıyorlar. P7 ile P48 arası ise bunların yanında hukuk, iktisat, işletme, maliye, muhasebe, çalışma ekonomisi, istatistik, kamu yönetimi ve uluslararası ilişkiler testlerinden değişen bileşimlerle hesaplanıyor (1)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Her puan türünün test ağırlık yüzdeleri yalnızca ilgili yılın kılavuzundaki ikinci tabloda bağlayıcı ve üçüncü taraf kaynaklarda tutarsız aktarılıyor. Bu yüzden burada yüzde vermiyoruz. Ağırlıklar için doğrudan kılavuzun tablosuna bakın. Hangi kadronun hangi puan türünü istediği de kurumun kendi ilanında duyuruluyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Alan bilgisi oturumları"
+      },
+      {
+        "tur": "metin",
+        "metin": "Alan bilgisi oturumları isteğe bağlı. Herkes için zorunlu olan tek oturum genel yetenek ve genel kültür oturumu. Her alan testi 40 soru (1)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Oturum",
+          "Tarih ve saat",
+          "Testler"
+        ],
+        "satirlar": [
+          [
+            "Birinci",
+            "12 Eylül 2026, 10.15",
+            "Kamu yönetimi, uluslararası ilişkiler, çalışma ekonomisi"
+          ],
+          [
+            "İkinci",
+            "12 Eylül 2026, 14.45",
+            "Hukuk, iktisat, maliye"
+          ],
+          [
+            "Üçüncü",
+            "13 Eylül 2026, 10.15",
+            "İşletme, muhasebe, istatistik"
+          ]
+        ],
+        "not": "Her oturumda testler sırayla veriliyor; bir testin süresi bitince kitapçık toplanıp sonraki dağıtılıyor (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bölüm bazlı zorunluluk yok. Aday, hedeflediği puan türünün gerektirdiği testleri kılavuzun tablolarına bakarak kendisi seçiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "KPSS'siz kamu alımları"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gerçekten KPSS'siz olan yollar sınırlı ve çoğu yanlış anlatılıyor."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Sürekli işçi alımı. Talepler iş kurumu üzerinden duyuruluyor. Ortaöğretim ve altı ile temizlik, güvenlik ve bakım gibi işlerde alım noter kurasıyla yapılıyor ve KPSS aranmıyor (9, 10).",
+          "KPSS şartlı işçi alımları. Ön lisans ve lisans düzeyi bazı taleplerde KPSS aranıyor, normal işgücü taleplerinde en az 60 puan şartı var. Engelli ve eski hükümlülerde puan barajı yok (1, 10).",
+          "Sözleşmeli personel. Genel kural KPSS puan sıralamasına dayanıyor. Bu yüzden sözleşmeli personel alımı genellikle KPSS'sizdir denemez (12).",
+          "Engelli memur alımı. İki ayrı yol var: engelli kamu personel seçme sınavı ya da kura. Kura yolu gerçekten sınavsız (11).",
+          "Mavi kart sahipleri kadrolu asli ve sürekli kamu görevlerinde bulunamıyor, ancak işçi veya sözleşmeli personel olarak çalıştırılabiliyor (1)."
+        ]
+      },
+      {
+        "tur": "uyari",
+        "metin": "Kura konusunda yaygın bir yanılgı var: kurayı kazanmak işe girmek değil. Açık iş sayısının dört katı aday kurayla belirlenip kuruma listeleniyor, ardından kurum yazılı ve sözlü sınav yapıyor (9, 10)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Atama süreci"
+      },
+      {
+        "tur": "metin",
+        "metin": "Yerleştirme sonrası aday, kurumun istediği belgelerle başvuruyor. Arşiv araştırması, ilk defa veya yeniden kamu görevine atanacakların tamamı için yapılıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Güvenlik soruşturması ise arşiv araştırmasıyla birlikte yalnızca kanunda sayılan görevler için uygulanıyor: Milli Savunma Bakanlığı, Genelkurmay, jandarma, emniyet, sahil güvenlik ve istihbarat teşkilatları personeli ile kanunda belirtilen diğer görevler (7). Elde edilen kişisel veriler, amaç ortadan kalktığında ya da en geç iki yıl içinde siliniyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Göreve başlama süresi de kanunda belli. Aynı yerdeki göreve atananlar tebliğ gününü, başka yerdeki göreve atananlar tebliğden itibaren 15 gün içinde o yere hareket ederek yol süresini izleyen iş günü içinde göreve başlamak zorunda (8)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Başlamamanın bedeli ağır. İlk defa veya yeniden atananlardan, belgelenebilir zorlayıcı sebep olmaksızın süresinde işe başlamayanların ataması iptal ediliyor ve bir yıl süreyle devlet memuru olarak istihdam edilemiyorlar. Zorlayıcı sebeple başlamama hâli iki ayı aşarsa atama yine iptal ediliyor (8)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Memur maaşı 2026"
+      },
+      {
+        "tur": "metin",
+        "metin": "Temmuz ile aralık 2026 dönemi için belirlenen katsayılar şöyle: aylık katsayı 1,575512, taban aylık katsayısı 25,794915, yan ödeme katsayısı 0,499649 (13). Dönem artışı yüzde 13,52 olmuş."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "Tutar"
+        ],
+        "satirlar": [
+          [
+            "En düşük memur maaşı, aile yardımı dahil",
+            "70.224 TL"
+          ],
+          [
+            "9'uncu derece 1'inci kademe lisans mezunu, net",
+            "Yaklaşık 73.070 TL"
+          ]
+        ],
+        "not": "Bu tutarlar resmî bir tarifeden değil, katsayılardan yapılan hesaplamalardan geliyor (14). Kişinin derecesi, ek göstergesi, hizmet yılı ve aile durumuna göre değişiyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Ek gösterge, maaşın yalnızca bir kalemini değil, emekli aylığını ve emekli ikramiyesini de büyüten bir çarpan. Öğrenim durumuna, unvana ve dereceye göre değişiyor ve kanuna ekli cetvellerde belirleniyor (8). Unvan bazındaki güncel rakamlar için doğrudan o cetvellere bakmak gerekiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "En sık yapılan hatalar"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Puanın bir yıl geçerli olduğunu sanmak. Bütün sonuçlar iki yıl geçerli.",
+          "Ön lisans puanı dururken lisans sınavına girmek. Ortaöğretim ya da ön lisans düzeyinden girenler, sonraki B grubu lisans sınavına girerse eski sonuçların geçerliliği sona eriyor. Yalnızca A grubu sınavına girmek eski puanı etkilemiyor.",
+          "Başvuruyu ücret yatırmadan tamamlanmış saymak. Bilgilerin sisteme girilmesi yeterli değil.",
+          "Sınav binasına geç kalmak. Sabah oturumlarında saat 10.00'dan, öğleden sonra oturumunda 14.30'dan sonra binaya alınma yok.",
+          "Yüksek puanın tek başına atanma hakkı verdiğini sanmak. Kurumun aradığı koşullar karşılanmazsa yerleştirmeden doğan bütün haklar kayboluyor.",
+          "Denklik kararını geç bildirmek. Kararlar tercih işlemleri başlamadan önce bildirilmeli, sonradan bildirilenler ancak bir sonraki dönemde dikkate alınıyor.",
+          "İşçi kurasını kazanmayı işe girmek sanmak. Kura yalnızca aday listesini belirliyor.",
+          "Mezuniyet zamanlamasını kaçırmak. A grubunda kuruma başvurulan tarihte, B grubunda tercih yapılan tarihte kadronun gerektirdiği düzeyde mezun olmak şart."
+        ]
+      }
+    ],
+    "sss": [
+      {
+        "s": "KPSS puanım kaç yıl geçerli?",
+        "c": "İki yıl. Bu sürede yeni sınav yapılamazsa, bir sonraki sınavın sonucu açıklanana kadar geçerliliği sürüyor."
+      },
+      {
+        "s": "Alan bilgisi oturumlarına girmek zorunda mıyım?",
+        "c": "Hayır. Yalnızca genel yetenek ve genel kültür oturumu zorunlu, alan bilgisi oturumları isteğe bağlı."
+      },
+      {
+        "s": "Aynı yıl hem lisans hem ön lisans sınavına girebilir miyim?",
+        "c": "Hayır. Bir aday aynı yıl birden fazla öğrenim düzeyinden KPSS'ye giremiyor."
+      },
+      {
+        "s": "Memur olmak için mülakat var mı?",
+        "c": "B grubunda merkezî sistemin yerleştirdiği adaylar başka bir sınav ya da mülakat olmaksızın doğrudan atanıyor. A grubunda ise kurum kendi giriş sınavını yapıyor."
+      },
+      {
+        "s": "Herkese güvenlik soruşturması yapılır mı?",
+        "c": "Hayır. Bütün ilk atamalarda arşiv araştırması yapılıyor. Güvenlik soruşturması yalnızca emniyet, jandarma, savunma, sahil güvenlik ve istihbarat gibi kanunda sayılan görevler için uygulanıyor."
+      },
+      {
+        "s": "Atandım ama zamanında başlayamazsam ne olur?",
+        "c": "Geçerli mazeret olmaksızın on beş günlük süre içinde başlamayanların ataması iptal ediliyor ve bir yıl boyunca devlet memuru olarak istihdam edilemiyorlar."
+      },
+      {
+        "s": "Engelliysem KPSS'ye girmek zorunda mıyım?",
+        "c": "Hayır. Engelli kamu personel seçme sınavına girebileceğiniz gibi, sınavsız kura yoluyla yerleştirmeye de başvurabilirsiniz."
+      },
+      {
+        "s": "İşçi alımlarında KPSS şartı var mı?",
+        "c": "Kura usulüyle yapılan alımlarda genellikle yok. KPSS aranan normal işgücü taleplerinde en az 60 puan gerekiyor, engelli ve eski hükümlülerde puan barajı yok."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "ÖSYM, 2026 KPSS lisans kılavuzu",
+        "url": "https://dokuman.osym.gov.tr/pdfdokuman/2026/KPSS/LISANS/kilavuz_Ld01072026.pdf"
+      },
+      {
+        "ad": "ÖSYM, 2026 KPSS ön lisans başvuru kılavuzu",
+        "url": "https://dokuman.osym.gov.tr/web/2026/8/basvuru-kilavuzu-fqs59p-13083438.pdf"
+      },
+      {
+        "ad": "ÖSYM, 2026 KPSS ortaöğretim başvuru kılavuzu",
+        "url": "https://dokuman.osym.gov.tr/web/2026/8/basvuru-kilavuzu-ci4pae-27090228.pdf"
+      },
+      {
+        "ad": "ÖSYM sınav takvimi",
+        "url": "https://www.osym.gov.tr/Sayfa/SinavTakvimi"
+      },
+      {
+        "ad": "ÖSYM, 2026 birinci yerleştirme tercih kılavuzu",
+        "url": "https://www.osym.gov.tr/kpss20261-bazi-kamu-kurum-ve-kuruluslarinin-kadro-ve-pozisyonlarina-yerlestirme-yapmak-icin-tercih-kilavuzu-ve-tablolar"
+      },
+      {
+        "ad": "ÖSYM, 2026 birinci yerleştirme sonuçları",
+        "url": "https://www.osym.gov.tr/kpss-20261-bazi-kamu-kurum-ve-kuruluslarinin-kadro-ve-pozisyonlarina-yerlestirme-sonuclari-aciklandi"
+      },
+      {
+        "ad": "7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
+        "url": "https://resmigazete.gov.tr/eskiler/2021/04/20210417-1.htm"
+      },
+      {
+        "ad": "657 sayılı Devlet Memurları Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.657.pdf"
+      },
+      {
+        "ad": "Kamu kurumlarına işçi alınmasında usul ve esaslar yönetmeliği",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.200915188.pdf"
+      },
+      {
+        "ad": "İŞKUR, kamu işçi alım ilanları sıkça sorulan sorular",
+        "url": "https://www.iskur.gov.tr/sikca-sorulan-sorular/kamu-isci-alim-ilanlari/"
+      },
+      {
+        "ad": "ÖSYM, 2026 engelli kamu personel seçme sınavı ve kura başvuruları",
+        "url": "https://www.osym.gov.tr/2026ekpss-basvurularin-alinmasi"
+      },
+      {
+        "ad": "Sözleşmeli personel çalıştırılmasına ilişkin esaslar",
+        "url": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=21&MevzuatNo=715754&MevzuatTertip=5"
+      },
+      {
+        "ad": "Hazine ve Maliye Bakanlığı, 2026 temmuz mali ve sosyal haklar genelgesi",
+        "url": "https://ms.hmb.gov.tr/uploads/2026/07/2026-Yili-Temmuz-Ayina-Ait-Mali-ve-Sosyal-Haklara-Iliskin-Genelge-9b5304ed658d77cb.pdf"
+      },
+      {
+        "ad": "Memur maaşları 2026 temmuz aralık dönemi hesaplaması",
+        "url": "https://kadimhukuk.com.tr/makale/memur-maaslari/"
+      }
+    ]
   }
 ]
