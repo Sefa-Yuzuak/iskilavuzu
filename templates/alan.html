@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+
+{% block baslik %}{{ alan.ad }} — {{ site.ad }}{% endblock %}
+{% block aciklama %}{{ alan.aciklama }}{% endblock %}
+{% block yol %}{{ alan.yol }}{% endblock %}
+
+{% block sema %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Ana sayfa","item":"{{ kok }}/"},
+    {"@type":"ListItem","position":2,"name":{{ alan.ad | tojson }},"item":"{{ kok }}{{ alan.yol }}"}
+  ]
+}
+</script>
+{% if alan.rehberler %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ alan.ad | tojson }},
+  "numberOfItems": {{ alan.rehberler | length }},
+  "itemListElement": [
+    {% for r in alan.rehberler %}
+    {"@type":"ListItem","position":{{ loop.index }},"url":"{{ kok }}{{ r.yol }}"}{{ "," if not loop.last }}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+{% endblock %}
+
+{% block govde %}
+<section class="hero hero--alan">
+  <div class="kap">
+    <nav class="kirinti" aria-label="Konum"><a href="/">Ana sayfa</a> <span>/</span> <span>{{ alan.ad }}</span></nav>
+    <p class="etiket"><span aria-hidden="true">{{ alan.ikon }}</span> Konu</p>
+    <h1>{{ alan.ad }}</h1>
+    <p class="giris">{{ alan.aciklama }}</p>
+  </div>
+</section>
+
+<section class="kap bolum">
+  {% if alan.rehberler %}
+  <ul class="kart-liste genis">
+    {% for r in alan.rehberler %}
+    <li>
+      <a href="{{ r.yol }}">
+        <span class="kart-baslik">{{ r.baslik }}</span>
+        <span class="kart-ozet">{{ r.ozet }}</span>
+        <span class="kart-meta">{{ r.okuma }} dk · {{ r.kaynaklar | length }} kaynak{% if r.guncelleme %} · {{ r.guncelleme | tarih }}{% endif %}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <div class="bos">
+    <p>Bu başlıkta henüz yayımlanmış rehber yok. Hazırlanıyor.</p>
+    <p>Bu arada diğer başlıklara göz atabilirsin.</p>
+  </div>
+  {% endif %}
+
+  <div class="bolum-bas" style="margin-top:3rem">
+    <h2>Diğer konular</h2>
+  </div>
+  <div class="izgara">
+    {% for a in alanlar if a.slug != alan.slug %}
+    <article class="alan">
+      <span class="ikon" aria-hidden="true">{{ a.ikon }}</span>
+      <h3><a href="{{ a.yol }}">{{ a.ad }}</a></h3>
+      <p>{{ a.aciklama }}</p>
+      <span class="alan-sayi">{% if a.rehberler %}{{ a.rehberler | length }} rehber{% else %}hazırlanıyor{% endif %}</span>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

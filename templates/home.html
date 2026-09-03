@@ -1,5 +1,18 @@
 {% extends "base.html" %}
 
+{% block sema %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.ad | tojson }},
+  "url": "{{ kok }}/",
+  "inLanguage": "tr-TR",
+  "description": {{ site.aciklama | tojson }}
+}
+</script>
+{% endblock %}
+
 {% block govde %}
 <section class="hero">
   <div class="kap">
@@ -12,32 +25,50 @@
   </div>
 </section>
 
+{% set yeni = rehberler | sort(attribute='guncelleme', reverse=true) %}
+{% if yeni %}
 <section class="kap bolum">
-  <h2>Kapsam</h2>
-  <p class="bolum-giris">On başlık var. Her biri tek bir soruya cevap veriyor: bu yoldan gerçekten para kazanılıyor mu, kazanılıyorsa ne kadar sermaye, ne kadar zaman ve hangi izinler gerekiyor.</p>
+  <div class="bolum-bas">
+    <h2>Yeni rehberler</h2>
+    <p>Her rehberdeki sayı kaynağıyla birlikte duruyor.</p>
+  </div>
+  <ul class="kart-liste genis">
+    {% for r in yeni[:6] %}
+    <li>
+      <a href="{{ r.yol }}">
+        <span class="kart-alan">{{ r.alan_adi }}</span>
+        <span class="kart-baslik">{{ r.baslik }}</span>
+        <span class="kart-ozet">{{ r.ozet }}</span>
+        <span class="kart-meta">{{ r.okuma }} dk · {{ r.kaynaklar | length }} kaynak</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section class="kap bolum">
+  <div class="bolum-bas">
+    <h2>Konular</h2>
+    <p>On başlık var. Her biri tek bir soruya cevap veriyor: bu yoldan gerçekten para kazanılıyor mu, kazanılıyorsa ne kadar sermaye, ne kadar zaman ve hangi izinler gerekiyor.</p>
+  </div>
 
   <div class="izgara">
     {% for a in alanlar %}
     <article class="alan">
       <span class="ikon" aria-hidden="true">{{ a.ikon }}</span>
-      <h3>{{ a.ad }}</h3>
+      <h3><a href="{{ a.yol }}">{{ a.ad }}</a></h3>
       <p>{{ a.aciklama }}</p>
-      {% if a.rehberler %}
-      <ul class="rehber-liste">
-        {% for r in a.rehberler %}
-        <li><a href="/rehber/{{ r.slug }}/">{{ r.baslik }}</a></li>
-        {% endfor %}
-      </ul>
-      {% endif %}
+      <span class="alan-sayi">{% if a.rehberler %}{{ a.rehberler | length }} rehber{% else %}hazırlanıyor{% endif %}</span>
     </article>
     {% endfor %}
   </div>
 </section>
 
 <section class="kap bolum ilke">
-  <h2>Nasıl yazıyoruz</h2>
+  <div class="bolum-bas"><h2>Nasıl yazıyoruz</h2></div>
   <ul class="ilke-liste">
-    <li><strong>Uydurma rakam yok.</strong> Bir maliyet, ücret veya oran yazıyorsak kaynağı sayfada duruyor. Bilinmeyen bir sayıyı tahminle doldurmuyoruz.</li>
+    <li><strong>Uydurma rakam yok.</strong> Bir maliyet, ücret veya oran yazıyorsak kaynağı sayfanın altında duruyor. Bilinmeyen bir sayıyı tahminle doldurmuyoruz.</li>
     <li><strong>Tarih atıyoruz.</strong> Vergi tutarları ve sınav takvimleri değişiyor. Her rehberde son güncelleme tarihi var.</li>
     <li><strong>Ne kazandırmadığını da yazıyoruz.</strong> Bir yol çoğu insan için zarar ediyorsa bunu söylemek rehberin işi.</li>
   </ul>
