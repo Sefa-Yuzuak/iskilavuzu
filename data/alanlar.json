@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "is-kurma",
+    "ad": "Kendi işini kurma",
+    "ikon": "🚀",
+    "aciklama": "Fikirden ilk müşteriye kadar sıra: fizibilite, sermaye hesabı, konum, tedarik ve açılış.",
+    "oncelik": 3
+  },
+  {
+    "slug": "is-fikirleri",
+    "ad": "İş fikirleri",
+    "ikon": "💡",
+    "aciklama": "Sermayeye, mekâna ve harcanacak zamana göre ayrılmış iş fikirleri. Her fikrin gerçek maliyet aralığı ve kâr marjı ile.",
+    "oncelik": 3
+  },
+  {
+    "slug": "mevzuat",
+    "ad": "Yasal mevzuat",
+    "ikon": "📋",
+    "aciklama": "Şahıs şirketi mi esnaf muafiyeti mi, limited ne zaman gerekir, vergi ve stopaj yükümlülükleri, e-ticaret düzenlemeleri.",
+    "oncelik": 2
+  },
+  {
+    "slug": "evden-is",
+    "ad": "Evden iş",
+    "ikon": "🏠",
+    "aciklama": "Evde yapılabilecek işler, evlere iş veren firmalar ve uzaktan çalışma düzeni. Dolandırıcılık kalıplarını tanıma bölümüyle.",
+    "oncelik": 3
+  },
+  {
+    "slug": "ek-gelir",
+    "ad": "Ek gelir",
+    "ikon": "📈",
+    "aciklama": "Mevcut işinin üstüne ek kazanç yolları. Harcanan saat başına gerçek getiri hesabıyla.",
+    "oncelik": 3
+  },
+  {
+    "slug": "part-time",
+    "ad": "Part-time iş",
+    "ikon": "🕐",
+    "aciklama": "Yarı zamanlı çalışma, öğrenci işleri, saatlik ücretler ve sigorta durumu.",
+    "oncelik": 2
+  },
+  {
+    "slug": "ithalat",
+    "ad": "Yurtdışından ürün getirme",
+    "ikon": "📦",
+    "aciklama": "Küçük ölçekli ithalatın adımları: tedarikçi bulma, numune, gümrük, GTİP, vergi hesabı ve satış kanalı.",
+    "oncelik": 1
+  },
+  {
+    "slug": "3d-baski",
+    "ad": "3D baskı işi",
+    "ikon": "🖨️",
+    "aciklama": "Yazıcı seçimi, malzeme maliyeti, baskı başına gerçek gider, hangi ürünün satıldığı ve satış kanalı karşılaştırması.",
+    "oncelik": 1
+  },
+  {
+    "slug": "kamuda-is",
+    "ad": "Kamuda işe girme",
+    "ikon": "🏛️",
+    "aciklama": "KPSS takvimi, puan türleri, hangi bölüm hangi kadroya başvurabilir, sınavsız ve sözleşmeli alım yolları.",
+    "oncelik": 2
+  },
+  {
+    "slug": "meslek-secimi",
+    "ad": "Bölüm ve meslek",
+    "ikon": "🎓",
+    "aciklama": "Bölüm bazında kariyer haritası: mezun ne iş yapar, maaş aralığı, KPSS ile hangi kadro, kendi işini kurarsa ne yapabilir.",
+    "oncelik": 1
+  }
+]

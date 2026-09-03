@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block govde %}
+<section class="hero">
+  <div class="kap">
+    <p class="etiket">{{ site.slogan }}</p>
+    <h1>Para kazanmanın yollarını<br>tek tek, adım adım anlatıyoruz.</h1>
+    <p class="giris">{{ site.aciklama }}</p>
+    {% if site.noindex %}
+    <p class="durum">Site hazırlanıyor. Rehberler yayımlandıkça bu sayfa dolacak.</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="kap bolum">
+  <h2>Kapsam</h2>
+  <p class="bolum-giris">On başlık var. Her biri tek bir soruya cevap veriyor: bu yoldan gerçekten para kazanılıyor mu, kazanılıyorsa ne kadar sermaye, ne kadar zaman ve hangi izinler gerekiyor.</p>
+
+  <div class="izgara">
+    {% for a in alanlar %}
+    <article class="alan">
+      <span class="ikon" aria-hidden="true">{{ a.ikon }}</span>
+      <h3>{{ a.ad }}</h3>
+      <p>{{ a.aciklama }}</p>
+      {% if a.rehberler %}
+      <ul class="rehber-liste">
+        {% for r in a.rehberler %}
+        <li><a href="/rehber/{{ r.slug }}/">{{ r.baslik }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="kap bolum ilke">
+  <h2>Nasıl yazıyoruz</h2>
+  <ul class="ilke-liste">
+    <li><strong>Uydurma rakam yok.</strong> Bir maliyet, ücret veya oran yazıyorsak kaynağı sayfada duruyor. Bilinmeyen bir sayıyı tahminle doldurmuyoruz.</li>
+    <li><strong>Tarih atıyoruz.</strong> Vergi tutarları ve sınav takvimleri değişiyor. Her rehberde son güncelleme tarihi var.</li>
+    <li><strong>Ne kazandırmadığını da yazıyoruz.</strong> Bir yol çoğu insan için zarar ediyorsa bunu söylemek rehberin işi.</li>
+  </ul>
+</section>
+{% endblock %}

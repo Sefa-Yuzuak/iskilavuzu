@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block baslik %}{{ site.ad }}{% endblock %}</title>
+<meta name="description" content="{% block aciklama %}{{ site.aciklama }}{% endblock %}">
+{% if site.noindex %}
+<meta name="robots" content="noindex, nofollow">
+{% endif %}
+<link rel="canonical" href="{{ site.alan_adi }}{% block yol %}/{% endblock %}">
+<link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+<meta property="og:site_name" content="{{ site.ad }}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="tr_TR">
+<link rel="stylesheet" href="/static/style.css">
+{% if site.gsc %}
+<meta name="google-site-verification" content="{{ site.gsc }}">
+{% endif %}
+{% if site.ga4 %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4 }}"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','{{ site.ga4 }}',{anonymize_ip:true});
+</script>
+{% endif %}
+</head>
+<body>
+<a class="atla" href="#icerik">İçeriğe geç</a>
+
+<header class="ust">
+  <div class="kap ust-ic">
+    <a class="marka" href="/">
+      <img src="/static/logo.svg" alt="" width="30" height="30">
+      <span>{{ site.ad }}</span>
+    </a>
+  </div>
+</header>
+
+<main id="icerik">
+{% block govde %}{% endblock %}
+</main>
+
+<footer class="alt">
+  <div class="kap">
+    <p class="alt-ad">{{ site.ad }}</p>
+    <p>{{ site.aciklama }}</p>
+    {% if site.eposta %}
+    <p><a href="mailto:{{ site.eposta }}">{{ site.eposta }}</a></p>
+    {% endif %}
+  </div>
+</footer>
+<!-- derleme: {{ site.derleme_zamani }} -->
+</body>
+</html>

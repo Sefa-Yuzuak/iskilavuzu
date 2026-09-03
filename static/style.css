@@ -1,0 +1,85 @@
+:root{
+  --kagit:#F5F8F6; --yuzey:#FFFFFF; --yuzey2:#EDF2F0;
+  --murekkep:#121D1B; --govde:#2A3937; --soluk:#5E706D;
+  --cizgi:#D8E2DF; --cizgi-koyu:#B9C9C5;
+  --vurgu:#0E5A5E; --vurgu-soft:#DCEBEA;
+  --olcu:1120px;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --kagit:#0D1413; --yuzey:#141E1C; --yuzey2:#1A2624;
+    --murekkep:#E9F0EE; --govde:#C4D2CF; --soluk:#8DA09C;
+    --cizgi:#263532; --cizgi-koyu:#3A4E4A;
+    --vurgu:#5CBCC0; --vurgu-soft:#16302F;
+  }
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--kagit); color:var(--govde);
+  font:400 17px/1.62 ui-serif,Georgia,"Times New Roman",serif;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,.etiket,.marka,.durum,th,.alt-ad{
+  font-family:ui-sans-serif,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+h1{font-size:clamp(1.9rem,4.6vw,3rem); line-height:1.08; font-weight:800; letter-spacing:-.02em; color:var(--murekkep); margin:0 0 .7rem; text-wrap:balance;}
+h2{font-size:clamp(1.25rem,2.4vw,1.6rem); font-weight:700; letter-spacing:-.015em; color:var(--murekkep); margin:0 0 .8rem; text-wrap:balance;}
+h3{font-size:1.05rem; font-weight:600; color:var(--murekkep); margin:0 0 .35rem;}
+p{margin:0 0 1rem}
+a{color:var(--vurgu); text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--vurgu); outline-offset:3px; border-radius:3px}
+strong{color:var(--murekkep); font-weight:600}
+
+.kap{max-width:var(--olcu); margin:0 auto; padding:0 24px}
+.atla{position:absolute; left:-9999px}
+.atla:focus{left:8px; top:8px; z-index:9; background:var(--yuzey); padding:10px 14px; border-radius:4px}
+
+.ust{border-bottom:1px solid var(--cizgi); background:var(--yuzey)}
+.ust-ic{display:flex; align-items:center; min-height:62px}
+.marka{display:flex; align-items:center; gap:10px; font-weight:700; font-size:1.02rem; color:var(--murekkep); text-decoration:none; letter-spacing:-.01em}
+
+.hero{padding:72px 0 44px; border-bottom:1px solid var(--cizgi)}
+.etiket{font-size:.74rem; font-weight:600; letter-spacing:.14em; text-transform:uppercase; color:var(--vurgu); margin:0 0 .9rem}
+.etiket a{text-decoration:none}
+.giris{font-size:1.1rem; color:var(--soluk); max-width:60ch; margin:0}
+.durum{
+  display:inline-block; margin:22px 0 0; padding:8px 14px; border-radius:3px;
+  background:var(--vurgu-soft); color:var(--vurgu); font-size:.82rem; font-weight:600;
+}
+
+.bolum{padding:52px 0}
+.bolum-giris{max-width:62ch; color:var(--soluk)}
+
+.izgara{display:grid; gap:18px; margin-top:26px}
+@media(min-width:640px){.izgara{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:1000px){.izgara{grid-template-columns:repeat(3,1fr)}}
+.alan{
+  background:var(--yuzey); border:1px solid var(--cizgi); border-radius:4px;
+  padding:20px 22px; display:flex; flex-direction:column; gap:6px;
+}
+.alan .ikon{font-size:1.4rem; line-height:1}
+.alan p{font-size:.93rem; margin:0; color:var(--soluk)}
+.rehber-liste{margin:10px 0 0; padding-left:18px; font-size:.93rem}
+.rehber-liste li{margin-bottom:.3rem}
+
+.ilke{border-top:1px solid var(--cizgi)}
+.ilke-liste{list-style:none; padding:0; margin:0; display:grid; gap:14px; max-width:70ch}
+.ilke-liste li{padding-left:22px; position:relative}
+.ilke-liste li::before{content:""; position:absolute; left:3px; top:.7em; width:8px; height:1px; background:var(--cizgi-koyu)}
+
+.yazi{padding:56px 0; max-width:none}
+.yazi h1,.yazi p,.yazi h2,.yazi ul,.yazi ol{max-width:68ch}
+.tarih{font-size:.85rem; color:var(--soluk)}
+.tablo-kap{overflow-x:auto; border:1px solid var(--cizgi); border-radius:4px; background:var(--yuzey); margin:0 0 1.2rem}
+table{border-collapse:collapse; width:100%; font-size:.9rem; min-width:520px}
+th{text-align:left; font-size:.7rem; letter-spacing:.09em; text-transform:uppercase; color:var(--soluk); background:var(--yuzey2); padding:10px 14px; border-bottom:1px solid var(--cizgi-koyu)}
+td{padding:10px 14px; border-bottom:1px solid var(--cizgi); vertical-align:top; font-variant-numeric:tabular-nums}
+tbody tr:last-child td{border-bottom:0}
+.tablo-not{font-size:.8rem; color:var(--soluk); padding:10px 14px; margin:0}
+.kaynak{font-size:.9rem; color:var(--soluk)}
+
+.alt{border-top:1px solid var(--cizgi); background:var(--yuzey); padding:30px 0 40px; font-size:.86rem; color:var(--soluk)}
+.alt-ad{font-weight:700; color:var(--murekkep); margin:0 0 .4rem}
+.alt p{max-width:62ch}

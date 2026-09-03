@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block baslik %}{{ rehber.baslik }} — {{ site.ad }}{% endblock %}
+{% block aciklama %}{{ rehber.ozet }}{% endblock %}
+{% block yol %}/rehber/{{ rehber.slug }}/{% endblock %}
+
+{% block govde %}
+<article class="kap yazi">
+  <p class="etiket"><a href="/">{{ site.ad }}</a></p>
+  <h1>{{ rehber.baslik }}</h1>
+  <p class="giris">{{ rehber.ozet }}</p>
+  {% if rehber.guncelleme %}
+  <p class="tarih">Son güncelleme {{ rehber.guncelleme }}</p>
+  {% endif %}
+
+  {% for b in rehber.bolumler %}
+    {% if b.tur == "baslik" %}
+  <h2>{{ b.metin }}</h2>
+    {% elif b.tur == "metin" %}
+  <p>{{ b.metin }}</p>
+    {% elif b.tur == "madde" %}
+  <ul>
+      {% for m in b.maddeler %}
+    <li>{{ m }}</li>
+      {% endfor %}
+  </ul>
+    {% elif b.tur == "tablo" %}
+  <div class="tablo-kap">
+    <table>
+      <thead><tr>{% for s in b.basliklar %}<th>{{ s }}</th>{% endfor %}</tr></thead>
+      <tbody>
+      {% for satir in b.satirlar %}
+        <tr>{% for h in satir %}<td>{{ h }}</td>{% endfor %}</tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% if b.not %}<p class="tablo-not">{{ b.not }}</p>{% endif %}
+  </div>
+    {% endif %}
+  {% endfor %}
+
+  {% if rehber.kaynaklar %}
+  <h2>Kaynaklar</h2>
+  <ol class="kaynak">
+    {% for k in rehber.kaynaklar %}
+    <li><a href="{{ k.url }}" rel="nofollow noopener" target="_blank">{{ k.ad }}</a></li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+</article>
+{% endblock %}
