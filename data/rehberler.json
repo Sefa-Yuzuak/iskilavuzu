@@ -4780,5 +4780,332 @@
         "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4904.pdf"
       }
     ]
+  },
+  {
+    "slug": "kendi-isini-kurmak-fikirden-ilk-musteriye",
+    "alan": "is-kurma",
+    "baslik": "Kendi işini kurmak: fikirden ilk müşteriye",
+    "ozet": "Önce gerçek kapanma verisi, sonra para harcamadan talep testi, sermaye hesabı ve başabaş noktası. Şirket kurma mevzuatı ayrı sayfada.",
+    "cevap": "Türkiye'de kurulan işletmelerin beş yıl sonra ayakta kalma oranı yüzde 41,8. Şahıs işletmelerinde tablo daha sert: her yüz kuruluşa karşılık yetmiş beş kapanış var. Bu yüzden ilk adım şirket kurmak değil, para harcamadan talebi test etmek ve işletme sermayesini doğru hesaplamaktır.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Bu sayfa şirket kurma mevzuatını anlatmıyor. Şahıs şirketi kurma, vergi, muafiyetler ve maliyetler ayrı bir rehberde duruyor. Burada karar süreci var: ne zaman kurulur, neyle kurulur, ne kadar dayanır."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Önce gerçek tabloyu görün"
+      },
+      {
+        "tur": "metin",
+        "metin": "Rehberlerin çoğu doğrudan on adımda iş kurma listesine geçiyor. Önce şu veriye bakmak gerekiyor."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kuruluştan sonra",
+          "Hayatta kalma oranı"
+        ],
+        "satirlar": [
+          [
+            "1 yıl",
+            "%80,7"
+          ],
+          [
+            "2 yıl",
+            "%64,8"
+          ],
+          [
+            "3 yıl",
+            "%53,5"
+          ],
+          [
+            "4 yıl",
+            "%46,5"
+          ],
+          [
+            "5 yıl",
+            "%41,8"
+          ]
+        ],
+        "not": "2017 yılında kurulan küçük ve orta ölçekli işletmelerin izlendiği veri (2)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yani beş yıl sonra her on işletmeden altısı kapanmış oluyor. Bu bir korkutma değil, planlama verisi. İşinizi beş yıl dayanacak şekilde değil, ilk üç yılı geçecek şekilde kurgulamanız gerekiyor."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Şahıs işletmesinde tablo daha sert"
+      },
+      {
+        "tur": "metin",
+        "metin": "Temmuz 2026 verisine bakalım. O ay 9.639 şirket kurulmuş, 3.293 şirket kapanmış. Aynı ay 1.458 gerçek kişi ticari işletmesi kurulmuş, 1.094'ü kapanmış (1)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Buradan çıkan oran çarpıcı. Şirketlerde her yüz kuruluşa karşılık otuz dört kapanış varken, şahıs işletmelerinde bu sayı yetmiş beşe çıkıyor. Yani küçük ölçekli başlayanın kapanma riski iki katından fazla. Sebebi basit: sermaye tamponu yok."
+      },
+      {
+        "tur": "metin",
+        "metin": "Borç tarafında da tablo ağırlaşıyor. 2026'nın ilk yarısında 1.240 şirket konkordato başvurusu yaptı ve en az 115 şirket hakkında iflas kararı verildi. Başvurularda inşaat, tekstil ve gıda sektörleri öne çıkıyor (4)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Para harcamadan talebi test edin"
+      },
+      {
+        "tur": "metin",
+        "metin": "En pahalı hata, kimsenin istemediği bir şeyi kurmak. İyi haber şu: talep, dükkân açmadan da ölçülebiliyor."
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "Anket sormayın, ödeme isteyin.",
+            "metin": "İnsanlar anketde herkese iyi davranır. Gerçek sinyal, birinin cebinden para çıkarmasıdır. Ön sipariş alın, kaparo isteyin ya da hazır bir platformdan tek bir ürünü satmayı deneyin."
+          },
+          {
+            "baslik": "Küçük bir partiyle başlayın.",
+            "metin": "Stok yapmadan, mümkünse tedarikçiden tek tek alarak satın. İlk otuz satışa kadar amaç kâr değil, talebin var olduğunu kanıtlamak."
+          },
+          {
+            "baslik": "Var olan yerde test edin.",
+            "metin": "Kendi siteniz olmadan pazaryeri, sosyal medya ya da yerel pazar üzerinden deneyin. Trafiği siz üretmeyin, önce başkasının trafiğinde satıp satmadığınıza bakın."
+          },
+          {
+            "baslik": "Kaç kişiye ulaşıp kaçının aldığını yazın.",
+            "metin": "Dönüşüm oranını bilmeden ciro tahmini yapmak, kendinizi kandırmaktır."
+          }
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu aşamada mükellefiyet gerekip gerekmediği ürününüze ve satış kanalınıza bağlı. Esnaf muaflığı kapsamına giriyorsanız test aşamasını muafiyet altında yapabilirsiniz, mevzuat rehberinde ayrıntısı var."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sermaye hesabı: en sık yapılan hata"
+      },
+      {
+        "tur": "metin",
+        "metin": "İnsanlar açılış maliyetini hesaplıyor, işletme sermayesini unutuyor. Sonra üçüncü ayda nakit sıkışıyor ve iş kâr ediyor olsa bile kapanıyor."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "Ne demek"
+        ],
+        "satirlar": [
+          [
+            "Kuruluş maliyeti",
+            "Bir kez ödenen: tadilat, demirbaş, ruhsat, ilk stok"
+          ],
+          [
+            "İşletme sermayesi",
+            "Her ay ödenen: kira, maaş, prim, elektrik, muhasebe"
+          ],
+          [
+            "Nakit yedeği",
+            "Ciro sıfır olsa bile giderleri karşılayacak para"
+          ]
+        ],
+        "not": "Üçüncüsü olmadan ilk ikisini hesaplamak eksik plandır."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Pratik kural: en az altı aylık sabit giderinizi karşılayacak nakit yedeği olmadan açmayın. Yeni bir işin ilk aylarında ciro tahmin edilenin altında gelir, gider ise tahmin edilenin üstünde. İkisi aynı anda olur."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Başabaş noktası nasıl hesaplanır?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Formül basit: aylık sabit giderlerinizi, bir ürünün satış fiyatı eksi o ürünün değişken maliyetine bölün. Çıkan sayı, o ay kaç adet satmanız gerektiğini söyler."
+      },
+      {
+        "tur": "metin",
+        "metin": "Örnek: aylık sabit gideriniz 60.000 lira, ürünü 400 liraya satıyorsunuz ve birim değişken maliyeti 250 lira. Aradaki fark 150 lira. 60.000 bölü 150 eşittir 400. Yani başabaşa gelmek için ayda dört yüz adet satmanız gerekiyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu sayıyı kurmadan önce hesaplayın. Çoğu iş fikri, gerçek rakamlar yerine konduğunda burada ölür ve bu iyi bir şeydir, çünkü henüz para harcamamışsınızdır."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Konum ve kira"
+      },
+      {
+        "tur": "metin",
+        "metin": "Fiziksel iş yapıyorsanız konum, ürününüz kadar belirleyici. Yaya trafiği, park imkânı, çevredeki benzer işletmeler ve hedef kitlenizin oradan geçip geçmediği önemli. Kira, ciro beklentinizin makul bir yüzdesini aşmamalı."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kira artışında bilinmesi gereken kural şu: çatılı işyeri kiraları da konut kiraları gibi, bir önceki kira yılında açıklanan on iki aylık ortalama tüketici fiyat endeksi oranını geçemiyor. Bu sınır 2020 temmuzundan beri işyerlerini de kapsıyor (5)."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Sözleşme süresine bakın. Kısa süreli sözleşme, işiniz tutunca yenilemede pazarlık gücünüzü zayıflatır.",
+          "Artış maddesini okuyun. Kanuni tavanın üstünde artış öngören madde geçersizdir.",
+          "Tahliye taahhüdü isteniyorsa dikkat edin. Sözleşmeyle aynı tarihte imzalanan taahhütnamenin geçerliliği tartışmalıdır, avukata sorun.",
+          "Ruhsat alınabilir mi diye önceden kontrol edin. Her yerde her iş açılamıyor."
+        ]
+      },
+      {
+        "tur": "baslik",
+        "metin": "Tedarik ve fiyatlama"
+      },
+      {
+        "tur": "metin",
+        "metin": "Tedarikçi seçerken sadece fiyata bakmayın. Vade, minimum sipariş miktarı, teslim süresi ve iade koşulu en az fiyat kadar belirleyici. Peşin alıp vadeli satmak, kârlı bir işi bile batırabilir."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Maliyet artı yöntemiyle fiyatlamak, yani maliyetin üstüne sabit bir oran koymak, tek başına yetersiz. O yöntem müşterinin ne ödemeye razı olduğunu ve rakibin ne istediğini hesaba katmıyor. Fiyatı önce piyasadan okuyun, sonra o fiyatla kâr edip edemeyeceğinizi hesaplayın. Edemiyorsanız maliyeti değiştirin ya da o işe girmeyin."
+      },
+      {
+        "tur": "metin",
+        "metin": "Katma değer vergisini fiyatın içinde düşünün. Etikete yazdığınız rakam sizin cebinize giren rakam değil. Mükellefseniz aldığınız vergiyi devlete ödersiniz, kâr hesabınızı vergisiz tutar üzerinden yapın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "İlk müşteri"
+      },
+      {
+        "tur": "metin",
+        "metin": "Sıfırdan ilk satışı yapmanın romantik bir yolu yok. İşe yarayanlar şunlar."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Tanıdığınız kişilere tek tek ulaşın. Toplu paylaşım değil, birebir mesaj.",
+          "Var olan bir topluluğa girin. Semt grupları, meslek grupları, ilgi alanı toplulukları.",
+          "İlk müşterilere karşılığında yorum ve fotoğraf isteyin. İlk otuz satışın asıl getirisi para değil, referans.",
+          "Yerel işletmelerle takas yapın. Karşılıklı müşteri yönlendirmesi sıfır maliyetli.",
+          "Bir kanalda derinleşin. Beş kanalda yüzeysel olmak yerine tek kanalda düzenli olun."
+        ]
+      },
+      {
+        "tur": "baslik",
+        "metin": "Hangi destekler var?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Destek",
+          "Tutar"
+        ],
+        "satirlar": [
+          [
+            "İş kurma, gerçek kişi",
+            "10.000 TL, geri ödemesiz"
+          ],
+          [
+            "İş kurma, sermaye şirketi",
+            "20.000 TL, geri ödemesiz"
+          ],
+          [
+            "Genç, kadın, engelli, gazi ve şehit yakını ilavesi",
+            "+10.000 TL"
+          ],
+          [
+            "İş geliştirme",
+            "1.500.000 TL, geri ödemeli"
+          ],
+          [
+            "Genç girişimci vergi istisnası",
+            "400.000 TL, üç yıl"
+          ]
+        ],
+        "not": "Destek programında girişimcilik eğitimini tamamlamak şart, eğitim ücretsiz ve çevrimiçi. Vergi istisnası için 29 yaşını doldurmamış ve ilk kez mükellef olmak gerekiyor (6, 7)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Genç girişimcinin prim teşviki 1 Ocak 2026'dan itibaren kaldırıldı. Kazanç istisnası devam ediyor ama sosyal güvenlik primini artık kendiniz ödüyorsunuz. Aylık sabit gider hesabınızı buna göre yapın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "En sık yapılan hatalar"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "İşletme sermayesini hesaplamamak. Kapanmaların en yaygın sebebi kârsızlık değil, nakit sıkışması.",
+          "Talebi test etmeden yatırım yapmak. Dükkân açıp sonra müşteri aramak, ters sıra.",
+          "Başabaş noktasını bilmemek. Ayda kaç adet satmanız gerektiğini bilmiyorsanız kâr ettiğinizi de bilemezsiniz.",
+          "Kendi maaşını hesaba katmamak. Kendinize ödeme yapmadığınız bir iş kârlı değil, sübvansiyonludur.",
+          "Peşin alıp vadeli satmak. Kârlı görünen işi nakit akışı batırır.",
+          "İlk aydan geniş ürün yelpazesi kurmak. Stok, nakdi bağlar ve hangi ürünün sattığını göremezsiniz."
+        ]
+      }
+    ],
+    "sss": [
+      {
+        "s": "İş kurmadan önce şirket açmam şart mı?",
+        "c": "Ürününüze ve satış kanalınıza bağlı. Esnaf muaflığı kapsamına giren bir ürün üretiyor ve şartları sağlıyorsanız test aşamasını muafiyetle yapabilirsiniz. Düzenli ve ölçekli satışa geçtiğinizde mükellefiyet gerekiyor."
+      },
+      {
+        "s": "Ne kadar nakit yedeğiyle açmalıyım?",
+        "c": "En az altı aylık sabit gideriniz. Yeni işte ciro tahmin edilenin altında, gider üstünde gelir ve ikisi aynı anda olur."
+      },
+      {
+        "s": "Başabaş noktasını nasıl hesaplarım?",
+        "c": "Aylık sabit gideri, satış fiyatı eksi birim değişken maliyete bölün. Çıkan sayı o ay kaç adet satmanız gerektiğidir."
+      },
+      {
+        "s": "Kaç işletme ayakta kalıyor?",
+        "c": "Kurulan işletmelerin bir yıl sonra yüzde 80,7'si, üç yıl sonra yüzde 53,5'i, beş yıl sonra yüzde 41,8'i ayakta. Şahıs işletmelerinde kapanma oranı şirketlerin iki katından fazla."
+      },
+      {
+        "s": "İşyeri kirasına ne kadar zam yapılabilir?",
+        "c": "Çatılı işyerlerinde de tavan, bir önceki kira yılında açıklanan on iki aylık ortalama enflasyon oranı. Bu sınır 2020'den beri işyerlerini de kapsıyor. Sözleşmedeki daha yüksek artış maddesi geçersiz."
+      },
+      {
+        "s": "KOSGEB desteğini almak için ne gerekiyor?",
+        "c": "Girişimcilik eğitimini tamamlamak ve işletmenin kurulmuş olması. Eğitim ücretsiz ve çevrimiçi. Destek muafiyet kapsamındaki kişiye değil, kurulmuş işletmeye veriliyor."
+      },
+      {
+        "s": "Genç girişimcinin Bağ-Kur'u hâlâ bedava mı?",
+        "c": "Hayır. Prim teşviki 1 Ocak 2026'dan itibaren kaldırıldı. Kazanç istisnası devam ediyor, 2026'da 400.000 lira."
+      },
+      {
+        "s": "Fiyatı nasıl belirlemeliyim?",
+        "c": "Önce piyasayı okuyun, sonra o fiyatla kâr edip edemeyeceğinizi hesaplayın. Maliyetin üstüne sabit oran koymak, müşterinin ne ödeyeceğini ve rakibin ne istediğini hesaba katmıyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "TOBB temmuz 2026 kurulan ve kapanan şirket istatistikleri",
+        "url": "https://www.dunya.com/ekonomi/kurulan-sirket-sayisi-yillik-bazda-artarken-kapanislar-ise-temmuzda-hizlandi-haberi-837132"
+      },
+      {
+        "ad": "KOSGEB, Türkiye'deki küçük ve orta ölçekli işletmelere ilişkin istatistiki göstergeler",
+        "url": "https://webdosya.kosgeb.gov.tr/Content/Upload/Dosya/Tablo%20ve%20Raporlar/2024/T%C3%BCrkiye'deki_KOB%C4%B0'lere_%C4%B0li%C5%9Fkin_Baz%C4%B1_%C4%B0statistiki_G%C3%B6stergeler.pdf"
+      },
+      {
+        "ad": "TÜİK girişim doğum ölüm istatistikleri",
+        "url": "https://www.tuik.gov.tr/"
+      },
+      {
+        "ad": "2026 ilk yarı konkordato ve iflas başvuruları",
+        "url": "https://www.ekonomim.com/ekonomi/konkordato-ve-iflaslarda-dikkat-ceken-artis-ilk-6-ayda-rekor-basvuru-haberi-908645"
+      },
+      {
+        "ad": "Çatılı işyeri kira artış oranı ve yasal tavan",
+        "url": "https://www.emlakpencerem.com.tr/kira-artis-orani-eylul-2026-verisi-aciklandi-is-yeri-ve-konutlar-icin-resmi-tavan-belli-oldu/116918"
+      },
+      {
+        "ad": "KOSGEB girişimci destek programı",
+        "url": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/1231/girisimci-destek-programi"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, genç girişimcilere vergi teşviki",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU/UNIVERSAL/2026/2026_genc_girisimciler_info.pdf"
+      }
+    ]
   }
 ]
