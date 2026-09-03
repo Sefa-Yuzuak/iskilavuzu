@@ -1085,7 +1085,7 @@
     "alan": "meslek-secimi",
     "baslik": "İşletme mezunu ne iş yapar? Maaş, KPSS ve kendi işi",
     "ozet": "İşletme mezununun dört yolu tek sayfada: özel sektörde hangi pozisyon, ne maaş, KPSS ile hangi kadro, kendi işini kurarsa ne yapabilir.",
-    "cevap": "İşletme mezunu özel sektörde muhasebe, insan kaynakları, satın alma ve satış tarafına giriyor. Kamuda ise uzman ve müfettiş yardımcılığı sınavlarına başvurabiliyor, en çok kapı açan puan türü P48. Diploma tek başına ayırt edici değil; asıl fark yaratan staj, sertifika ve İngilizce üçlüsü.",
+    "cevap": "İşletme mezunu özel sektörde muhasebe, insan kaynakları, satın alma ve satış tarafına giriyor; ana giriş başlığı uzman yardımcısı. Kamuda uzman ve müfettiş yardımcılığı sınavlarına başvurabiliyor, en çok kapı açan puan türü P48. İnternetteki maaş rakamları ödenen ücret değil, adayların yazdığı beklenti.",
     "guncelleme": "2026-09-03",
     "bolumler": [
       {
@@ -1093,20 +1093,84 @@
         "metin": "Özel sektörde hangi pozisyonlar açık?"
       },
       {
-        "tur": "metin",
-        "metin": "Yeni mezun için giriş kadroları şunlar: ön muhasebe ve muhasebe elemanlığı, insan kaynakları asistanlığı, satış temsilciliği, satın alma asistanlığı, pazarlama uzmanlığı, müşteri ilişkileri, operasyon ve lojistik asistanlığı, bağımsız denetim asistanlığı."
+        "tur": "uyari",
+        "metin": "Önce en kritik bulgu: işletme mezunu diye bir pozisyon başlığı yok. Bu ifade ilan başlığında değil, ilanın aranan nitelikler kısmında bir filtre olarak geçiyor. Indeed'de bu ifadeyle 586 açık ilan çıkıyor. Buna karşılık İİBF mezunu ifadesi yalnızca 4 ilan getiriyor, yani sektör bu kısaltmayı kullanmıyor. İlan ararken bu terimle vakit kaybetmeyin (30)."
       },
       {
         "tur": "metin",
-        "metin": "En yapılandırılmış kapı yönetici adaylığı programları. On iki ile otuz altı ay arası departman rotasyonu içeriyorlar ve başvurular genelde ocak-mart ile eylül-kasım aralığında açılıyor (11). Garanti BBVA'nın 2026 programında başvurular 27 Ocak ile 19 Şubat arasındaydı ve 2025 ile sonrası mezunlar başvurabiliyordu."
+        "metin": "Yeni mezunun ana giriş kapısı uzman yardımcısı kalıbı. LinkedIn'de 1.000'in üzerinde, Secretcv'de 740, Indeed'de 373 ilan var (30). Gerçek başlıklar şöyle: muhasebe uzman yardımcısı, bütçe ve raporlama uzman yardımcısı, maliyet muhasebesi uzman yardımcısı, satın alma uzman yardımcısı, insan kaynakları uzman yardımcısı, dış ticaret uzman yardımcısı, lojistik uzman yardımcısı, e-ticaret kategori uzman yardımcısı, müşteri ilişkileri uzman yardımcısı, iç denetim uzman yardımcısı."
       },
       {
         "tur": "metin",
-        "metin": "Üç ile beş yıl deneyimden sonra yol uzman, kıdemli uzman, takım lideri ve müdür yardımcısı diye ilerliyor. Yaygın başlıklar: finansal raporlama uzmanı, bütçe ve raporlama uzmanı, iç denetçi, tedarik zinciri uzmanı, iş analisti, insan kaynakları iş ortağı."
+        "metin": "Denetim giriş kadroları ayrı bir hat: denetçi yardımcısı, müfettiş yardımcısı ve vergi denetmen yardımcısı."
       },
       {
         "tur": "uyari",
-        "metin": "Abartısız tablo şu. TÜİK verisine göre iş, yönetim ve hukuk alanındaki lisans mezunlarında kayıtlı istihdam oranı yüzde 74,1, kendi alanında çalışma oranı yüzde 79,6 ve ilk iş bulma süresi ortalama 14,2 ay (3). YÖK verisine göre bu alan, açıköğretim hariç en kalabalık öğrenci grubu, yüzde 21,3 (4). Yani diploma tek başına ayırt edici değil."
+        "metin": "Rakiplerde göremeyeceğiniz bir iş arama tüyosu. LinkedIn'de yönetici adaylığı programlarını İngilizce terimle arayınca 35 ilan çıkıyor, Türkçesiyle yani yönetici adayı diye arayınca 2.000'in üzerinde (30). Türkçe terimle aramayan aday pazarın neredeyse tamamını kaçırıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Fonksiyona göre ilan hacmi sıralaması şöyle: pazarlama uzmanı ve operasyon uzmanı 3.000'in üzerinde, satış uzmanı 2.000'in üzerinde, iş analisti ve satın alma uzmanı 1.000'in üzerinde, lojistik uzmanı 943, muhasebe uzmanı 837, dış ticaret uzmanı 836, iç denetim uzmanı 706, müfettiş yardımcısı 667, insan kaynakları uzmanı 456 (30)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Buradan çıkan ikinci ders şu: denetim kariyeri, popüler anlatının aksine dar bir hat. İç denetim uzmanı 706 ilanla, pazarlama uzmanının dörtte biri kadar. Kariyer sitesi kullanıcı verisi de aynı yöne işaret ediyor: muhasebe uzmanı 310.061 kullanıcı, denetim asistanı 368, banka müfettişi 23 (2, 30)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Doğrulanmış yeni mezun programları"
+      },
+      {
+        "tur": "metin",
+        "metin": "Yönetici adaylığı programları yeni mezun için en yapılandırılmış kapı. On iki ile otuz altı ay arası departman rotasyonu içeriyorlar. Aşağıdakiler şirketin kendi sayfasından teyit edilenler."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Program",
+          "Şirket",
+          "Detay"
+        ],
+        "satirlar": [
+          [
+            "Yönetici Adayı Programı 2026",
+            "Akbank",
+            "Son başvuru 30 Mart 2026"
+          ],
+          [
+            "Talent Camp 2026",
+            "Garanti BBVA",
+            "Başvuru 9-25 Mart 2026, 3. sınıf"
+          ],
+          [
+            "Management Trainee",
+            "Yapı Kredi",
+            "0-2 yıl, eğitim ve yüksek lisans bursu"
+          ],
+          [
+            "Management Trainee",
+            "Kuveyt Türk",
+            "Finansal analiz ve yatırım ürünleri"
+          ],
+          [
+            "Core Teftiş, müfettiş yardımcısı",
+            "Türkiye Finans",
+            "Teftiş kuruluna doğrudan giriş"
+          ]
+        ],
+        "not": "Başvuru dönemleri genelde ocak-mart ile eylül-kasım arasında açılıyor (31)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Açık ilan olarak doğrulanan diğerleri: Albaraka Türk'ün satış liderleri programı, BİM'in mağaza yöneticisi programı, KPMG, Deloitte ve PwC'nin yeni mezun programları, L'Oréal ve Pfizer'ın yönetici adaylığı programları (31)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Üç ile beş yıl deneyimden sonra başlık kıdemli uzman ve takım liderine dönüyor. Kıdemli satın alma uzmanı, kıdemli bütçe ve raporlama uzmanı, finansal raporlama kıdemli uzmanı, iç denetim kıdemli uzmanı, dış ticaret operasyon kıdemli uzmanı, kıdemli iş analisti gibi. Perakende ve gıda tarafında paralel bir hat da var: mağaza yönetici adayı, restoran yönetici adayı, mağaza müdür yardımcısı."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Abartısız tablo şu. TÜİK verisine göre iş, yönetim ve hukuk alanındaki lisans mezunlarında kayıtlı istihdam oranı yüzde 74,1, kendi alanında çalışma oranı yüzde 79,6 ve ilk iş bulma süresi ortalama 14,2 ay (5). YÖK verisine göre bu alan, açıköğretim hariç en kalabalık öğrenci grubu, yüzde 21,3 (6). Yani diploma tek başına ayırt edici değil."
       },
       {
         "tur": "baslik",
@@ -1114,59 +1178,109 @@
       },
       {
         "tur": "metin",
-        "metin": "Referans olsun diye: 2026 asgari ücret brüt 33.030 lira, net 28.075 lira. İşverene maliyeti, imalat dışı ve iki puan indirimli hesapla 40.214 lira (1)."
+        "metin": "Referans olsun diye: 2026 asgari ücret brüt 33.030 lira, net 28.075 lira. İşverene maliyeti, imalat dışı hesapla 40.214 lira (1)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Önce metodoloji uyarısı, çünkü bu sayfanın en önemli farkı burada. Kariyer sitelerinin yayınladığı rakamlar ödenen maaş değil, adayın başvuru sırasında yazdığı net maaş beklentisi. Sitenin kendi açıklaması böyle diyor (2). Rakip içerikler bu rakamları işletme mezunu şu kadar kazanır diye aktarıyor. Doğrusu şu: bunlar piyasa ücretinin üst sınırına yakın okunmalı."
       },
       {
         "tur": "tablo",
         "basliklar": [
           "Pozisyon",
           "0-1 yıl",
-          "2-4 yıl",
-          "5-9 yıl"
+          "1-3 yıl",
+          "4-6 yıl"
         ],
         "satirlar": [
           [
             "Muhasebe elemanı",
-            "31.200 TL",
-            "37.800 TL",
-            "43.300 TL"
-          ],
-          [
-            "Pazarlama uzmanı",
-            "30.100 TL",
-            "35.900 TL",
-            "40.800 TL"
+            "36.500 TL",
+            "43.700 TL",
+            "49.100 TL"
           ],
           [
             "Satış temsilcisi",
-            "35.300 TL",
-            "42.400 TL",
-            "48.100 TL"
+            "37.000 TL",
+            "42.200 TL",
+            "46.300 TL"
+          ],
+          [
+            "Müşteri ilişkileri uzmanı",
+            "39.200 TL",
+            "45.700 TL",
+            "48.500 TL"
           ],
           [
             "İnsan kaynakları uzmanı",
-            "37.500 TL",
-            "45.400 TL",
-            "51.400 TL"
+            "40.100 TL",
+            "52.100 TL",
+            "59.700 TL"
+          ],
+          [
+            "Lojistik uzmanı",
+            "42.300 TL",
+            "54.300 TL",
+            "60.800 TL"
+          ],
+          [
+            "Muhasebe uzmanı",
+            "42.600 TL",
+            "53.400 TL",
+            "63.300 TL"
+          ],
+          [
+            "Pazarlama uzmanı",
+            "43.000 TL",
+            "56.300 TL",
+            "63.700 TL"
+          ],
+          [
+            "Finans uzmanı",
+            "43.600 TL",
+            "59.500 TL",
+            "67.900 TL"
+          ],
+          [
+            "İş analisti",
+            "44.600 TL",
+            "65.600 TL",
+            "82.300 TL"
           ],
           [
             "Satın alma uzmanı",
-            "44.100 TL",
-            "53.700 TL",
-            "61.100 TL"
+            "45.900 TL",
+            "59.800 TL",
+            "68.100 TL"
           ],
           [
-            "Uzman yardımcısı",
-            "29.100 TL",
-            "35.300 TL",
-            "40.400 TL"
+            "Tedarik zinciri uzmanı",
+            "47.200 TL",
+            "62.200 TL",
+            "72.200 TL"
           ]
         ],
-        "not": "Eleman.net kazanç haritası 2026 verisi (2). Site metodolojisini, iş arayanların özgeçmişlerinde paylaştığı bilgiler ve işverenlerin ilanlarda belirttiği tutarlar olarak açıklıyor."
+        "not": "Aylık net beklenti, 2026 (2). Ödenen maaş değil, adayın yazdığı beklenti."
+      },
+      {
+        "tur": "metin",
+        "metin": "Tablodan çıkan asıl ders rakamların kendisi değil, eğrinin dikliği. İş analistinde ilk yıldan altıncı yıla artış yüzde 84, satış temsilcisinde yalnızca yüzde 25. Analitik hatta girmek, operasyonel satışa göre beş yılda çok daha dik bir eğri veriyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Resmî tarafla karşılaştıralım. TÜİK verisine göre yükseköğretim mezununun yıllık ortalama brüt kazancı erkeklerde 431.364 lira, kadınlarda 354.149 lira (3). Aylık ortalama işgücü maliyeti 2024'te 45.777 lira, finans ve sigorta kolunda 119.868 lira (4)."
       },
       {
         "tur": "uyari",
-        "metin": "Bu rakamlar resmî istatistik değil, site verisi. Örneklem çok küçük olabiliyor. Aynı pozisyon için başka bir site 42.500 lira diyor ama sayfasında bu tutarın tek kişinin paylaştığı veriyle hesaplandığı yazıyor (12). Tek siteye dayanan maaş rakamına güvenmeyin, birkaç kaynağı karşılaştırın."
+        "metin": "TÜİK'in yayımlanmış en güncel kazanç yapısı referans yılı 2023. Yani 2026'ya uzanan resmî bir seri yok. Bu yüzden resmî brüt rakamları site kaynaklı net rakamlarla karıştırmadık, ayrı tuttuk."
+      },
+      {
+        "tur": "metin",
+        "metin": "Karşılaştırmanın ne kadar güvenilmez olduğunu gösteren bir örnek: aynı pozisyon ve dönem için bir site 72.388 lira derken bir diğeri 31.669 lira diyor ve ikincisinin örneklemi 35 kişi. Üçüncü bir sitenin dağılımı ise ölçülmüş değil, formülle türetilmiş görünüyor; en yüksek değer ortalamanın tam iki katı ve şehirler arası fark hiç 2.000 lirayı geçmiyor (26)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu sayfada bilerek yazmadığımız rakamlar da var. Büyük denetim şirketlerinin yeni mezun maaşı için kurumsal hiçbir kaynak yok, sadece anonim paylaşımlar (27). Özel banka müfettiş yardımcısı başlangıç ücreti için de güvenilir kaynak yok; bankanın resmî ilanında hiçbir ücret rakamı geçmiyor (28). Tahmin yazmak yerine boş bıraktık."
       },
       {
         "tur": "baslik",
@@ -1367,7 +1481,15 @@
       },
       {
         "s": "Yeni mezunum, ne kadar maaş beklemeliyim?",
-        "c": "Site verilerine göre pozisyona göre 29.000 ile 44.000 lira arasında değişiyor. Ama bu rakamların örneklemi küçük olabiliyor, birkaç kaynağı karşılaştırın. 2026 asgari ücret net 28.075 lira."
+        "c": "Site verilerine göre pozisyona göre 36.500 ile 47.200 lira arasında. Ama dikkat, bu rakamlar ödenen maaş değil, adayların yazdığı beklenti. Gerçek ücret genelde daha aşağıda. 2026 asgari ücret net 28.075 lira."
+      },
+      {
+        "s": "Denetim kariyeri gerçekten popüler mi?",
+        "c": "Anlatıldığı kadar değil. İç denetim uzmanı için 706 ilan varken pazarlama uzmanı için 3.000'in üzerinde ilan var. Kullanıcı verisi de aynı yöne işaret ediyor: denetim asistanı 368, banka müfettişi 23 kullanıcı."
+      },
+      {
+        "s": "İlan ararken hangi terimi yazmalıyım?",
+        "c": "İşletme mezunu diye aramayın, bu bir pozisyon başlığı değil. Uzman yardımcısı yazın, yeni mezunun ana giriş kapısı bu. Yönetici adaylığı programları için de İngilizce terim yerine yönetici adayı yazın; Türkçe terim elli kat daha fazla ilan getiriyor."
       }
     ],
     "kaynaklar": [
@@ -1376,8 +1498,16 @@
         "url": "https://www.alomaliye.com/2025/12/23/2026-yili-asgari-ucreti-2026-yili-asgari-ucret-bilgilendirme/"
       },
       {
-        "ad": "Eleman.net kazanç haritası 2026",
-        "url": "https://www.eleman.net/meslek/muhasebe-elemani/maas"
+        "ad": "Kariyer.net maaş endeksi, pozisyon sayfaları",
+        "url": "https://www.kariyer.net/pozisyonlar/muhasebe+uzmani/maas"
+      },
+      {
+        "ad": "TÜİK kazanç yapısı istatistikleri 2023",
+        "url": "https://veriportali.tuik.gov.tr/Bulten/Index?p=Kazanc-Yapisi-Istatistikleri-2023-53700"
+      },
+      {
+        "ad": "TÜİK işgücü maliyeti istatistikleri 2024",
+        "url": "https://data.tuik.gov.tr/Bulten/Index?p=Isgucu-Maliyeti-Istatistikleri-2024-54011"
       },
       {
         "ad": "TÜİK yükseköğretim istihdam göstergeleri 2025",
@@ -1388,12 +1518,12 @@
         "url": "https://veriyonetim.yok.gov.tr/tr/announcements-detail/84"
       },
       {
-        "ad": "KPSS puan türleri nerede kullanılıyor",
-        "url": "https://www.memurlar.net/haber/933783/kpss-de-hangi-puan-turu-nerede-kullaniliyor.html"
-      },
-      {
         "ad": "ÖSYM, 2026 KPSS lisans alan bilgisi oturumları",
         "url": "https://www.osym.gov.tr/2026-kpss-lisans-sinavi-alan-bilgisi-oturumlari-sinava-giris-belgeleri-erisime-acildi"
+      },
+      {
+        "ad": "KPSS puan türleri nerede kullanılıyor",
+        "url": "https://www.memurlar.net/haber/933783/kpss-de-hangi-puan-turu-nerede-kullaniliyor.html"
       },
       {
         "ad": "Hazine ve Maliye Bakanlığı, vergi müfettiş yardımcılığı sınav ilanı",
@@ -1410,14 +1540,6 @@
       {
         "ad": "BDDK uzman yardımcısı ilanı",
         "url": "https://ilan.memurlar.net/ilan/80269/bddk-160-uzman-yardimcisi-personel-alacak.html"
-      },
-      {
-        "ad": "Youthall, yönetici adaylığı programları",
-        "url": "https://www.youthall.com/tr/is-ilanlari/management-trainee/"
-      },
-      {
-        "ad": "Secretcv, uzman yardımcısı maaşı ve metodoloji notu",
-        "url": "https://www.secretcv.com/pozisyon-rehberi/uzman-yardimcisi/maas"
       },
       {
         "ad": "Sayıştay, denetçi yardımcılığı giriş sınavı ilanı",
@@ -1452,8 +1574,8 @@
         "url": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/7391/geleneksel-girisimci-destek-programi"
       },
       {
-        "ad": "Gelir İdaresi Başkanlığı, genç girişimciler bilgilendirmesi",
-        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU/UNIVERSAL/2026/2026_genc_girisimciler_info.pdf"
+        "ad": "2026 gelir vergisi dilimleri",
+        "url": "https://www.alomaliye.com/2025/12/31/2026-yili-vergi-dilimleri/"
       },
       {
         "ad": "Genç girişimci istisnalarının 2026 dönüşümü",
@@ -1466,6 +1588,34 @@
       {
         "ad": "657 sayılı Devlet Memurları Kanunu",
         "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf"
+      },
+      {
+        "ad": "Youthall, yönetici adaylığı programları",
+        "url": "https://www.youthall.com/tr/is-ilanlari/management-trainee/"
+      },
+      {
+        "ad": "Secretcv ve Indeed maaş sayfaları, veri kalitesi karşılaştırması",
+        "url": "https://www.secretcv.com/pozisyon-rehberi/muhasebe-uzmani/maas"
+      },
+      {
+        "ad": "İşteMülakat, denetim asistanı maaşları, anonim paylaşım",
+        "url": "https://istemulakat.com/meslek/denetim-asistani/maaslari"
+      },
+      {
+        "ad": "Türkiye İş Bankası müfettiş yardımcısı ilanı",
+        "url": "https://ik.isbank.com.tr/is-ilani-detayi/mufettis-yardimcisi-2025MY1"
+      },
+      {
+        "ad": "İşletme mezunu öğretmen olabilir mi",
+        "url": "https://www.memurlar.net/haber/107059/isletme-mezunu-ogretmen-olabilir-mi.html"
+      },
+      {
+        "ad": "İlan hacmi ve pozisyon başlıkları, Indeed ve LinkedIn araması",
+        "url": "https://tr.linkedin.com/jobs/uzman-yard%C4%B1mc%C4%B1s%C4%B1-jobs"
+      },
+      {
+        "ad": "Youthall, doğrulanmış yeni mezun programları",
+        "url": "https://www.youthall.com/tr/talent-programs/"
       }
     ]
   }
