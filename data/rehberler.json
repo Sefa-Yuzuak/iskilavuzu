@@ -3522,5 +3522,445 @@
         "url": "https://kadimhukuk.com.tr/makale/memur-maaslari/"
       }
     ]
+  },
+  {
+    "slug": "dunyada-isleyen-is-modelleri-turkiye-karsiligi",
+    "alan": "is-fikirleri",
+    "baslik": "Dünyada işleyen iş modelleri ve Türkiye karşılıkları",
+    "ozet": "Uzak Doğu, Amerika ve Avrupa'da gerçekten işleyen iş modelleri, resmî verilerle. Her biri için Türkiye'ye uyarlanabilirlik değerlendirmesi ve çalışmayacak olanların listesi.",
+    "cevap": "Yurt dışında işleyen bir model Türkiye'de tutmuyorsa sebep genelde kültür değil, üç şey: satın alma gücü, mevzuat ve sübvansiyon. Verilerin aynı yöne baktığı en güçlü üç fırsat yaşlı refakat hizmeti, evcil hayvan hizmetleri ve belgeli yenilenmiş elektronik. Kapsül otel, yaygın otomat ağı ve abonelik kutusu ise Türkiye'de çalışmıyor.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Bu sayfadaki her rakamın kaynağı var. Resmî kurum verisi ile araştırma şirketi tahminini ayrı ayrı işaretledik, çünkü ikisi aynı ağırlıkta okunmamalı. Kaynağı doğrulanamayan hiçbir sayı yazılmadı."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Uzak Doğu'da ne işliyor?"
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Canlı yayınla satış"
+      },
+      {
+        "tur": "metin",
+        "metin": "Model şöyle işliyor: bir sunucu saatlerce tek ürün grubunu anlatıyor, anlık indirim ve stok baskısıyla satışı kapatıyor. Gelir üç yerden geliyor: komisyon, marka sponsorluğu ve kendi stoğunu satmak."
+      },
+      {
+        "tur": "metin",
+        "metin": "Çin'in canlı yayın ticareti hacmi 2025'te yaklaşık 900 milyar dolar ve tek başına Amerika'nın tüm e-ticaretine yaklaşıyor (1). Türkiye'de e-ticaret 2024'te 3 trilyon 162 milyar lira ve gayrisafi yurt içi hasılanın yüzde 6,5'i (2). Yani altyapı var, eksik olan profesyonel yayıncı ve ajans katmanı."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Otomat işletmeciliği"
+      },
+      {
+        "tur": "metin",
+        "metin": "Japonya'da yaklaşık 3,93 milyon otomat var, kabaca 31 kişiye bir makine (3). Ama dikkat: bu sayı 2000'lerin başındaki 5,6 milyondan düşüyor ve içecek makineleri ilk kez iki milyonun altına indi. Yani otomat cenneti hikâyesi bile artık daralan bir pazar."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Kişisel eşya saklama"
+      },
+      {
+        "tur": "metin",
+        "metin": "Japonya'da saklama hizmetleri pazarı 2024 mali yılında 87,87 milyar yen, yıllık yüzde 6,2 büyümüş (4). Model basit: küçük konutlar artı şehir içi boş depo ya da otopark katı, aylık abonelik. Japonya'da bile pazar 600 milyon dolar civarında, yani küçük ama istikrarlı bir iş kolu."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Koleksiyon ve karakter ekonomisi"
+      },
+      {
+        "tur": "metin",
+        "metin": "Çinli oyuncak şirketi Pop Mart'ın 2024 geliri 13,04 milyar yuan, bir önceki yıla göre yüzde 106,9 artış. 2025'in yalnızca ilk yarısında gelir 13,88 milyar yuana çıkarak tüm 2024'ü geçti (5). Model: kendi karakterini yarat, sürpriz kutuyla satış frekansını artır, kendi perakende ağını kur."
+      },
+      {
+        "tur": "metin",
+        "metin": "Türkiye'de boş olan kısım bu modelin taklidi değil, yerel karakter üretimi."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "İkinci el lüks doğrulama"
+      },
+      {
+        "tur": "metin",
+        "metin": "Japon şirketi Komehyo 1947'den beri şu modelle çalışıyor: ürünü satın alıyor, uzman ekspertizle gerçekliğini onaylıyor, garantili satıyor (6). Kritik nokta ürün değil, güven altyapısı."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Japonya ikinci el lüks pazarı ve kapsül otel pazar büyüklüğü için birbirini tutan güvenilir rakam bulunamadı. Ticari araştırma şirketleri aynı yıl için birbirinden çok farklı sayılar veriyor, o yüzden buraya rakam yazmadık."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Amerika'da ne işliyor?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Sektör",
+          "Veri",
+          "Kaynak türü"
+        ],
+        "satirlar": [
+          [
+            "Evcil hayvan harcaması",
+            "2025'te 158 milyar dolar",
+            "Sektör birliği"
+          ],
+          [
+            "Evde bakım istihdamı",
+            "2025-2035 arası %18 büyüme",
+            "Resmî istatistik kurumu"
+          ],
+          [
+            "Evde bakım açık pozisyon",
+            "Yılda ortalama 760.500",
+            "Resmî istatistik kurumu"
+          ],
+          [
+            "Tadilat ve onarım harcaması",
+            "2024'te 603 milyar dolar",
+            "Üniversite araştırma merkezi"
+          ],
+          [
+            "Food truck işletmesi",
+            "92.257 işletme, 2,8 milyar dolar pazar",
+            "Sektör analizi"
+          ],
+          [
+            "Depolama tesisi",
+            "52.301 tesis",
+            "Sektör verisi"
+          ],
+          [
+            "Franchise",
+            "851.000 birim, 9 milyon istihdam",
+            "Sektör birliği"
+          ]
+        ],
+        "not": "Kaynaklar sırasıyla 7, 8, 9, 10, 11 ve 13."
+      },
+      {
+        "tur": "metin",
+        "metin": "Evcil hayvan tarafında büyüme mamada değil hizmette: gündüz bakımı, gezdirme, otel, tıraş. Sermaye düşük başlıyor, tek kişi ve bir araçla, sonra franchise'a kadar ölçekleniyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yaşlı bakımında model tıbbi değil refakat ağırlıklı. Eşleştirme, planlama ve faturalama yapan bir ajans, saatlik ücretin bir kısmını alıyor. Amerika'da bu meslek grubu, ülkedeki bütün mesleklerden daha fazla yeni iş üretecek görünüyor (8)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Ev tadilatında asıl iş fikri müteahhitlik değil, usta bulma ve garanti verme katmanı."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Food truck verisi öğretici bir uyarı taşıyor. İşletme sayısı bir yılda yüzde 16,9 artmış ama pazar yüzde 0,2 daralmış (10). Yani oyuncu sayısı gelirden hızlı artıyor ve kişi başına düşen kâr düşüyor. Bir sektörün büyüdüğünü duyunca oyuncu sayısının nasıl arttığına da bakın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Avrupa'da düzenleme yeni iş kolu yaratıyor"
+      },
+      {
+        "tur": "metin",
+        "metin": "Avrupa'daki fırsatların çoğu bir düzenlemeden doğuyor. Bu, modeli anlamayı kolaylaştırıyor: kural geliyor, uyum zorunlu hâle geliyor, hizmet talebi oluşuyor."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Onarım hakkı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Avrupa Birliği'nin onarım hakkı direktifi yürürlükte ve bütün üye devletler 31 Temmuz 2026'ya kadar iç hukuka aktarmak zorunda (14)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Fransa'daki onarım fonu somut sonuç üretti: 2024'te 574.563 onarım desteklendi ve ortalama 146 euroluk faturanın 34 eurosu fondan karşılandı. Ama ayrılan bütçenin yalnızca yüzde 18'i harcanabildi (15). Yani devlet parayı koyuyor, onarım atölyesi arzı yetişmiyor. Avrupa'da açık olan iş kolu tam burası."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "İkinci el ve döngüsel ekonomi"
+      },
+      {
+        "tur": "metin",
+        "metin": "İkinci el giyim platformu Vinted 2024'te 813,4 milyon euro gelir ve 76,7 milyon euro net kâr açıkladı (16). Makro tarafta Avrupa Birliği'nin döngüsel malzeme kullanım oranı 2024'te yüzde 12,2 ile rekor seviyede, ancak 2030 hedefi yüzde 23,2 (17). Yani birlik kendi hedefinin yarısında ve aradaki fark doğrudan yeni iş talebi demek."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Diğerleri"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Kargo bisikleti lojistiği. Şehir merkezi araç kısıtları bunu zorunlu kıldı. İş modeli bisiklet satmak değil, mikro dağıtım merkezi ve kurye filosu işletmek (18).",
+          "Sosyal girişim. Avrupa'da 2,8 milyon sosyal ekonomi kuruluşu var ve 13,6 milyon kişi istihdam ediyor. Model ticari gelir, kamu ihalesi ve hibe karması (19).",
+          "Enerji verimliliği hizmetleri. Bina enerji performansı direktifiyle konutlarda 2030'dan itibaren asgari enerji sınıfı zorunluluğu geliyor. Bu, enerji kimlik belgesi, yalıtım denetimi ve enerji performans sözleşmeciliğini doğrudan mecburi hizmete çeviriyor (20)."
+        ]
+      },
+      {
+        "tur": "baslik",
+        "metin": "Türkiye'de hangisi tutar?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Önce iki yapısal gerçek. 65 yaş üstü nüfus 2024'te 9,11 milyon ve toplam nüfusun yüzde 10,6'sı; 2030 projeksiyonu yüzde 13,5 (21). Tek kişilik hane oranı 2016'da yüzde 14,9 iken 2024'te yüzde 20'ye çıktı, ortalama hane 3,11 kişi (22). Bu ikisi aşağıdaki modellerin çoğunun talep tabanını oluşturuyor."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Model",
+          "Talep",
+          "Sermaye",
+          "Yasal engel",
+          "Şehir"
+        ],
+        "satirlar": [
+          [
+            "Canlı yayın satış ajansı",
+            "Yüksek",
+            "Düşük",
+            "Yok",
+            "İstanbul, Bursa, Denizli"
+          ],
+          [
+            "Yaşlı refakat ve evde bakım",
+            "Çok yüksek",
+            "Orta",
+            "Ruhsat ve sigortalı personel",
+            "Ankara, İzmir, İstanbul"
+          ],
+          [
+            "Evcil hayvan hizmetleri",
+            "Artıyor",
+            "Düşük orta",
+            "İşletme ruhsatı ve kayıt",
+            "İstanbul, İzmir, Ankara"
+          ],
+          [
+            "Yenilenmiş elektronik",
+            "Yüksek",
+            "Orta",
+            "Yenileme yetki belgesi zorunlu",
+            "İstanbul, Gaziantep"
+          ],
+          [
+            "Kişisel eşya saklama",
+            "Orta",
+            "Orta yüksek",
+            "Depolama ruhsatı",
+            "İstanbul, Ankara"
+          ],
+          [
+            "Usta bulma ve garanti platformu",
+            "Yüksek",
+            "Düşük",
+            "Yok",
+            "Bütün büyükşehirler"
+          ],
+          [
+            "Enerji verimliliği denetimi",
+            "Orta",
+            "Düşük",
+            "Yetkilendirme gerekiyor",
+            "Ankara, Eskişehir, Erzurum"
+          ],
+          [
+            "Kargo bisikleti lojistiği",
+            "Düşük orta",
+            "Orta",
+            "Belediye izni, bisiklet yolu yok",
+            "İzmir, Antalya, Eskişehir"
+          ]
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Verilerin aynı yöne baktığı en güçlü üç fırsat şunlar. Yaşlı refakat hizmeti: nüfus projeksiyonu ve devletin evde bakım yardımından yararlanan 517.821 kişilik hazır talep tabanı (21, 26). Evcil hayvan hizmetleri: kayıt sisteminde kimliklendirilen ev hayvanı sayısı 2,37 milyonu aştı (27). Yenilenmiş elektronik: belgeli, garantili ve mevzuatı hazır bir pazar (23)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Türkiye'de çalışmayacak olanlar"
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu bölüm rehberin en yararlı kısmı olabilir. Aşağıdakiler kulağa iyi geliyor ama Türkiye'de yürümüyor ve sebepleri somut."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Kapsül otel. Turizm tesisleri yönetmeliğinde hostel için asgari on oda, oda başına en fazla sekiz kişi ve kişi başına en az dört metrekare şartı var (24). Kapsülün ekonomisi tam da kişi başı alanı iki metrekarenin altına indirmeye dayanıyor. Belgeli konaklama olarak ruhsatlandırılması bu hâliyle mümkün değil."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Yaygın otomat ağı. Gıda satan otomat, gıda işletmelerinin kayıt ve onay yönetmeliği kapsamında işletme kayıt belgesi gerektiriyor (25). Buna vandalizm riski, elektrik ve enflasyonla sürekli fiyat güncelleme yükü eklenince Japonya yoğunluğu ekonomik olarak imkânsız. Hastane, fabrika ve üniversite gibi kapalı alanlar dışında çalışmıyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Onarım fonu iş modeli. Fransa'daki onarım desteği, üretici katkılarıyla finanse edilen bir devlet mekanizması (15). Türkiye'de böyle bir fon yok. Onarım ekonomisi burada sübvansiyonla değil, ancak yenilenmiş ürünün belgeli satışıyla kurulabilir."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Abonelik kutusu. Kur ve enflasyon nedeniyle sabit aylık fiyat taahhüdüyle marjı dar ürün göndermek sürdürülebilir değil. Amerika'daki rakamlar Türkiye'ye taşınamaz."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Mikro depolama, ilk iş olarak. Amerika'da elli iki binden fazla tesis var ama bu bir gayrimenkul işi (11). Kiralık depoda başlayan girişimci kira artışına yenilir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Pazar büyüklüğü haberlerine nasıl bakmalı?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu araştırmada bile aynı yıl için abonelik kutusu pazarını 9 ile 15 milyar dolar arasında, kapsül otel pazarını 127 ile 317 milyon dolar arasında gösteren tahminlerle karşılaştık."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kural şu: resmî kurum verisi ile araştırma şirketi tahminini asla aynı ağırlıkta okumayın. İstatistik kurumları, bakanlıklar ve merkez bankaları bir kategoride; pazar raporu satan şirketler bambaşka bir kategoride."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Yurt dışında işleyen bir model Türkiye'de neden tutmuyor?",
+        "c": "Genelde kültür değil, üç şey: satın alma gücü, mevzuat ve sübvansiyon. Kapsül otel mevzuata takılıyor, abonelik kutusu satın alma gücüne, onarım fonu ise böyle bir fonun olmamasına."
+      },
+      {
+        "s": "En düşük sermayeyle hangi model başlar?",
+        "c": "Hizmet aracılığı yapanlar. Canlı yayın satış ajansı, usta bulma platformu, evcil hayvan gezdirme. Fiziksel stok yok, ilk müşteriye kadar maliyet çok düşük."
+      },
+      {
+        "s": "Yaşlı bakımı için diploma şart mı?",
+        "c": "Tıbbi bakım için evet. Refakat, alışveriş, ulaşım ve sosyalleşme gibi hizmetler farklı kategoride. Yine de personel sigortalı çalıştırılmalı ve işletme ruhsatı alınmalı."
+      },
+      {
+        "s": "İkinci el telefon satmak için izin gerekiyor mu?",
+        "c": "Yenilenmiş ürün olarak satmak için Ticaret Bakanlığı'ndan yenileme yetki belgesi gerekiyor. Ayrıca yenilenmiş ürüne en az on iki ay garanti verme zorunluluğu var."
+      },
+      {
+        "s": "Canlı yayınla satışta gerçekten para var mı?",
+        "c": "Çin'de pazar 900 milyar dolar civarında ve Türkiye'de e-ticaret zaten gayrisafi yurt içi hasılanın yüzde 6,5'i. Ama para yayıncıda değil operasyonda. Stok, iade ve kargo yönetemeyen ekipler yayın izlenmesine rağmen zarar ediyor."
+      },
+      {
+        "s": "Hangi şehir hangi model için mantıklı?",
+        "c": "Yaşlı hizmetleri ve tadilat için Ankara ve İzmir gibi yerleşik, yaşlanan şehirler. Canlı yayın satışı için üretime yakın Bursa, Denizli ve İstanbul. Turizm bağlantılı hizmetler için Antalya."
+      },
+      {
+        "s": "Pazar büyüklüğü şu kadar milyar dolar haberlerine güvenmeli miyim?",
+        "c": "Hayır. Aynı yıl için birbirinin iki katı rakam veren kaynaklar var. Resmî kurum verisiyle araştırma şirketi tahminini asla aynı ağırlıkta okumayın."
+      },
+      {
+        "s": "Franchise almak mı, sıfırdan kurmak mı?",
+        "c": "Amerika'da franchise 851.000 birim ve 9 milyon istihdamla kanıtlanmış bir yapı, ama sistem kirası ve ciro payı istiyor. Talebin belirsiz olduğu bir işte franchise, talebin belli olduğu bir işte kendi markanız daha mantıklı."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "NIQ, Çin canlı yayın ticareti pazarı",
+        "url": "https://nielseniq.com/global/en/news-center/2026/chinas-900b-live-commerce-market-now-approaches-us-e-commerce-scale/"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, 2024 e-ticaret hacmi",
+        "url": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-2024-itibariyla-e-ticaret-hacmi-3-trilyon-162-milyon-lira-oldu/3558318"
+      },
+      {
+        "ad": "Japonya otomat sayısı, sektör birliği verisine dayalı",
+        "url": "https://japan-dev.com/blog/how-many-vending-machines-in-japan"
+      },
+      {
+        "ad": "Yano Research, Japonya saklama hizmetleri pazarı",
+        "url": "https://www.yano.co.jp/press-release/show/press_id/3809"
+      },
+      {
+        "ad": "Pop Mart 2024 finansal sonuçları",
+        "url": "https://finance.yahoo.com/news/pop-mart-releases-2024-financials-080700598.html"
+      },
+      {
+        "ad": "Komehyo, ikinci el lüks doğrulama modeli",
+        "url": "https://www.theworldfolio.com/interviews/komehyo-holdings-expands-japans-circular-luxury-market-through-trusted-authentication-and-global-reuse/7488/"
+      },
+      {
+        "ad": "Amerikan evcil hayvan ürünleri birliği, 2025 sektör büyüklüğü",
+        "url": "https://americanpetproducts.org/news/u.s.-pet-industry-reaches-158-billion-in-2025-poised-for-continued-growth-in-2026"
+      },
+      {
+        "ad": "Amerika İş İstatistikleri Bürosu, evde bakım görevlileri",
+        "url": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm"
+      },
+      {
+        "ad": "Harvard konut araştırma merkezi, tadilat harcamaları 2025",
+        "url": "https://www.jchs.harvard.edu/improving-americas-housing-2025"
+      },
+      {
+        "ad": "IBISWorld, Amerika food truck pazarı",
+        "url": "https://www.ibisworld.com/united-states/market-size/food-trucks/4322/"
+      },
+      {
+        "ad": "Amerika depolama sektörü istatistikleri",
+        "url": "https://www.sparefoot.com/blog/self-storage-industry-statistics"
+      },
+      {
+        "ad": "IMARC, Amerika abonelik kutusu pazarı, tahmin",
+        "url": "https://www.imarcgroup.com/united-states-subscription-box-market"
+      },
+      {
+        "ad": "Uluslararası Franchise Birliği, 2025 ekonomik görünüm",
+        "url": "https://www.franchise.org/2025/02/ifa-2025-economic-outlook-franchising-outpaces-u-s-economy/"
+      },
+      {
+        "ad": "Avrupa Birliği onarım hakkı direktifi",
+        "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/oj/eng"
+      },
+      {
+        "ad": "Fransa onarım fonu 2024 bilançosu",
+        "url": "https://www.clcv.org/articles/reparation-des-equipements-electriques-et-electroniques-eee-bilan-de-lobservatoire-2024"
+      },
+      {
+        "ad": "Vinted 2024 finansal sonuçları",
+        "url": "https://company.vinted.com/newsroom/Vinted-delivers-strong-profitable-growth-while-investing"
+      },
+      {
+        "ad": "Eurostat, döngüsel malzeme kullanım oranı 2024",
+        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251119-1"
+      },
+      {
+        "ad": "Kargo elektrikli bisiklet pazarı, tahmin",
+        "url": "https://market.us/report/cargo-e-bike-market/"
+      },
+      {
+        "ad": "Avrupa Komisyonu, sosyal ekonomi eylem planı",
+        "url": "https://ec.europa.eu/social/BlobServlet?docId=24984&langId=en"
+      },
+      {
+        "ad": "Avrupa Birliği bina enerji performansı direktifi",
+        "url": "https://eur-lex.europa.eu/eli/dir/2024/1275/oj/eng"
+      },
+      {
+        "ad": "TÜİK, istatistiklerle yaşlılar 2024",
+        "url": "https://www.aa.com.tr/tr/ekonomi/turkiyede-yasli-nufus-yuzde-20-7-artarak-gecen-yil-9-milyon-112-bin-kisiye-ulasti/3508229"
+      },
+      {
+        "ad": "TÜİK, istatistiklerle aile 2024",
+        "url": "https://www.dha.com.tr/gundem/tuik-ortalama-hanehalki-buyuklugu-3-11-kisiye-dustu-2638906"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, yenileme yetki belgesi",
+        "url": "https://ticaret.gov.tr/tuketici/belgelendirme-islemleri/yenileme-yetki-belgesi/yenileme-yetki-belgesi-hakkinda"
+      },
+      {
+        "ad": "Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.1134.pdf"
+      },
+      {
+        "ad": "Tarım ve Orman Bakanlığı, gıda işletmeleri kayıt ve onay",
+        "url": "https://www.tarimorman.gov.tr/Konular/Gida-Ve-Yem-Hizmetleri/Gida-Hizmetleri/Kayit-Onay"
+      },
+      {
+        "ad": "Aile ve Sosyal Hizmetler Bakanlığı, evde bakım sistemi",
+        "url": "https://www.aile.gov.tr/eyhgm/haberler/evde-bakim-sisteminden-140-bin-yasli-yararlaniyor/"
+      },
+      {
+        "ad": "Tarım ve Orman Bakanlığı, kimliklendirilen ev hayvanı sayısı",
+        "url": "https://www.aa.com.tr/tr/yasam/kimliklendirilen-ev-hayvani-sayisi-2-milyonu-asti/3007313"
+      }
+    ]
   }
 ]
