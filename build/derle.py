@@ -137,6 +137,9 @@ def main() -> int:
     yaz(DIST / "index.html", env.get_template("home.html").render(**ortak))
     yaz(DIST / "404.html", env.get_template("404.html").render(**ortak))
 
+    yaz(DIST / "rehberler" / "index.html",
+        env.get_template("rehberler.html").render(**ortak))
+
     for a in alanlar:
         yaz(DIST / a["slug"] / "index.html",
             env.get_template("alan.html").render(alan=a, **ortak))
@@ -147,9 +150,13 @@ def main() -> int:
                 rehber=r, alan=alan_haritasi.get(r.get("alan"), {}), **ortak))
 
     # site haritasi
-    yollar = ["/"] + [a["yol"] for a in alanlar] + [r["yol"] for r in rehberler]
+    yollar = (["/"] + (["/rehberler/"] if rehberler else [])
+              + [a["yol"] for a in alanlar] + [r["yol"] for r in rehberler])
+    tarihler = {r["yol"]: r.get("guncelleme") for r in rehberler}
     girdiler = "\n".join(
-        f"  <url><loc>{kok}{y}</loc></url>" for y in yollar)
+        f"  <url><loc>{kok}{y}</loc>"
+        + (f"<lastmod>{tarihler[y]}</lastmod>" if tarihler.get(y) else "")
+        + "</url>" for y in yollar)
     yaz(DIST / "sitemap.xml",
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'

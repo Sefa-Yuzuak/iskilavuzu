@@ -48,9 +48,10 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}',{anonymize_ip:true});
     </button>
     <nav id="ana-menu" class="ana-menu" aria-label="Ana menü">
       <ul>
-        {% for a in alanlar[:5] %}
+        {% for a in alanlar[:4] %}
         <li><a href="{{ a.yol }}">{{ a.ad }}</a></li>
         {% endfor %}
+        {% if rehberler %}<li><a href="/rehberler/">Tüm rehberler</a></li>{% endif %}
       </ul>
     </nav>
   </div>

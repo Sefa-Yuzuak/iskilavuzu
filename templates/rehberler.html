@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block baslik %}Tüm rehberler — {{ site.ad }}{% endblock %}
+{% block aciklama %}{{ site.ad }} sitesindeki bütün rehberler. Her rehberdeki sayı kaynağıyla birlikte duruyor.{% endblock %}
+{% block yol %}/rehberler/{% endblock %}
+
+{% block sema %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Ana sayfa","item":"{{ kok }}/"},
+    {"@type":"ListItem","position":2,"name":"Tüm rehberler","item":"{{ kok }}/rehberler/"}
+  ]
+}
+</script>
+{% if rehberler %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Tüm rehberler",
+  "numberOfItems": {{ rehberler | length }},
+  "itemListElement": [
+    {% for r in rehberler %}
+    {"@type":"ListItem","position":{{ loop.index }},"url":"{{ kok }}{{ r.yol }}"}{{ "," if not loop.last }}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+{% endblock %}
+
+{% block govde %}
+<section class="hero hero--alan">
+  <div class="kap">
+    <nav class="kirinti" aria-label="Konum"><a href="/">Ana sayfa</a> <span>/</span> <span>Tüm rehberler</span></nav>
+    <h1>Tüm rehberler</h1>
+    <p class="giris">{{ rehberler | length }} rehber, toplam {{ rehberler | map(attribute='kaynaklar') | map('length') | sum }} kaynak. Her sayının yanında kaynak numarası var, listesi sayfanın altında duruyor.</p>
+  </div>
+</section>
+
+<section class="kap bolum">
+  {% for a in alanlar if a.rehberler %}
+  <div class="bolum-bas" {% if not loop.first %}style="margin-top:2.5rem"{% endif %}>
+    <h2><a href="{{ a.yol }}">{{ a.ikon }} {{ a.ad }}</a></h2>
+  </div>
+  <ul class="kart-liste genis">
+    {% for r in a.rehberler %}
+    <li>
+      <a href="{{ r.yol }}">
+        <span class="kart-baslik">{{ r.baslik }}</span>
+        <span class="kart-ozet">{{ r.ozet }}</span>
+        <span class="kart-meta">{{ r.okuma }} dk · {{ r.kaynaklar | length }} kaynak{% if r.guncelleme %} · {{ r.guncelleme | tarih }}{% endif %}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+
+  {% set bos = alanlar | rejectattr('rehberler') | list %}
+  {% if bos %}
+  <div class="bolum-bas" style="margin-top:3rem">
+    <h2>Hazırlanan konular</h2>
+    <p>Bu başlıklarda henüz yayımlanmış rehber yok.</p>
+  </div>
+  <ul class="ilke-liste">
+    {% for a in bos %}
+    <li><a href="{{ a.yol }}">{{ a.ad }}</a>. {{ a.aciklama }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</section>
+{% endblock %}
