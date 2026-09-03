@@ -1079,5 +1079,394 @@
         "url": "https://www.parasut.com/blog/gecici-vergi"
       }
     ]
+  },
+  {
+    "slug": "isletme-mezunu-ne-is-yapar",
+    "alan": "meslek-secimi",
+    "baslik": "İşletme mezunu ne iş yapar? Maaş, KPSS ve kendi işi",
+    "ozet": "İşletme mezununun dört yolu tek sayfada: özel sektörde hangi pozisyon, ne maaş, KPSS ile hangi kadro, kendi işini kurarsa ne yapabilir.",
+    "cevap": "İşletme mezunu özel sektörde muhasebe, insan kaynakları, satın alma ve satış tarafına giriyor. Kamuda ise uzman ve müfettiş yardımcılığı sınavlarına başvurabiliyor, en çok kapı açan puan türü P48. Diploma tek başına ayırt edici değil; asıl fark yaratan staj, sertifika ve İngilizce üçlüsü.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "baslik",
+        "metin": "Özel sektörde hangi pozisyonlar açık?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Yeni mezun için giriş kadroları şunlar: ön muhasebe ve muhasebe elemanlığı, insan kaynakları asistanlığı, satış temsilciliği, satın alma asistanlığı, pazarlama uzmanlığı, müşteri ilişkileri, operasyon ve lojistik asistanlığı, bağımsız denetim asistanlığı."
+      },
+      {
+        "tur": "metin",
+        "metin": "En yapılandırılmış kapı yönetici adaylığı programları. On iki ile otuz altı ay arası departman rotasyonu içeriyorlar ve başvurular genelde ocak-mart ile eylül-kasım aralığında açılıyor (11). Garanti BBVA'nın 2026 programında başvurular 27 Ocak ile 19 Şubat arasındaydı ve 2025 ile sonrası mezunlar başvurabiliyordu."
+      },
+      {
+        "tur": "metin",
+        "metin": "Üç ile beş yıl deneyimden sonra yol uzman, kıdemli uzman, takım lideri ve müdür yardımcısı diye ilerliyor. Yaygın başlıklar: finansal raporlama uzmanı, bütçe ve raporlama uzmanı, iç denetçi, tedarik zinciri uzmanı, iş analisti, insan kaynakları iş ortağı."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Abartısız tablo şu. TÜİK verisine göre iş, yönetim ve hukuk alanındaki lisans mezunlarında kayıtlı istihdam oranı yüzde 74,1, kendi alanında çalışma oranı yüzde 79,6 ve ilk iş bulma süresi ortalama 14,2 ay (3). YÖK verisine göre bu alan, açıköğretim hariç en kalabalık öğrenci grubu, yüzde 21,3 (4). Yani diploma tek başına ayırt edici değil."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Maaşlar ne durumda?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Referans olsun diye: 2026 asgari ücret brüt 33.030 lira, net 28.075 lira. İşverene maliyeti, imalat dışı ve iki puan indirimli hesapla 40.214 lira (1)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Pozisyon",
+          "0-1 yıl",
+          "2-4 yıl",
+          "5-9 yıl"
+        ],
+        "satirlar": [
+          [
+            "Muhasebe elemanı",
+            "31.200 TL",
+            "37.800 TL",
+            "43.300 TL"
+          ],
+          [
+            "Pazarlama uzmanı",
+            "30.100 TL",
+            "35.900 TL",
+            "40.800 TL"
+          ],
+          [
+            "Satış temsilcisi",
+            "35.300 TL",
+            "42.400 TL",
+            "48.100 TL"
+          ],
+          [
+            "İnsan kaynakları uzmanı",
+            "37.500 TL",
+            "45.400 TL",
+            "51.400 TL"
+          ],
+          [
+            "Satın alma uzmanı",
+            "44.100 TL",
+            "53.700 TL",
+            "61.100 TL"
+          ],
+          [
+            "Uzman yardımcısı",
+            "29.100 TL",
+            "35.300 TL",
+            "40.400 TL"
+          ]
+        ],
+        "not": "Eleman.net kazanç haritası 2026 verisi (2). Site metodolojisini, iş arayanların özgeçmişlerinde paylaştığı bilgiler ve işverenlerin ilanlarda belirttiği tutarlar olarak açıklıyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Bu rakamlar resmî istatistik değil, site verisi. Örneklem çok küçük olabiliyor. Aynı pozisyon için başka bir site 42.500 lira diyor ama sayfasında bu tutarın tek kişinin paylaştığı veriyle hesaplandığı yazıyor (12). Tek siteye dayanan maaş rakamına güvenmeyin, birkaç kaynağı karşılaştırın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "KPSS ile hangi kadrolara girilir?"
+      },
+      {
+        "tur": "metin",
+        "metin": "İki ayrı dünya var. B grubunda memur ve veri hazırlama kontrol işletmenliği gibi kadrolar var, kurum sınavı yok, ÖSYM puan ve tercihle merkezi yerleştirme yapıyor. Puan iki yıl geçerli (5)."
+      },
+      {
+        "tur": "metin",
+        "metin": "A grubunda uzman yardımcılığı, müfettiş yardımcılığı, denetçi yardımcılığı ve denetmenlik var. Burada KPSS yalnızca başvuru barajı; asıl seçim kurumun kendi yazılı ve sözlü sınavıyla yapılıyor (5)."
+      },
+      {
+        "tur": "metin",
+        "metin": "İşletme mezunu için alan bilgisi oturumları belirleyici. 2026 takviminde 12 Eylül'de hukuk, iktisat ve maliye; 13 Eylül'de işletme, muhasebe ve istatistik oturumları yapıldı (6). Her test 40 soru ve bütün testlere girmek zorunlu değil, hedeflediğiniz kadronun puan türü neyi gerektiriyorsa ona göre seçiyorsunuz."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Dikkat edilmesi gereken bir tuzak var. En çok kapı açan puan türü P48 ve içeriği genel yetenek, genel kültür, hukuk, iktisat, maliye ve muhasebe. Yani P48 işletme testini içermiyor. İşletme mezunu bu türe girecekse hukuk ve maliye çalışmak zorunda. İşletme testini içeren türler P23, P40, P42 ve P43 ile P46 arası. Ağırlık yüzdeleri kaynaklar arasında tutarsız olduğu için buraya yazmıyoruz, ÖSYM kılavuzundan doğrulayın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Hangi kurum sınavlarına başvurabilirim?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kurum ve kadro",
+          "KPSS şartı",
+          "Yaş",
+          "Not"
+        ],
+        "satirlar": [
+          [
+            "Vergi müfettiş yardımcılığı",
+            "Belirli türlerden en az 80",
+            "35",
+            "250 kadro, ilk 1.000 aday (7)"
+          ],
+          [
+            "Hazine ve Maliye uzman yardımcılığı",
+            "Alana göre en az 75",
+            "35",
+            "Yazılı klasik ve sözlü (8)"
+          ],
+          [
+            "Sermaye Piyasası Kurulu uzman yardımcılığı",
+            "Belirli türlerden en az 75",
+            "35",
+            "20 kadro, ilk 400 aday (9)"
+          ],
+          [
+            "BDDK bankacılık uzman yardımcılığı",
+            "Belirli türlerden en az 75",
+            "—",
+            "160 kadro, ilk 400 aday (10)"
+          ],
+          [
+            "Sayıştay denetçi yardımcılığı",
+            "P48",
+            "35",
+            "Eleme, yazılı ve mülakat (13)"
+          ],
+          [
+            "Ticaret müfettiş yardımcılığı",
+            "P48, en az 80",
+            "—",
+            "İlk 300 aday (14)"
+          ],
+          [
+            "Merkez Bankası uzman yardımcılığı",
+            "P1 en az 80",
+            "1990 ve sonrası",
+            "Ayrıca YDS en az 70 (15)"
+          ]
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Merkez Bankası'nın dil şartı, işletme mezunları için en sık elenme sebebi. İngilizce olmadan o kapı kapalı."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Hangi sertifika hangi kapıyı açıyor?"
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Serbest muhasebeci mali müşavirlik"
+      },
+      {
+        "tur": "metin",
+        "metin": "İşletme lisans mezunu doğrudan uygun. Yol şöyle: staja giriş sınavı, ardından üç yıl staj, sonra yeterlilik sınavı ve ruhsat. Staja giriş sınavı yılda üç dönem yapılıyor ve geçme notu 60 (16)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Türkiye'de hâlen 126.251 mali müşavir ve 5.085 yeminli mali müşavir var (17). Yani pazar doygun. Buna rağmen kendi işini kurma açısından diplomanın en net karşılığı bu ruhsat."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Bağımsız denetçilik"
+      },
+      {
+        "tur": "metin",
+        "metin": "Önce mali müşavir ya da yeminli mali müşavir ruhsatı zorunlu. Ardından en az üç yıl uygulamalı mesleki eğitim ve Kamu Gözetimi Kurumu'nun denetçilik sınavı geliyor (18). Halka açık şirket ve büyük ölçekli denetim kapısını açıyor."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Sermaye piyasası lisansları"
+      },
+      {
+        "tur": "metin",
+        "metin": "Dokuz lisans türü var. İşletme mezunu için anlamlı olanlar düzey 1, düzey 2, düzey 3, türev araçlar, kredi derecelendirme ve gayrimenkul değerleme (19). Aracı kurum, portföy yönetimi ve bankaların yatırım birimlerinde çalışmanın ön şartı."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kendi işini kurarsa ne yapabilir?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gerçekçi olalım: işletme diploması tek başına iş kurdurmuyor. Ama ruhsat ve sermaye teşviki birleşince avantaj sağlıyor. En somut yollar şunlar."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Mali müşavirlik bürosu. Ruhsat sonrası açılıyor. Tekrarlayan abonelik geliri olan ve diplomanın doğrudan karşılığı sayılabilecek tek serbest meslek.",
+          "Bağımsız denetim şirketi. Ruhsat ve kurum yetkisiyle. Giriş bariyeri yüksek, tam da bu yüzden rekabet düşük.",
+          "Danışmanlık. Destek dosyaları, bütçeleme, kurumsal kaynak planlama geçişi gibi işler. Sermaye gerektirmiyor, referans gerektiriyor.",
+          "Ticaret, e-ticaret ve franchise operasyonu. Müfredatın maliyet, stok ve nakit akışı tarafı burada doğrudan işe yarıyor."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Sayısal destek tarafında KOSGEB'in geleneksel girişimci destek programı var. Kuruluş desteği gerçek kişi işletmede 5.000 lira, sermaye şirketinde 10.000 lira. Girişimci genç, kadın, engelli, gazi ya da şehit yakınıysa 10.000 lira ekleniyor. Performans desteği her iki dönemde 5.000 ile 20.000 lira bandında (20)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Vergi tarafında genç girişimci kazanç istisnası devrede. Yirmi dokuz yaşını doldurmamış ve ilk kez gerçek usulde mükellef olanlar için üç vergilendirme dönemi boyunca, 2026'da 400.000 liraya kadar (21). Ancak Bağ-Kur prim desteği 1 Ocak 2026'dan itibaren kaldırıldı (22)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Yüksek lisans mantıklı mı?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Üç durumda net evet, diğer hallerde hayır."
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "Mali müşavirlik hedefiniz varsa.",
+            "metin": "Tezli yüksek lisans staj süresinden bir yıl, tezsiz altı ay düşürüyor (23). Ölçülebilir ve doğrudan bir getiri."
+          },
+          {
+            "baslik": "Kamuda memursanız.",
+            "metin": "Devlet Memurları Kanunu'nun 36. maddesi uyarınca yüksek lisans bir kademe, mesleğe ilişkin doktora iki kademe ilerlemesi sağlıyor (24)."
+          },
+          {
+            "baslik": "Nitelikli uzmanlık ya da akademi hedefliyorsanız.",
+            "metin": "Aktüerya, finans mühendisliği ya da veri analitiği gibi alanlar."
+          }
+        ]
+      },
+      {
+        "tur": "uyari",
+        "metin": "Buna karşılık \"iş bulamadım, yüksek lisans yapayım\" gerekçesi işe yaramıyor. İşveren tarafında ayırt edici olan yüksek lisans değil, staj, sertifika ve İngilizce üçlüsü. Deneyimsiz bir yüksek lisans ilk iş bulma süresini kısaltmıyor."
+      }
+    ],
+    "sss": [
+      {
+        "s": "İşletme mezunu öğretmen olabilir mi?",
+        "c": "Doğrudan hayır. Milli Eğitim Bakanlığı'nın öğretmenliğe kaynak program çizelgesinde işletme lisans programı yer almıyor. Muhasebe grubu öğretmenliğine yalnızca muhasebe ve finans mezunları atanabiliyor. Güncel çizelgeyi Talim ve Terbiye Kurulu kararından doğrulayın."
+      },
+      {
+        "s": "KPSS'ye girmeden kamuya girilir mi?",
+        "c": "Hayır. A grubunda da KPSS baraj olarak zorunlu. Fark şu: A grubunda seçim kurumun kendi sınavıyla yapılıyor, KPSS sadece başvuru hakkı veriyor."
+      },
+      {
+        "s": "En değerli KPSS puan türü hangisi?",
+        "c": "İşletme mezunu için P48 en çok kapı açan tür. Sayıştay, vergi müfettişliği ve ticaret müfettişliği bu türü istiyor. Ama dikkat, P48 işletme testini içermiyor, hukuk ve maliye çalışmanız gerekiyor."
+      },
+      {
+        "s": "Büyük denetim şirketi mi, kamu mu?",
+        "c": "Denetim şirketleri hızlı öğrenme ve mali müşavirlik ile bağımsız denetçilik yolunu açıyor. Kamu iş güvencesi sağlıyor. Vergi müfettişliğinin barajı yüksek: P48'den en az 80 ve ilk 1.000 aday arasında olmak."
+      },
+      {
+        "s": "Mali müşavirlik kaç yılda biter?",
+        "c": "Staja giriş sınavı, üç yıl staj ve yeterlilik sınavı. Tezli yüksek lisansla staj iki yıla iniyor."
+      },
+      {
+        "s": "Bağımsız denetçi olmak için mali müşavirlik şart mı?",
+        "c": "Evet, ön şart. Ruhsat, üç yıl uygulamalı eğitim ve Kamu Gözetimi Kurumu sınavı gerekiyor."
+      },
+      {
+        "s": "İngilizce şart mı?",
+        "c": "Çok uluslu şirketler, yönetici adaylığı programları ve Merkez Bankası için evet. Merkez Bankası YDS'den en az 70 istiyor."
+      },
+      {
+        "s": "Yeni mezunum, ne kadar maaş beklemeliyim?",
+        "c": "Site verilerine göre pozisyona göre 29.000 ile 44.000 lira arasında değişiyor. Ama bu rakamların örneklemi küçük olabiliyor, birkaç kaynağı karşılaştırın. 2026 asgari ücret net 28.075 lira."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Alomaliye, 2026 asgari ücreti ve işverene maliyeti",
+        "url": "https://www.alomaliye.com/2025/12/23/2026-yili-asgari-ucreti-2026-yili-asgari-ucret-bilgilendirme/"
+      },
+      {
+        "ad": "Eleman.net kazanç haritası 2026",
+        "url": "https://www.eleman.net/meslek/muhasebe-elemani/maas"
+      },
+      {
+        "ad": "TÜİK yükseköğretim istihdam göstergeleri 2025",
+        "url": "https://www.alomaliye.com/2026/07/23/yuksekogretim-istihdam-gostergeleri-2025/"
+      },
+      {
+        "ad": "YÖK yükseköğretim istatistikleri",
+        "url": "https://veriyonetim.yok.gov.tr/tr/announcements-detail/84"
+      },
+      {
+        "ad": "KPSS puan türleri nerede kullanılıyor",
+        "url": "https://www.memurlar.net/haber/933783/kpss-de-hangi-puan-turu-nerede-kullaniliyor.html"
+      },
+      {
+        "ad": "ÖSYM, 2026 KPSS lisans alan bilgisi oturumları",
+        "url": "https://www.osym.gov.tr/2026-kpss-lisans-sinavi-alan-bilgisi-oturumlari-sinava-giris-belgeleri-erisime-acildi"
+      },
+      {
+        "ad": "Hazine ve Maliye Bakanlığı, vergi müfettiş yardımcılığı sınav ilanı",
+        "url": "https://ms.hmb.gov.tr/uploads/2025/12/VERGI-MUFETTIS-YARDIMCILIGI-GIRIS-SINAV-ILANI-e223da52810b72fc.pdf"
+      },
+      {
+        "ad": "Hazine ve Maliye uzman yardımcılığı sınav duyurusu",
+        "url": "https://ms.hmb.gov.tr/uploads/2025/12/HMUY_2025_Sinav_Duyurusu-cbc58aada64be880.pdf"
+      },
+      {
+        "ad": "Sermaye Piyasası Kurulu, meslek personeli giriş sınavı",
+        "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2025/sermaye-piyasasi-kurulu-meslek-personel-yardimciligi-giris-sinavi"
+      },
+      {
+        "ad": "BDDK uzman yardımcısı ilanı",
+        "url": "https://ilan.memurlar.net/ilan/80269/bddk-160-uzman-yardimcisi-personel-alacak.html"
+      },
+      {
+        "ad": "Youthall, yönetici adaylığı programları",
+        "url": "https://www.youthall.com/tr/is-ilanlari/management-trainee/"
+      },
+      {
+        "ad": "Secretcv, uzman yardımcısı maaşı ve metodoloji notu",
+        "url": "https://www.secretcv.com/pozisyon-rehberi/uzman-yardimcisi/maas"
+      },
+      {
+        "ad": "Sayıştay, denetçi yardımcılığı giriş sınavı ilanı",
+        "url": "https://www.sayistay.gov.tr/"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, ticaret müfettiş yardımcılığı sınav ilanı",
+        "url": "https://www.ktu.edu.tr/isletme/duyuru/ticaret-bakanligi-ticaret-mufettis-yardimciligi-giris-sinavi-ilani-2025"
+      },
+      {
+        "ad": "Merkez Bankası, uzman yardımcısı ilanı",
+        "url": "https://insankaynaklari.tcmb.gov.tr/"
+      },
+      {
+        "ad": "TÜRMOB, mali müşavirlik sınav takvimi",
+        "url": "https://ismmmo.org.tr/dosya/5867/Staj-Dosya/15012026-turmob-2026-yili-smmm-sinav-takvimi.pdf"
+      },
+      {
+        "ad": "Mali müşavir ve yeminli mali müşavir sayıları",
+        "url": "https://www.alomaliye.com/2026/01/29/smmm-ve-ymm-sayilari-ve-sorunlari/"
+      },
+      {
+        "ad": "Kamu Gözetimi Kurumu, bağımsız denetim yönetmeliği",
+        "url": "https://www.kgk.gov.tr/portalv2uploads/files/duyurular/v2/mevzuat/bdy/guncel%20bdy.pdf"
+      },
+      {
+        "ad": "Sermaye Piyasası Lisanslama, lisans türleri",
+        "url": "https://spl.com.tr/lisans-turleri/"
+      },
+      {
+        "ad": "KOSGEB geleneksel girişimci destek programı",
+        "url": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/7391/geleneksel-girisimci-destek-programi"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, genç girişimciler bilgilendirmesi",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU/UNIVERSAL/2026/2026_genc_girisimciler_info.pdf"
+      },
+      {
+        "ad": "Genç girişimci istisnalarının 2026 dönüşümü",
+        "url": "https://www.muhasebetr.com/yazarlarimiz/muctebaonurhanozmumcu/015/"
+      },
+      {
+        "ad": "İSMMMO, yüksek lisans diplomalarının stajdan sayılması",
+        "url": "https://ismmmo.org.tr/Staj/Yuksek-Lisans-Diplomalarinin-Stajdan-Sayilmasi--11421"
+      },
+      {
+        "ad": "657 sayılı Devlet Memurları Kanunu",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf"
+      }
+    ]
   }
 ]
