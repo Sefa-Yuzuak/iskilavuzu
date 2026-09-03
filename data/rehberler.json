@@ -1618,5 +1618,308 @@
         "url": "https://www.youthall.com/tr/talent-programs/"
       }
     ]
+  },
+  {
+    "slug": "yeni-mezun-yonetici-adayligi-programlari",
+    "alan": "meslek-secimi",
+    "baslik": "Yeni mezun yönetici adaylığı programları takvimi",
+    "ozet": "Türkiye'deki yönetici adaylığı ve genç yetenek programlarının doğrulanmış listesi. Hangi ay açılıyor, hangi bölümü alıyor, hangisi işletme mezununu almıyor.",
+    "cevap": "Programların büyük çoğunluğu ocak ile mart arasında açılıyor. İkinci yoğunluk ağustos ile ekim arası. Başvuru yapmadan önce bölüm şartına bakın: bazı programlar adında genç yetenek yazsa da yalnızca mühendislik alıyor. Aramada Türkçe terim kullanın, İngilizcesi elli kat daha az ilan getiriyor.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Bu listedeki her program şirketin kendi sayfasından ya da resmî sınav ilanından doğrulandı. Tarihler o sayfalarda yazdığı gibidir. Başvurmadan önce yine de kaynağa bakın, dönemler kayabiliyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Önce aramayı doğru yapın"
+      },
+      {
+        "tur": "metin",
+        "metin": "Çoğu aday programları İngilizce adıyla arıyor ve pazarın neredeyse tamamını kaçırıyor. LinkedIn'de İngilizce terimle 35 ilan çıkarken, Türkçesi yani yönetici adayı ifadesiyle iki binden fazla ilan çıkıyor (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bir de şu var: işletme mezunu diye bir pozisyon başlığı yok. O ifade ilan başlığında değil, aranan nitelikler kısmında geçiyor. Yeni mezunun ana giriş başlığı uzman yardımcısı."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Başvurusu açık olan programlar"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Program",
+          "Şirket",
+          "Son başvuru"
+        ],
+        "satirlar": [
+          [
+            "Mağaza Yöneticisi Programı",
+            "BİM",
+            "9 Ekim 2026"
+          ],
+          [
+            "Müşteri Danışmanı",
+            "Garanti BBVA",
+            "31 Aralık 2026"
+          ],
+          [
+            "VESTalent 16. MT Programı",
+            "Vestel",
+            "20 Temmuz 2026"
+          ]
+        ],
+        "not": "Eylül 2026 itibarıyla açık görünenler (2, 3, 4). Bölüm şartı yok, lisans mezunu olmak yeterli."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Bankacılık: sınavla giriş"
+      },
+      {
+        "tur": "metin",
+        "metin": "Bankaların müfettiş ve uzman yardımcılığı alımları yazılı sınavla yapılıyor ve tarihleri baştan ilan ediliyor. İşletme mezunu bu ilanların hepsinde açıkça sayılan bölümler arasında."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kurum ve kadro",
+          "Başvuru",
+          "Sınav"
+        ],
+        "satirlar": [
+          [
+            "Halkbank, 45 müfettiş + 25 iç kontrolör + 250 uzman yardımcısı",
+            "12 Nisan 2026",
+            "26 Nisan 2026"
+          ],
+          [
+            "Ziraat Bankası, 20 müfettiş yardımcısı",
+            "İlanda",
+            "10 Mayıs 2026"
+          ],
+          [
+            "İş Bankası, müfettiş yardımcısı",
+            "12 Nisan 2026",
+            "3 Mayıs 2026, çevrimiçi"
+          ]
+        ],
+        "not": "Halkbank sınavı 150 soru: 50 genel yetenek, 40 İngilizce, 60 alan bilgisi (5). İş Bankası yabancı dil belgesi istiyor (6). Ziraat'te 1996 ve sonrası doğum şartı var (7)."
+      },
+      {
+        "tur": "metin",
+        "metin": "İş Bankası'nın uzman yardımcılığı kadrosunu tanımlarken kullandığı ifade dikkat çekici: bu kişilerin yönetici adayı olarak yetiştirildiği açıkça yazıyor (8). Yani banka tarafında uzman yardımcılığı ile yönetici adaylığı aynı kapı."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kamu: uzman ve müfettiş yardımcılığı"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kurum",
+          "Kadro",
+          "Şart"
+        ],
+        "satirlar": [
+          [
+            "Hazine ve Maliye, vergi denetim",
+            "250 vergi müfettiş yardımcısı",
+            "200'ü işletme ve İİBF'ye ayrılmış, KPSS en az 80"
+          ],
+          [
+            "Sermaye Piyasası Kurulu",
+            "20 uzman + 20 uzman hukukçu yardımcısı",
+            "KPSS en az 75, ilk 400, 35 yaş altı"
+          ],
+          [
+            "Sayıştay",
+            "25 denetçi yardımcısı",
+            "Üç aşama: eleme, klasik yazılı, mülakat"
+          ],
+          [
+            "BDDK",
+            "Murakıp ve uzman yardımcılığı",
+            "Bankacılık, bilişim ve hukuk alanları ayrı"
+          ]
+        ],
+        "not": "Vergi müfettişliğinde 250 kadronun 200'ü hukuk, siyasal, iktisat, işletme ve İİBF mezunlarına ayrılmış durumda (9). Sayıştay ilanında da işletme açıkça sayılıyor (10)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Yıllık takvim: hangi program hangi ay açılıyor?"
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Ekim, kasım, aralık"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Anadolu Efes Project Future, aralık başı son başvuru, bütün bölümlere açık.",
+          "QNB'nin FIN-ALLY programı, aralık ayı içinde, dördüncü sınıf ve en az 2,5 ortalama.",
+          "Procter and Gamble yeni mezun kadroları, aralık ortası.",
+          "Anadolu Sigorta Genç Yetenekler.",
+          "İş Bankası Future Hub gelişim programı, aralık ve ocak."
+        ]
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Ocak, şubat, mart: en yoğun dönem"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Akbank Yönetici Adayı Programı. Bölüm şartı yok, dördüncü sınıf ya da son bir yılın mezunu.",
+          "Turkcell GNÇYTNK, Türk Telekom START, Vodafone Discover.",
+          "Unilever Future Leaders, Nestlé NestLéaders, Mondelez Stargate satış programı.",
+          "Türkiye Finans CORE, Kuveyt Türk Yetenek Programı, Odeabank OdeaStellar.",
+          "Hepsiburada GeleceğiniZburada, Hayat Kimya H Generation.",
+          "TEB teftiş kurulu müfettiş yardımcılığı.",
+          "Vergi müfettiş yardımcılığı başvuruları, mart ortası."
+        ]
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Nisan, mayıs, haziran, temmuz"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Otokoç Speed Up, iki yıllık rotasyon programı.",
+          "Toyota Future Leaders, yirmi aylık dört rotasyon.",
+          "Decathlon Team Future, Doğuş Otomotiv Gelecek Sensin.",
+          "Enerjisa ENTER genç yetenek programı, İİBF açıkça sayılıyor.",
+          "Koç Genç Yetenek, nisan ortası son başvuru.",
+          "British American Tobacco Global Graduate, on sekiz aylık hızlı gelişim.",
+          "TEB Geleceğin Liderleri, Emlak Katılım MT, Garanti BBVA Emeklilik MT."
+        ]
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Ağustos, eylül, ekim"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Coca-Cola İçecek Next Talent. Finans, insan kaynakları, pazarlama, satış ve iç denetim işletme mezununa açık.",
+          "CarrefourSA Kariyere Log-In. İşletme ve iktisat açıkça sayılıyor.",
+          "ING Sales Trainee, on bir şehirde.",
+          "Aygaz KEY+, FLO Geleceğe İz, TürkTraktör Future Drive.",
+          "Sayıştay denetçi yardımcılığı başvuruları."
+        ]
+      },
+      {
+        "tur": "baslik",
+        "metin": "Dikkat: bu programlar işletme mezununu almıyor"
+      },
+      {
+        "tur": "metin",
+        "metin": "Adında genç yetenek ya da yönetici adayı geçen her program herkese açık değil. Aşağıdakiler kontrol edildi ve işletme ile İİBF mezunlarına kapalı çıktı. Başvuruya vakit harcamayın."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Migros M-Draft. Yalnızca endüstri, işletme, elektrik ve çevre mühendisliği.",
+          "Ford Otosan. Yeni mezun hattı yalnızca mühendislik; diğerleri yarışma ve etkinlik.",
+          "Trendyol Talent Program. Yalnızca teknoloji ekipleri.",
+          "Eren Perakende NextGen Retailers. Mühendislik fakülteleri tercih ediliyor.",
+          "Metro Potentials. İşletmeye açık ama yüksek lisans şartı var ve yaş aralığı 23 ile 28."
+        ]
+      },
+      {
+        "tur": "uyari",
+        "metin": "Arçelik, Aselsan, Borusan, Getir, Boyner ve Eczacıbaşı'nda yönetici adaylığı programı bulunamadı. Bu şirketlerde staj programları ve etkinlikler var, yeni mezun rotasyon programı yok."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Nereden takip edilir?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Programların çoğu şirketin kendi kariyer sayfasında ve öğrenci kariyer platformlarında birlikte yayınlanıyor. Tek tek şirket sitesi gezmek yerine bu toplayıcıları izlemek daha verimli (1, 11)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kamu ve banka sınavları için ise ilanlar kurumun kendi duyuru sayfasında çıkıyor ve başvurular çoğunlukla e-Devlet ya da Kariyer Kapısı üzerinden alınıyor."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Programlara ne zaman başvurmalıyım?",
+        "c": "En yoğun dönem ocak ile mart arası. İkinci yoğunluk ağustos ile ekim arası. Dördüncü sınıftaysanız güz döneminde takibe başlayın, çoğu program mezuniyetten önce başvuru alıyor."
+      },
+      {
+        "s": "İşletme mezunu yönetici adaylığına başvurabilir mi?",
+        "c": "Çoğuna evet. Banka, perakende, hızlı tüketim ve telekom programlarının büyük kısmında bölüm şartı yok ya da işletme açıkça sayılıyor. Ama sanayi tarafındaki bazı programlar yalnızca mühendislik alıyor, ilanı okumadan başvurmayın."
+      },
+      {
+        "s": "Yönetici adaylığı ile uzman yardımcılığı arasındaki fark ne?",
+        "c": "Bankacılıkta pratikte aynı kapı. İş Bankası uzman yardımcılığı tanımında bu kişilerin yönetici adayı olarak yetiştirildiğini açıkça yazıyor. Kamuda ise uzman yardımcılığı KPSS ve kurum sınavıyla giriliyor."
+      },
+      {
+        "s": "Bankaların müfettiş yardımcılığı sınavına kim girebilir?",
+        "c": "Halkbank, Ziraat ve İş Bankası ilanlarında işletme açıkça sayılan bölümler arasında. Yaş sınırı ve yabancı dil belgesi şartlarına dikkat edin, kurumdan kuruma değişiyor."
+      },
+      {
+        "s": "Yüksek lisans şart mı?",
+        "c": "Genelde hayır. Sadece Metro Potentials gibi birkaç uluslararası programda yüksek lisans zorunlu. Çoğu program dördüncü sınıf öğrencisi ya da son bir iki yılın mezunu arıyor."
+      },
+      {
+        "s": "Kaç yıl deneyimliye kadar başvurulabilir?",
+        "c": "Programların çoğu sıfır ile iki yıl arası deneyim istiyor. Bazıları uzun dönem stajı deneyim saymıyor, bu da lehinize olabilir."
+      },
+      {
+        "s": "İngilizce şart mı?",
+        "c": "Uluslararası şirketlerin programlarında ve banka müfettişliği sınavlarında evet. Yerel perakende ve satış programlarında genelde aranmıyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Youthall, yönetici adaylığı ve yetenek programları listesi",
+        "url": "https://www.youthall.com/tr/is-ilanlari/management-trainee/"
+      },
+      {
+        "ad": "BİM, mağaza yöneticisi programı ilanı",
+        "url": "https://www.youthall.com/tr/bim/magaza-yoneticisi-programi_1/"
+      },
+      {
+        "ad": "Garanti BBVA, müşteri danışmanı programı",
+        "url": "https://anbeankampus.co/garanti-bbva/garanti-bbva-musteri-danismani/"
+      },
+      {
+        "ad": "Vestel Kariyer, VESTalent MT programı ilanı",
+        "url": "https://www.vestelkariyer.com/ilan/534"
+      },
+      {
+        "ad": "Halkbank, müfettiş ve uzman yardımcılığı sınav ilanı",
+        "url": "https://www.halkbank.com.tr/content/dam/corporate-website/tr/dokumanlar/bankamiz/duyurular/mufettis-yardimcisi-ic-kontrolor-yardimcisi-uzman-yardimcisi-2026.pdf"
+      },
+      {
+        "ad": "İş Bankası, müfettiş yardımcısı alım ilanı",
+        "url": "https://ik.isbank.com.tr/is-ilani-detayi/mufettis-yardimcisi-alimi-202601081"
+      },
+      {
+        "ad": "Ziraat Bankası, müfettiş yardımcısı başvuru koşulları",
+        "url": "https://www.ziraatbank.com.tr/tr/Bankamiz-ZB/insan-kaynaklari/Documents/Ek-1-ZB-mufettis-yardimcisi-basvuru-kosullari.pdf"
+      },
+      {
+        "ad": "İş Bankası insan kaynakları, uzman yardımcılığı tanımı",
+        "url": "https://ik.isbank.com.tr/"
+      },
+      {
+        "ad": "Hazine ve Maliye Bakanlığı, vergi müfettiş yardımcılığı sınav ilanı",
+        "url": "https://www.iskur.gov.tr/"
+      },
+      {
+        "ad": "Sayıştay, denetçi yardımcılığı giriş sınavı ilanı",
+        "url": "https://www.sayistay.gov.tr/"
+      },
+      {
+        "ad": "Anbean Kampüs, yönetici adaylığı program ilanları",
+        "url": "https://anbeankampus.co/ilanlar/mt-programi/"
+      }
+    ]
   }
 ]
