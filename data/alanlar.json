@@ -68,5 +68,19 @@
     "ikon": "🎓",
     "aciklama": "Bölüm bazında kariyer haritası: mezun ne iş yapar, maaş aralığı, KPSS ile hangi kadro, kendi işini kurarsa ne yapabilir.",
     "oncelik": 1
+  },
+  {
+    "slug": "universite-ogrencisi",
+    "ad": "Üniversite öğrencisi",
+    "ikon": "📚",
+    "aciklama": "Okurken çalışmanın kuralları: bursun kesilip kesilmediği, sigorta, staj hakları, üniversite içi iş imkânları ve öğrenciye özel girişim destekleri.",
+    "oncelik": 1
+  },
+  {
+    "slug": "ev-hanimi",
+    "ad": "Ev hanımı",
+    "ikon": "🏡",
+    "aciklama": "Evden gelir elde etmenin yasal yolu: esnaf muaflığı, kadın girişimci destekleri, kooperatifler ve isteğe bağlı sigorta. Dolandırıcılık kalıplarıyla birlikte.",
+    "oncelik": 1
   }
 ]
