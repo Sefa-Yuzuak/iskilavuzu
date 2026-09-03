@@ -1,1 +1,1083 @@
-[]
+[
+  {
+    "slug": "3d-baski-ile-para-kazanma",
+    "alan": "3d-baski",
+    "baslik": "3D baskı ile para kazanma: gerçek maliyet ve kâr hesabı",
+    "ozet": "3D yazıcıyla para kazanmanın baştan sona maliyeti. Makine fiyatları, gram başına malzeme, kanal komisyonları ve tek bir üründe net kâr hesabı.",
+    "cevap": "Giriş seviyesi bir filament yazıcıyla 13.000 ile 20.000 lira arasında başlanıyor. Tek makine, beş saatlik bir baskıda komisyon ve kargo düştükten sonra yaklaşık 195 lira net bırakıyor. Bu bir maaş değil, ek gelir. Kâr plastikten değil, kişiselleştirmeden geliyor.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Bu sayfadaki fiyatlar Eylül 2026 itibarıyladır. Yazıcı ve filament fiyatları hızlı değişiyor, satın almadan önce kaynaktaki güncel tutara bakın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Başlangıç maliyeti ne kadar?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Giriş seviyesi filament yazıcıda seçim büyük ölçüde Bambu Lab ile Creality arasında geçiyor. Aşağıdaki tablo Türkiye'deki satıcı sitelerinden alınmış güncel liste fiyatlarıdır."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Makine",
+          "Fiyat",
+          "Kaynak"
+        ],
+        "satirlar": [
+          [
+            "Bambu Lab A1 Mini",
+            "10.927 TL + KDV",
+            "1"
+          ],
+          [
+            "Bambu Lab A1",
+            "15.190 TL + KDV",
+            "1"
+          ],
+          [
+            "Bambu Lab A1 Combo, çok renkli",
+            "19.722 TL + KDV",
+            "1"
+          ],
+          [
+            "Bambu Lab P1S, kapalı kasa",
+            "21.290 TL + KDV",
+            "1"
+          ],
+          [
+            "Creality Ender 3 V3 SE",
+            "12.492 TL",
+            "2"
+          ],
+          [
+            "Anycubic Photon Mono 4, reçine",
+            "11.505 TL",
+            "4"
+          ],
+          [
+            "Anycubic Photon Mono 4 Ultra, reçine",
+            "16.807 TL",
+            "4"
+          ]
+        ],
+        "not": "Robotzade fiyatları KDV hariç yayınlıyor, tabloda böyle işaretlendi."
+      },
+      {
+        "tur": "metin",
+        "metin": "Reçine yazıcı fiyat olarak filament yazıcıya yakın görünüyor ama asıl maliyeti makinede değil çevresinde. Yıkama ve kürleme istasyonu, izopropil alkol, nitril eldiven, organik gazlı maske ve düzgün bir havalandırma gerekiyor. Reçine cilt ve solunum yoluyla tahriş edici, havalandırmasız kapalı odada çalıştırılmamalı."
+      },
+      {
+        "tur": "metin",
+        "metin": "Evde başlayacaksanız filament yazıcı çok daha uygulanabilir, çünkü PLA kokusuz ve çevre ekipmanı istemiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Gram başına maliyet nasıl hesaplanır?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Bir kilogram makara fiyatları şöyle: Porima PLA 698 lira, eSUN beyaz PETG 580 lira, Solid Hyper TPU 686 lira artı KDV, Anycubic standart reçine 595 lira (5, 6, 7, 8). Buradan gram maliyeti çıkıyor: filamentte yaklaşık 70 kuruş, PETG'de 58 kuruş, reçinede 60 kuruş."
+      },
+      {
+        "tur": "metin",
+        "metin": "Elektrik sanıldığı kadar büyük bir kalem değil. Ölçümlere göre bir Bambu Lab A1, filament baskısında ortalama 95 vat çekiyor ve beş saatlik bir iş toplam 0,75 kilovatsaat tüketiyor (9). 2026 mesken tarifesinde kilovatsaat 4,32 lira olduğuna göre (10), beş saatlik baskının elektriği yaklaşık 3 lira 24 kuruş. Yani filamentin yanında yuvarlama hatası kadar kalıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Gerçek maliyet formülü şu: ürünün gramı çarpı gram fiyatı, artı baskı saati çarpı saatlik tüketim çarpı elektrik birim fiyatı, artı fire payı, artı nozzle ve tabla gibi parçaların yıpranma payı."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Fire payını tahminle koymayın. İlk ayınızda başarısız çıkan baskıların gramını tartıp kendi oranınızı çıkarın. Forumlarda en sık dile getirilen sorun, saatlerce basılan parçanın beğenilmemesi ya da bozulup yeniden basılması (19)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Türkiye'de ne satılıyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Fiilen dönen kategoriler şunlar: kişiye özel biblo ve figürler, gece lambaları, masaüstü ve kablo organizerleri, telefon ile tablet standları, hediyelik isimlik ve anahtarlıklar, oyun ve koleksiyon figürleri, yedek parça üretimi, mimarlık ve mühendislik için maket ve prototip hizmeti."
+      },
+      {
+        "tur": "metin",
+        "metin": "Gerçek bir ilan üzerinden bakalım. Trendyol'da fotoğraftan üretilen 10 santimlik kişiye özel bir karakter biblosu 290 liraya listeleniyor (11). Bu boyuttaki bir figür yaklaşık 40 ila 60 gram malzeme, yani 30 ila 45 lira filament demek. Fiyatın geri kalanı tasarım, kişiselleştirme emeği ve kanal kesintisi."
+      },
+      {
+        "tur": "metin",
+        "metin": "Buradan çıkan ders net: kâr plastikten gelmiyor, kişiselleştirmeden geliyor. İnternetten indirdiğiniz hazır bir modeli basıp satmak, aynı modeli basan yüzlerce kişiyle fiyat yarışına girmek anlamına geliyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Hangi satış kanalı ne kadar kesiyor?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kanal",
+          "Komisyon",
+          "Ek kesinti",
+          "Kaynak"
+        ],
+        "satirlar": [
+          [
+            "Trendyol, hobi malzemeleri",
+            "%18,50",
+            "Kargo satıcıda",
+            "12"
+          ],
+          [
+            "Trendyol, ev dekorasyon",
+            "%19,00",
+            "Kargo satıcıda",
+            "12"
+          ],
+          [
+            "Trendyol, figür oyuncaklar",
+            "%16,50",
+            "Kargo satıcıda",
+            "12"
+          ],
+          [
+            "Hepsiburada, hobi ve oyuncak",
+            "%18",
+            "Komisyona ayrıca KDV",
+            "13"
+          ],
+          [
+            "Shopier, yeni satıcı",
+            "%5,99 + 0,49 TL",
+            "Üzerine %20 KDV",
+            "14"
+          ],
+          [
+            "Etsy",
+            "%6,50 + 0,20 USD",
+            "Kur çevriminde %2,5",
+            "15, 16"
+          ]
+        ],
+        "not": "Trendyol oranları KDV dahildir. Shopier'de ciro arttıkça oran %2,99'a kadar iniyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Trendyol'da kargo da satıcıdan kesiliyor. Üç desilik bir kolide Trendyol Express 71 lira, Yurtiçi 93 lira; 300 liranın altındaki siparişlerde barem desteği uygulanıyor (17)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Pratik okuması şöyle. Shopier ve Instagram en düşük kesintiyi veriyor ama trafiği siz getiriyorsunuz. Trendyol ve Hepsiburada trafiği getiriyor ama cironun beşte birini alıyor. Etsy komisyon olarak ucuz görünüyor, asıl maliyeti yurt dışı kargo ve kur çevrimi."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Şirket kurmadan satabilir miyim?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu bölüm çoğu rehberde yanlış anlatılıyor. Sıkça \"evde üretim yapanlar belli bir tutara kadar vergisiz satabilir\" deniyor ve 3D baskı da bu kapsamda gösteriliyor. Gelir İdaresi Başkanlığı'nın kendi bilgilendirmesine bakınca tablo değişiyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Evlerde üretilen ürünlerde esnaf muaflığı, sayılan bir ürün listesiyle sınırlı: havlu, örtü, çarşaf, çorap, halı, kilim, dokuma, örgü, dantel, nakış, turistik eşya, hasır, sepet, süpürge, fırça, yapma çiçek, boncuk işleme, tarhana, erişte, mantı gibi ürünler. Üstelik muafiyetin açık bir şartı var: sanayi tipi veya seri üretim yapabilen makine ve alet kullanılmaması (18)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "3D yazıcı, tanımı gereği gözetimsiz seri üretim yapabilen bir makine ve baskı ürünleri o listede yok. Bu yüzden 3D baskı satışını esnaf muaflığına dayandırmak güvenli değil. Gerçekçi yol şahıs şirketi kurup mükellefiyet açtırmak. Kesin karar için mali müşavirinize danışın."
+      },
+      {
+        "tur": "metin",
+        "metin": "Aynı belgedeki diğer sayılar referans olsun: muafiyet kapsamındakiler için 2026 internet satış haddi 396.360 lira, aşılırsa izleyen yılın başında mükellefiyet doğuyor; vergiden muaf esnaftan mal alanlar yüzde 2 gelir vergisi tevkifatı yapıyor; muafiyet belgesi almak isteğe bağlı ve ticari banka hesabı zorunluluğu yok (18)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Tek üründe gerçek kâr ne kadar?"
+      },
+      {
+        "tur": "metin",
+        "metin": "120 gram filamentle beş saatte basılan bir masaüstü organizeri, Trendyol'da hobi kategorisinde 450 liradan satıldığında hesap şöyle işliyor."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "Tutar"
+        ],
+        "satirlar": [
+          [
+            "Filament, 120 gram",
+            "83,80 TL"
+          ],
+          [
+            "Elektrik, 0,75 kWh",
+            "3,24 TL"
+          ],
+          [
+            "Fire payı, %15 varsayım",
+            "13,06 TL"
+          ],
+          [
+            "Trendyol komisyonu, %18,50",
+            "83,25 TL"
+          ],
+          [
+            "Kargo, 3 desi",
+            "71,20 TL"
+          ],
+          [
+            "Toplam gider",
+            "254,55 TL"
+          ],
+          [
+            "Net kalan",
+            "195,45 TL"
+          ]
+        ],
+        "not": "Fire payı olarak kullanılan %15 bir varsayımdır, kendi ölçümünüzle değiştirin. Net tutar KDV ve gelir vergisi öncesidir."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yani makine beş saat çalışıp yaklaşık 195 lira bırakıyor. Saat başına 39 lira makine kazancı. Buna sizin tasarım, dilimleme, temizlik, paketleme ve müşteri yazışması emeğiniz dahil değil. Mükellefseniz üzerine KDV ve gelir vergisi de biniyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu hesabın anlamı şu: tek yazıcıyla bu iş bir maaş değil, ek gelir. Ölçek ancak birden fazla makine paralel çalıştığında ve ürün başına insan emeği dakikalara indiğinde geliyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "En sık yapılan hatalar"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Maliyeti sadece filament sanmak, fireyi ve kendi emeğini hesaba katmamak.",
+          "Hazır indirilmiş bir modelle fiyat rekabetine girmek.",
+          "Kalibrasyon yapmadan sipariş almak. Her filament için ayrı sıcaklık ayarı gerekiyor.",
+          "İlk gün en pahalı makineyi alıp talebi hiç test etmemek.",
+          "Kanal komisyonunu ve kargoyu satış fiyatına yansıtmayı unutmak.",
+          "Yasal tarafı hobi sayıp ertelemek."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Forumlardaki tekrar eden şikâyetler de yol gösterici. İnce ve uzun parçalar baskı sırasında tabladan kalkıp nozzle'a çarparak baskıyı bozabiliyor, yüksek hızda destekler kayabiliyor. Önerilen çözüm brim'i genişletmek ve hızı saniyede 50 milimetreye düşürmek (20)."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Kaç lirayla başlanır?",
+        "c": "Filament tarafında yazıcı ve birkaç makara filamentle yaklaşık 13.000 ila 20.000 lira. Bambu Lab A1 15.190 lira artı KDV, Creality Ender 3 V3 SE 12.492 lira, bir kilogram PLA 698 lira."
+      },
+      {
+        "s": "Filament mi reçine mi almalıyım?",
+        "c": "Fiyatları yakın ama reçine maske, eldiven, havalandırma, yıkama ve kürleme istasyonu istiyor. Detaylı minyatür ve figür işi yapmayacaksanız filament yazıcıyla başlayın."
+      },
+      {
+        "s": "Elektrik faturamı uçurur mu?",
+        "c": "Hayır. Beş saatlik bir baskı 0,75 kilovatsaat tüketiyor, 2026 mesken tarifesiyle yaklaşık 3 lira 24 kuruş."
+      },
+      {
+        "s": "Şirket kurmadan satabilir miyim?",
+        "c": "Esnaf muaflığının ürün listesi 3D baskıyı kapsamıyor ve seri üretim yapabilen makine kullanılmaması şartı taşıyor. Güvenli yol şahıs şirketi kurmak. Mali müşavirinize danışın."
+      },
+      {
+        "s": "Hangi kanal en kârlı?",
+        "c": "Kesinti olarak Shopier en düşük, trafik getirme gücü olarak Trendyol en yüksek. Yeni başlayan için ikisini birlikte kullanmak mantıklı."
+      },
+      {
+        "s": "Kaç yazıcı gerekir?",
+        "c": "Örnek hesapta tek makine beş saatte yaklaşık 195 lira net bırakıyor. Aylık anlamlı bir gelir ancak paralel çalışan birden fazla makineyle mümkün."
+      },
+      {
+        "s": "İnternetten indirdiğim modeli satabilir miyim?",
+        "c": "Teknik olarak evet ama önce modelin lisansına bakın. Ayrıca aynı modeli basan herkesle fiyat yarışına girersiniz. Kâr kişiselleştirmede."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Robotzade, Bambu Lab 3D yazıcı fiyatları",
+        "url": "https://www.robotzade.com/kategori/bambu-lab-3d-yazicilar"
+      },
+      {
+        "ad": "Akakçe, Creality Ender 3 V3 SE fiyatları",
+        "url": "https://www.akakce.com/3d-yazici/en-ucuz-creality-ender-3-v3-se-fiyati,280942019.html"
+      },
+      {
+        "ad": "Robotistan, Anycubic Photon Mono 4",
+        "url": "https://www.robotistan.com/anycubic-photonmono-4-en"
+      },
+      {
+        "ad": "Robolinkmarket, Anycubic Photon Mono 4",
+        "url": "https://www.robolinkmarket.com/anycubic-photon-mono-4-msla-3d-yazici"
+      },
+      {
+        "ad": "Robotistan, Porima PLA filament",
+        "url": "https://www.robotistan.com/porima-3d-175-mm-pla-filament-black"
+      },
+      {
+        "ad": "Robotzade, eSUN PETG filament",
+        "url": "https://www.robotzade.com/urun/esun-beyaz-petg-filament-1-75mm-1-kg"
+      },
+      {
+        "ad": "Robotzade, filament fiyatları",
+        "url": "https://www.robotzade.com/kategori/filament"
+      },
+      {
+        "ad": "Robotzade, Anycubic standart reçine",
+        "url": "https://www.robotzade.com/urun/anycubic-standart-recine-1-kg-gri"
+      },
+      {
+        "ad": "Call-3D, Bambu Lab elektrik tüketimi ölçümü",
+        "url": "https://www.call-3d.com/blogs/upgrades/bambu-lab-power-consumption-review"
+      },
+      {
+        "ad": "Akıllı Tarife, elektrik tarifeleri 2026",
+        "url": "https://akillitarife.com/enerji/rehber/karsilastir/elektrik/tarifeler"
+      },
+      {
+        "ad": "Trendyol, kişiye özel 3D biblo ilanı",
+        "url": "https://www.trendyol.com/scaleworks/kisiye-ozel-3d-karakter-biblo-fotograftan-3-boyutlu-figur-tasarimi-dekor-biblo-10cm-p-1087830018"
+      },
+      {
+        "ad": "Trendyol resmî komisyon oranları",
+        "url": "https://tymp.mncdn.com/prod/documents/engagement/yasal_surecler/trendyol-komisyon-oranlari.pdf"
+      },
+      {
+        "ad": "Hepsiburada komisyon oranları",
+        "url": "https://www.sopyo.com/blog/hepsiburada-komisyon-oranlari-guncel-ve-detayli-rehber"
+      },
+      {
+        "ad": "Shopier komisyon oranları",
+        "url": "https://www.ideasoft.com.tr/shopier-komisyon-oranlari/"
+      },
+      {
+        "ad": "Etsy ücret ve ödeme politikası",
+        "url": "https://www.etsy.com/legal/fees/"
+      },
+      {
+        "ad": "Etsy ödeme işlem ücretleri",
+        "url": "https://help.etsy.com/hc/en-us/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy"
+      },
+      {
+        "ad": "Trendyol kargo ücretleri",
+        "url": "https://www.sopyo.com/blog/trendyol-kargo-ucretleri-guncel-fiyatlar"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, evlerde üretilen ürünlerde esnaf muaflığı",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fyardim-kaynaklar%2Finfografikler%2Fpdfs%2Fesnaf_muafiyeti9_1_6.pdf"
+      },
+      {
+        "ad": "DonanımHaber, 3D yazıcı baskısı ile para kazanma",
+        "url": "https://forum.donanimhaber.com/3d-yazici-baskisi-ile-para-kazanma--132352520"
+      },
+      {
+        "ad": "Technopat, 3D yazıcı baskı sorunları",
+        "url": "https://www.technopat.net/sosyal/konu/3d-yazici-baski-sirasinda-bozuk-basiyor.3590320/"
+      }
+    ]
+  },
+  {
+    "slug": "yurtdisindan-urun-getirip-satmak",
+    "alan": "ithalat",
+    "baslik": "Yurt dışından ürün getirip satmak: vergi, gümrük ve gerçek maliyet",
+    "ozet": "Küçük ölçekli ithalatın adım adım kuralları. Muafiyet limitinin kalkması, tek ve maktu vergi oranları, GTİP, gümrük müşaviri ve Çin'den tedarik.",
+    "cevap": "Yurt dışından gelen gönderilerde vergisiz eşik 6 Şubat 2026'da tamamen kaldırıldı. Artık ilk kuruştan itibaren vergi doğuyor: Avrupa Birliği ülkelerinden yüzde 30, diğer ülkelerden yüzde 60 tek ve maktu vergi. Ayda en fazla beş gönderi ve gönderi başına 30 kilogram sınırı var.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Bu konuda internetteki Türkçe içeriklerin çoğu eski. 22 avro, 30 avro ya da 150 avro muafiyet yazan her kaynak güncelliğini yitirmiş durumda. Bazı resmî sayfalar bile hâlâ eski oranları gösteriyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kişisel ithalatta vergi nasıl işliyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "7 Ocak 2026 tarihli Resmî Gazete'de yayımlanan karar, posta ve hızlı kargoyla gelen eşyadaki 30 avroluk muafiyeti kaldırdı. Karar 6 Şubat 2026'da yürürlüğe girdi (1, 2). Bu limit zaten 2024 Ağustos'unda 150 avrodan 30 avroya indirilmişti, şimdi tamamen ortadan kalktı."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bir gerçek kişi adına gelen, ticari miktar ve nitelik taşımayan, değeri 1.500 avroyu aşmayan eşya için kargo şirketi dolaylı temsilci sıfatıyla basitleştirilmiş beyanda bulunuyor ve tek ve maktu vergi ödeniyor (3, 4)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Durum",
+          "Oran ya da sınır"
+        ],
+        "satirlar": [
+          [
+            "Avrupa Birliği ülkelerinden gelen eşya",
+            "%30"
+          ],
+          [
+            "Diğer ülkelerden gelen eşya",
+            "%60"
+          ],
+          [
+            "Özel tüketim vergisi listesindeki eşya",
+            "Üstüne +%20"
+          ],
+          [
+            "Kişisel kullanım kitap ve basılı yayın",
+            "%0, 1.500 avroya kadar"
+          ],
+          [
+            "Gönderi başına brüt ağırlık",
+            "En fazla 30 kilogram"
+          ],
+          [
+            "Kişi başına aylık gönderi",
+            "En fazla 5 gönderi"
+          ]
+        ],
+        "not": "Oranlar 6 Şubat 2026 sonrası yürürlükteki hâldir."
+      },
+      {
+        "tur": "metin",
+        "metin": "Ticari sayılma ölçütü şu: eşyanın kişinin ya da ailesinin kullanımına mahsus olması ve ticari amaç taşımaması gerekiyor (3). Aynı üründen çok sayıda gelmesi, ayda beş gönderiyi aşmak ya da 30 kilogramı geçmek gönderiyi bu rejimin dışına çıkarıyor. O zaman normal gümrük beyannamesi zorunlu oluyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Ticari ithalatta ne gerekiyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Ticari nitelikteki her eşya için, değeri ne olursa olsun gümrük beyannamesi veriliyor. Posta ve hızlı kargo basitleştirmesi ticari eşyaya uygulanmıyor. Beyan sahibinin vergi kimlik numarası ve gümrük sistemine kaydı gerekiyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Gümrük Kanunu temsili ikiye ayırıyor. Doğrudan temsilde temsilci başkasının adına ve hesabına, dolaylı temsilde kendi adına ama başkasının hesabına hareket ediyor. Temsilcinin Türkiye'de yerleşik olması ve yetki belgesini sunması gerekiyor (5)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Pratik sonuç şu: gümrük müşaviri hukuken her durumda zorunlu değil. Firma kendi yetkili personeliyle doğrudan temsil yoluyla işini takip edebiliyor. Ancak tarife sınıflandırması, kıymet beyanı ve denetim mevzuatındaki hata riski yüzünden küçük ölçekli ithalatçıların büyük çoğunluğu müşavirle çalışıyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "GTİP nedir, neden bu kadar önemli?"
+      },
+      {
+        "tur": "metin",
+        "metin": "GTİP, gümrük tarife istatistik pozisyonu demek. Eşyanın sınıflandırıldığı 12 haneli kod. İlk altı hane uluslararası armonize sistemle ortak (6). Gümrük vergisi oranı, katma değer vergisi oranı, özel tüketim vergisi, denetim tebliği kapsamı ve varsa ilave gümrük vergisi tamamen bu koda bağlı."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kodu Ticaret Bakanlığı'nın tarife arama motorundan bulabilirsiniz (7). Tereddüt varsa ithalattan önce bağlayıcı tarife bilgisi başvurusu yapmak en güvenli yol (8)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Yanlış beyanın bedeli ağır. Gümrük Kanunu'nun 234. maddesi, tarife veya kıymette yanlış beyan sonucu ortaya çıkan vergi farkı yüzde 5'i aşarsa, ithalat vergilerinden ayrı olarak bu farkın üç katı idari para cezası öngörüyor (9)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Maliyet nasıl hesaplanır?"
+      },
+      {
+        "tur": "metin",
+        "metin": "CIF kıymeti, ürün bedeli artı uluslararası taşıma artı sigorta demek. Gümrük vergisi bu kıymet üzerinden hesaplanıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Katma değer vergisinin matrahı daha geniş. Kanunun 21. maddesine göre matrah; gümrük vergisi tarhına esas kıymet, ithalat sırasında ödenen her türlü vergi, resim, harç ve pay, bir de beyannamenin tescil tarihine kadar yapılan diğer gider ve ödemelerin toplamı (10). Genel oran yüzde 20 (11)."
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "CIF kıymetini bul.",
+            "metin": "Ürün bedeli, navlun ve sigortayı topla."
+          },
+          {
+            "baslik": "Gümrük vergisini ekle.",
+            "metin": "Oran GTİP koduna göre değişiyor."
+          },
+          {
+            "baslik": "Varsa ilave vergileri ekle.",
+            "metin": "İlave gümrük vergisi ya da özel tüketim vergisi."
+          },
+          {
+            "baslik": "Katma değer vergisini uygula.",
+            "metin": "Bu toplam ve yurt içi masraflar üzerinden hesaplanıyor."
+          },
+          {
+            "baslik": "Yurt içi kalemleri ekle.",
+            "metin": "Antrepo, ardiye, terminal, ordino, liman, müşavirlik ve varsa test masrafları."
+          }
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu hizmet ücretlerinin tek bir resmî tarifesi yok, piyasa fiyatı geçerli. Bu yüzden gerçek maliyeti görmek için teklif almanız gerekiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Çin'den tedarik: Alibaba, 1688 ve AliExpress farkı"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Platform",
+          "Kimin için",
+          "Not"
+        ],
+        "satirlar": [
+          [
+            "Alibaba.com",
+            "Toptan, uluslararası alıcı",
+            "İngilizce, ödeme koruma programı var"
+          ],
+          [
+            "1688.com",
+            "Çin iç pazarı toptan",
+            "Çince, daha ucuz, aracı gerekiyor"
+          ],
+          [
+            "AliExpress",
+            "Perakende ve tekil sipariş",
+            "Numune için uygun, birim maliyet yüksek"
+          ]
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Minimum sipariş adedi Alibaba'da yaygın olarak 100 ile 1.000 arasında. Düşük adetli tedarikçilerde 10 ile 100, adet sınırı koymayanlarda tek adetten itibaren alınabiliyor ama birim fiyat yükseliyor (12). Numune siparişi tipik olarak 1 ile 10 adet ve seri üretime geçmeden kaliteyi doğrulamanın en ucuz yolu."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Ödemeyi platform dışına taşıma talebi en yaygın dolandırıcılık kalıbı. Kişisel banka hesabına ya da havale servisine ödeme isteyen tedarikçiyle çalışmayın. Alibaba'nın ödeme koruma programı, ürün beyan edilen kaliteyi karşılamazsa ya da zamanında sevk edilmezse iade talebine izin veriyor (12, 13)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Taşıma yöntemi",
+          "Tipik süre"
+        ],
+        "satirlar": [
+          [
+            "Ekspres kurye",
+            "3 ile 7 gün"
+          ],
+          [
+            "Hava kargo",
+            "3 ile 7 gün"
+          ],
+          [
+            "Deniz, parsiyel yük",
+            "10 ile 14 gün, artı konsolidasyon"
+          ],
+          [
+            "Deniz, konteyner",
+            "30 ile 40 gün"
+          ]
+        ],
+        "not": "Süreler taşıyıcıya ve sezona göre değişiyor, gümrükleme süresi dahil değil (14)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Dropshipping Türkiye'de yasal mı?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Dropshipping ayrı bir hukuki statü değil. Türkiye'den satış yapan kişi satıcı sayılıyor ve satıcının bütün yükümlülükleri geçerli oluyor."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Vergi Usul Kanunu'nun 232. maddesi, tacirlerin sattıkları mal için fatura düzenlemesini zorunlu kılıyor (15). Mükellefiyet açtırmadan düzenli satış yapmak kayıt dışı faaliyet.",
+          "Mesafeli Sözleşmeler Yönetmeliği gereği tüketiciye, sözleşme kurulmadan önce ön bilgilendirme yapmak zorunlu (16).",
+          "Tüketicinin 14 gün içinde gerekçe göstermeden cayma hakkı var. Bilgilendirme yapıldığının ispatı satıcıya ait; gereği gibi bilgilendirilmeyen tüketici 14 günlük süreyle bağlı değil (16)."
+        ]
+      },
+      {
+        "tur": "uyari",
+        "metin": "Ürün doğrudan Çin'den müşteriye gidiyorsa teslim süresi, gümrük vergisinin kimden tahsil edileceği ve iade lojistiği sizin sorumluluğunuzda. Müşteri adına gelen gönderi yukarıdaki vergilere tabi ve bu vergiyi ödemeyi reddeden müşteri karşısında yükümlülük satıcıda kalıyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Hangi ürünler izin gerektiriyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Her yıl 31 Aralık'ta Resmî Gazete'de yayımlanan ürün güvenliği ve denetimi tebliğleri, hangi ürün kodlarının ithalatta denetleneceğini belirliyor. 2026 tebliğleri 31 Aralık 2025'te yayımlandı (17)."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "İthalat denetimleri elektronik ortamda ve risk analizine göre TAREKS üzerinden yürütülüyor. Firmanın sisteme kaydı ve yetkilendirilmiş kullanıcısı olması gerekiyor (17, 18).",
+          "Oyuncak, elektrikli cihaz, makine ve kişisel koruyucu donanım gibi ürünlerde uygunluk beyanı ve CE işareti aranıyor (19).",
+          "Gıda, yem, bitki ve hayvansal ürünlerde Tarım ve Orman Bakanlığı denetimi ve kontrol belgesi gerekiyor (20).",
+          "Telsiz ve haberleşme cihazları ayrı bir tebliğ kapsamında denetleniyor (17).",
+          "Cep telefonu, kozmetik, takviye edici gıda ve sporcu gıdaları posta ya da hızlı kargoyla kişisel ithalat kapsamında getirilemiyor."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Yöntem şu: önce ürününüzün kodunu tarife arama motorundan bulun, sonra o kodu yıllık denetim tebliğlerinin eklerinde arayın."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Yurt dışından 25 avroluk ürün alsam vergi öder miyim?",
+        "c": "Evet. 6 Şubat 2026'dan itibaren muafiyet eşiği yok. Avrupa Birliği ülkelerinden yüzde 30, diğer ülkelerden yüzde 60 tek ve maktu vergi uygulanıyor."
+      },
+      {
+        "s": "Avrupa'dan almak neden avantajlı?",
+        "c": "Oran farkı iki kat. Avrupa Birliği ülkelerinden yüzde 30, diğer ülkelerden yüzde 60. Aynı ürün için Almanya'dan gelen gönderi, Çin'den gelene göre belirgin biçimde daha az vergi ödüyor."
+      },
+      {
+        "s": "Kaç gönderiye kadar kişisel sayılırım?",
+        "c": "Takvim ayında en fazla beş gönderi ve gönderi başına brüt 30 kilogram. Bunun üstü ticari kabul edilip normal beyanname gerektiriyor."
+      },
+      {
+        "s": "Gümrük müşaviri tutmak zorunda mıyım?",
+        "c": "Hayır. Kanun, eşya sahibinin doğrudan temsil yoluyla kendi işini takip etmesine izin veriyor. Müşavir dolaylı temsil seçeneği. Ancak yanlış kod beyanının cezası vergi farkının üç katı."
+      },
+      {
+        "s": "Faturasız Çin ürünü satabilir miyim?",
+        "c": "Hayır. Vergi Usul Kanunu satış için fatura zorunluluğu getiriyor. Ayrıca alış tarafında gümrük beyannamesi olmadan maliyeti giderleştiremezsiniz."
+      },
+      {
+        "s": "Dropshipping'de müşteri iade isterse ne olur?",
+        "c": "On dört günlük cayma hakkı sizi bağlıyor. Ürünün Çin'de olması bir savunma değil."
+      },
+      {
+        "s": "Ürünümün izne tabi olup olmadığını nereden görürüm?",
+        "c": "Önce ürün kodunu Ticaret Bakanlığı'nın tarife arama motorundan bulun, sonra o kodu yıllık ürün güvenliği ve denetimi tebliğlerinin eklerinde aratın."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "KPMG, 10813 sayılı Cumhurbaşkanı Kararı bülteni",
+        "url": "https://kpmgvergi.com/yayinlar/mali-bultenler/gumruk/gumruk-kanununun-bazi-maddelerinin-uygulanmasi-hakkinda-kararda-degisiklik-yapilmasina-dair-karar-yayimlanmistir/3457"
+      },
+      {
+        "ad": "Resmî Gazete, 7 Ocak 2026, sayı 33130",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260107.htm"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, posta ve hızlı kargo muafiyeti",
+        "url": "https://ticaret.gov.tr/gumruk-islemleri/sikca-sorulan-sorular/bireysel/posta-ve-hizli-kargo-muafiyeti"
+      },
+      {
+        "ad": "Gümrük Rehberi, posta ve hızlı kargoyla gelen eşyada vergi",
+        "url": "https://gumrukrehberi.gov.tr/"
+      },
+      {
+        "ad": "4458 sayılı Gümrük Kanunu",
+        "url": "https://www.resmigazete.gov.tr/arsiv/23866.pdf"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, GTİP arama motoru",
+        "url": "https://dys.ticaret.gov.tr/destek-mekanizmalari-ve-bilgi-kaynaklari/gtip-arama-motoru"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, tarife arama motoru",
+        "url": "https://uygulama.gtb.gov.tr/TARA"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, bağlayıcı tarife bilgisi",
+        "url": "https://uygulama.gtb.gov.tr/BTBBasvuru/BtbWebArama"
+      },
+      {
+        "ad": "Gümrük Kanunu, cezalar bölümü",
+        "url": "http://orgtr.org/cezalar-gumruk-kanunu-madde-231-241-2/"
+      },
+      {
+        "ad": "Katma Değer Vergisi Kanunu 21. madde, ithalatta matrah",
+        "url": "https://www.denet.com.tr/vergi/dosyalar/kdv6/KDV6-21.pdf"
+      },
+      {
+        "ad": "PwC Türkiye, katma değer vergisi oranlarında değişiklik",
+        "url": "https://www.pwc.com.tr/tr/hizmetlerimiz/vergi/dolayli-vergi/bultenler/kdv-otv-bultenleri/2023/kdv-oranlarinda-degisiklik.html"
+      },
+      {
+        "ad": "Alibaba satıcı rehberi, minimum sipariş adedi",
+        "url": "https://seller.alibaba.com/blogs/2026/southeast-asia/food-beverage/moq-1-piece-sample-order-guide-alibaba-b2b"
+      },
+      {
+        "ad": "EcomCrew, Alibaba alım rehberi",
+        "url": "https://www.ecomcrew.com/how-to-use-alibaba/"
+      },
+      {
+        "ad": "Sino Shipping, Çin Türkiye taşıma süreleri",
+        "url": "https://www.sino-shipping.com/freight-china-turkey/"
+      },
+      {
+        "ad": "Vergi Usul Kanunu 232. madde, fatura zorunluluğu",
+        "url": "https://www.verginet.net/Yazdir.aspx?IcerikID=46075"
+      },
+      {
+        "ad": "Mesafeli Sözleşmeler Yönetmeliği",
+        "url": "https://mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=20237&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, 2026 ürün güvenliği ve denetimi tebliğleri",
+        "url": "https://ugdgm.ticaret.gov.tr/duyurular/urun-guvenligi-ve-denetimi-tebligleri-resmi-gazetede-yayimlanarak-yururluge-girdi"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, ithalatta denetimi yapılan ürün grupları",
+        "url": "https://ticaret.gov.tr/urun-guvenligi/ithalatta-urun-guvenligi-denetimleri/ithalatta-denetimi-gerceklestirilen-urun-gruplari"
+      },
+      {
+        "ad": "CE işareti taşıması gereken ürünlerin ithalat denetimi tebliği",
+        "url": "https://www.lexpera.com.tr/resmi-gazete/metin/ce-isareti-tasimasi-gereken-bazi-urunlerin-ithalat-denetimi-tebligi-urun-guvenligi-ve-denetimi-2026"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, tarım ürünleri ithalat denetimleri",
+        "url": "https://ticaret.gov.tr/urun-guvenligi/tarim-urunlerinin-dis-ticaret-denetimleri/tarim-ve-orman-bakanligi-tarafindan-yurutulen-ithalat-denetimleri"
+      }
+    ]
+  },
+  {
+    "slug": "sahis-sirketi-kurma-maliyeti",
+    "alan": "mevzuat",
+    "baslik": "Şahıs şirketi kurma: 2026 maliyeti, vergisi ve muafiyetler",
+    "ozet": "Şahıs şirketi nasıl kurulur, aylık sabit gideri ne kadar, genç girişimci istisnası ne veriyor, esnaf muafiyeti kimi kapsıyor. 2026 tutarlarıyla.",
+    "cevap": "Şahıs şirketi e-Devlet üzerinden çevrimiçi kurulabiliyor ve bildirimin işe başlamadan itibaren on gün içinde yapılması gerekiyor. Aylık sabit gider Bağ-Kur ve mali müşavirle birlikte yaklaşık 14.000 ile 15.400 lira arasında. Genç girişimci istisnası 2026'da 400.000 liraya kadar üç yıl geçerli, ama prim desteği 2025 sonunda kaldırıldı.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "İnternetteki rehberlerin çoğu hâlâ genç girişimcinin bir yıl bedava Bağ-Kur ödediğini yazıyor. Bu artık doğru değil. Destek 31 Aralık 2025 itibarıyla kaldırıldı. Ayrıntısı aşağıda."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Şahıs şirketi nasıl kurulur?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Şahıs şirketi dediğimiz yapı hukuken bir şirket değil, gerçek kişi gelir vergisi mükellefiyeti. Ticaret sicili tescili, ana sözleşme ya da sermaye şartı yok. Kuruluş, işe başlama bildirimiyle oluyor ve bildirimin işe başlama tarihinden itibaren on gün içinde yapılması gerekiyor (12)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bildirim üç yolla yapılabiliyor: vergi dairesine giderek, postayla ya da Dijital Vergi Dairesi üzerinden e-Devlet şifresiyle çevrimiçi (12). Yani evet, tamamen internetten kurulabiliyor. Bildirimden sonra vergi dairesi aynı gün ya da ertesi iş günü işyerinde yoklama yapıyor ve mükellefiyet açılıyor. Vergi levhası artık asılmıyor, her yıl elektronik ortamda oluşturuluyor (12)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Gereken bilgiler: kimlik, işyeri adresi, faaliyet konusu ve NACE kodu, işe başlama tarihi, kira sözleşmesi ya da tapu. Süreç pratikte bir ile üç iş gününde tamamlanıyor. Mali müşavirle çalışıyorsanız noterden vekâletname de isteniyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kuruluş ne kadara mal oluyor?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "2026 tutarı"
+        ],
+        "satirlar": [
+          [
+            "Mali müşavir kuruluş işlemi, işçisiz",
+            "2.240 TL"
+          ],
+          [
+            "Mali müşavir kuruluş işlemi, işçili",
+            "2.900 TL"
+          ],
+          [
+            "İşyeri açma izin belgesi işlemleri",
+            "11.330 TL"
+          ],
+          [
+            "İşyeri açma ve çalışma ruhsatı harcı",
+            "Belediyeye göre değişiyor"
+          ],
+          [
+            "Noter vekâletname ücreti",
+            "Kaynak bulunamadı"
+          ]
+        ],
+        "not": "Mali müşavir tutarları asgari ücret tarifesinden, Ankara grubuna göredir (6). Tarifenin altında ücret alınması disiplin yaptırımına tabi. Büyük illerde artırımlı uygulanabiliyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "İşyeri açma ve çalışma ruhsatı harcının ülke geneli tek bir tutarı yok. Belediye Gelirleri Kanunu uyarınca her belediye meclisi, metrekareye ve sınıfa göre kendi tarifesini belirliyor (13). Kendi belediyenizin tarifesine bakmanız gerekiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Aylık sabit gider ne kadar?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "2026 aylık tutar"
+        ],
+        "satirlar": [
+          [
+            "Mali müşavir, işletme defteri, işçisiz",
+            "3.593 TL"
+          ],
+          [
+            "Mali müşavir, işletme defteri, işçili",
+            "4.791 TL"
+          ],
+          [
+            "Mali müşavir, serbest meslek defteri",
+            "4.492 TL"
+          ],
+          [
+            "Bağ-Kur primi, asgari matrahtan",
+            "11.808 TL"
+          ],
+          [
+            "Bağ-Kur, beş puan indirimli",
+            "10.157 TL"
+          ]
+        ],
+        "not": "Beş puan indirimi, prim borcu olmayanlar için geçerli (7). Yıllık beyanname düzenleme ücreti ayrıca 6.730 lira."
+      },
+      {
+        "tur": "metin",
+        "metin": "2026'da prime esas kazancın aylık alt sınırı 33.030 lira, üst sınırı 297.270 lira (7). Üst sınırdan prim ödemeyi seçerseniz aylık 106.274 liraya çıkıyor. Defter tutma Defter-Beyan Sistemi ya da e-Defter üzerinden yürüyor, bunun için ayrıca ücret alınmıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yani hiç ciro yapmasanız bile aylık yaklaşık 14.000 ile 15.400 lira arası sabit gidere katlanıyorsunuz. Şahıs şirketi açmadan önce yapılacak ilk hesap bu."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Vergi yükü nasıl hesaplanıyor?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Matrah dilimi",
+          "Oran"
+        ],
+        "satirlar": [
+          [
+            "190.000 TL'ye kadar",
+            "%15"
+          ],
+          [
+            "400.000 TL'ye kadar olan kısım",
+            "%20"
+          ],
+          [
+            "1.000.000 TL'ye kadar olan kısım",
+            "%27"
+          ],
+          [
+            "5.300.000 TL'ye kadar olan kısım",
+            "%35"
+          ],
+          [
+            "5.300.000 TL üzeri",
+            "%40"
+          ]
+        ],
+        "not": "2026 gelir vergisi tarifesi, ücret dışı gelirler için (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Geçici vergi oranı, tarifenin ilk dilimindeki oran yani yüzde 15. Yılda üç dönem beyan ediliyor: ocak-mart, nisan-haziran, temmuz-eylül. Dördüncü dönem 2022'den beri kaldırılmış durumda (14)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Katma değer vergisinde genel oran yüzde 20, indirimli oranlar yüzde 10 ve yüzde 1 (11)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Basit usul, küçük ölçekli esnaf için ayrı bir yol. 2026 hadleri şöyle: yıllık kira sınırı büyükşehirde 99.000 lira, diğer yerlerde 60.000 lira; alım satım işlerinde yıllık alış 1.200.000, satış 1.900.000 lira; alım satım dışı işlerde hasılat 600.000 lira (2). Basit usulde tespit edilen kazançlar gelir vergisinden tamamen istisna (3)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Genç girişimci istisnası ne veriyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "İstisnadan yararlanmak için üç temel şart var: ticari, zirai ya da mesleki faaliyet nedeniyle adınıza ilk defa gelir vergisi mükellefiyeti açılmış olması, mükellefiyet başlangıcında 29 yaşını doldurmamış olmanız ve tam mükellef gerçek kişi olmanız (3)."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "İşe başlamanın kanuni süresi içinde bildirilmiş olması gerekiyor.",
+          "İşte bilfiil çalışmanız ya da işi bizzat sevk ve idare etmeniz gerekiyor.",
+          "Adi ortaklık ya da şahıs şirketiyse bütün ortakların şartları taşıması gerekiyor.",
+          "Ölüm hali dışında, iş eşten ya da üçüncü dereceye kadar hısımlardan devralınmamış olmalı.",
+          "Mevcut bir işletmeye sonradan ortak olunmamış olmalı."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "İstisna, faaliyete başlanılan takvim yılından itibaren üç vergilendirme dönemi boyunca, tarifenin ikinci dilimindeki tutara kadar uygulanıyor (3). 2026 tarifesinde ikinci dilim 400.000 lira olduğuna göre 2026 istisna tutarı 400.000 lira. Kazanç elde etmeseniz ya da istisna haddinin altında kalsanız bile yıllık beyanname vermeniz gerekiyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Prim desteği kalktı. Genç girişimcilerin Bağ-Kur primini bir yıl süreyle Hazine'nin karşıladığı destek, 19 Aralık 2025 tarihli Resmî Gazete'de yayımlanan 7566 sayılı Kanun'la 31 Aralık 2025 sonu itibarıyla yürürlükten kaldırıldı (5). 1 Ocak 2026'dan itibaren işe başlayan genç girişimciler primi kendileri ödüyor. Kazanç istisnası devam ediyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Esnaf muafiyeti kimi kapsıyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Evde üretim yapanlar için iki ayrı yol var ve ikisi birbirine karıştırılıyor (4)."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Birinci yol: hem yüz yüze hem internetten satış"
+      },
+      {
+        "tur": "metin",
+        "metin": "Evde el emeğiyle üretilen havlu, örtü, çorap, halı, örgü, dantel, nakış, turistik eşya, sepet, süpürge, fırça, yapma çiçek, tarhana, erişte, mantı gibi ürünleri işyeri açmadan satanlar muaf. Şartlar: sanayi tipi ya da seri üretim makinesi kullanılmaması, dışarıdan işçi çalıştırılmaması, pazar takibi yapılmaması (4)."
+      },
+      {
+        "tur": "metin",
+        "metin": "İnternetten de satış yapılabiliyor ama internet üzerinden yıllık satış tutarının, o yılın brüt asgari ücretinin yıllık tutarını aşmaması gerekiyor. 2026 brüt asgari ücret aylık 33.030 lira olduğuna göre yıllık sınır 396.360 lira (8). Sınır aşılırsa muafiyet kayboluyor ve izleyen yılın başından itibaren mükellefiyet açılıyor. Bu kapsamdaki alımlarda yüzde 2 tevkifat yapılıyor (4)."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "İkinci yol: yalnızca internetten satış"
+      },
+      {
+        "tur": "metin",
+        "metin": "Ürünler sadece internet ve benzeri elektronik ortamlardan satılıyorsa bu yol uygulanıyor. Şartlar: işyeri açılmaması, seri üretim makinesi kullanılmaması, ikametgâhın bağlı olduğu vergi dairesinden esnaf vergi muafiyeti belgesi alınması, Türkiye'de kurulu bir bankada bu satışlara özel ticari hesap açılıp bütün hasılatın bu hesaptan tahsil edilmesi (4)."
+      },
+      {
+        "tur": "metin",
+        "metin": "2026 hasılat sınırı 1.900.000 lira, önceki yıl 1.580.000 liraydı (2). Banka, ticari hesaba aktarılan tutarlardan yüzde 4 gelir vergisi tevkifatı yapıyor. En az bir işçi çalıştırıyorsanız oran yüzde 2'ye iniyor (4)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu muafiyetten yararlananların mükellefiyet açtırma, defter tutma, belge düzenleme ve beyanname verme yükümlülüğü yok. Alım belgeleri beş yıl saklanıyor ve belge sahiplerinin üç yılda bir vergi dairesine başvurup durumunu güncellemesi gerekiyor (4)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "İki yoldan aynı takvim yılında aynı anda yararlanılamıyor. Birinci yolun sınırını aşıp muafiyetini kaybeden biri, izleyen yılın ocak ayı sonuna kadar ikinci yolun şartlarını sağlarsa o yıl bu kapsamda muaf kalabiliyor (4)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "E-ticaret stopajı nasıl işliyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Elektronik ticaret aracı hizmet sağlayıcıları, satıcılara yaptıkları ödemeler üzerinden tevkifat yapmakla yükümlü (3). Oran yüzde 1 olarak belirlendi ve uygulama 1 Ocak 2025'te yürürlüğe girdi (9)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Pratikte şöyle işliyor: Trendyol, Hepsiburada, Amazon gibi pazaryerleri satıcıya yaptıkları hakediş ödemesinden yüzde 1 kesip beyan ediyor ve yatırıyor. Kesilen tutar satıcının yıllık vergisinden mahsup ediliyor (9)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yani ek bir vergi yükü değil, peşin ödeme. Ama nakit akışını etkiliyor ve kâr marjı düşük işlerde yıl sonunda iade doğurabiliyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Şahıs mı, limited mi?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Şahıs işletmesinde kazanç artan oranlı tarifeye tabi: 190.000 liraya kadar yüzde 15, 5.300.000 lira üstü yüzde 40 (1). Limited şirkette kurum kazancı yüzde 25 kurumlar vergisine tabi (10). Kâr ortağa dağıtıldığında ayrıca yüzde 15 kâr payı stopajı uygulanıyor. Kâr dağıtılmadığı sürece efektif yük yüzde 25'te kalıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kaba karar kuralı şu: yıllık matrahınız 400.000 liranın üstündeki dilime yerleşiyorsa ve kârın önemli kısmını şirkette bırakacaksanız limited avantajlı hale geliyor. Kârı tamamen çekecekseniz birleşik yük yüzde 36'ya çıkıyor ve avantaj daralıyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Sorumluluk farkını atlamayın. Şahıs işletmesinde bütün malvarlığınızla sınırsız sorumlusunuz. Limited şirkette ortağın sorumluluğu taahhüt ettiği sermaye payıyla sınırlı. Ancak kamu borçlarında, yani vergi ve sosyal güvenlik primlerinde, ortak sermaye payı oranında ve müdür bütün malvarlığıyla sorumlu oluyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Maliyet farkı da var. Limited kuruluşta asgari mali müşavir ücreti 3.990 lira, aylık defter tutma 3.606 ile 4.179 lira arasında. Şahısta sırasıyla 2.240 ve 3.593 lira (6)."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Şahıs şirketini e-Devlet'ten tek başıma kurabilir miyim?",
+        "c": "Evet. Dijital Vergi Dairesi üzerinden e-Devlet girişiyle işe başlama bildirimi yapılabiliyor. Bildirimin işe başlamadan itibaren on gün içinde verilmesi gerekiyor."
+      },
+      {
+        "s": "Genç girişimci istisnası kaç yıl sürer ve ne kadar?",
+        "c": "Faaliyete başlanılan yıldan itibaren üç vergilendirme dönemi. 2026'da yıllık 400.000 liraya kadar. Kazanç olmasa da beyanname veriliyor."
+      },
+      {
+        "s": "Genç girişimcinin Bağ-Kur'u hâlâ bedava mı?",
+        "c": "Hayır. Destek 7566 sayılı Kanun'la 31 Aralık 2025 itibarıyla kaldırıldı. 2026'da işe başlayanlar primi kendileri ödüyor."
+      },
+      {
+        "s": "Evde üretip internetten satıyorum, mükellef olmam gerekir mi?",
+        "c": "Şartları taşıyorsanız hayır. Yalnızca internetten satıyorsanız 2026'da 1.900.000 liraya kadar muafsınız, ama belge ve özel banka hesabı şart, bankada yüzde 4 stopaj kesiliyor. Hem internetten hem yüz yüze satıyorsanız internet satışı 396.360 lirayı aşmamalı."
+      },
+      {
+        "s": "Esnaf vergi muafiyeti belgesini nereden alırım?",
+        "c": "İkametgâhınızın bağlı olduğu vergi dairesine başvurarak. Belge vergi dairesince onaylanıyor ve üç yılda bir güncellenmesi gerekiyor."
+      },
+      {
+        "s": "Pazaryeri ödememden yüzde 1 kesiliyor, bu ek vergi mi?",
+        "c": "Hayır, stopaj. Yıllık beyannamenizde hesaplanan vergiden mahsup ediliyor. Ek bir yük değil, peşin ödeme."
+      },
+      {
+        "s": "Basit usulde vergi ödüyor muyum?",
+        "c": "Hayır. Basit usulde tespit edilen kazançlar gelir vergisinden istisna. 2026 hadleri büyükşehirde 99.000 lira kira sınırı, alım 1.200.000 ve satış 1.900.000 lira."
+      },
+      {
+        "s": "Hiç ciro yapmasam bile ne kadar öderim?",
+        "c": "Bağ-Kur 11.808 lira, indirimliyse 10.157 lira, artı asgari mali müşavir 3.593 lira. Yani aylık yaklaşık 14.000 ile 15.400 lira arası."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Gelir İdaresi Başkanlığı, 2026 gelir vergisi tarifesi",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fyardim-kaynaklar%2Fyararli-bilgiler%2Fgelir-vergisi-tarifeleri%2Fgelir-vergisi-tarifesi-2026.pdf"
+      },
+      {
+        "ad": "TÜRMOB, gelir vergisinde 2026 maktu tutarlar",
+        "url": "https://www.turmob.org.tr/ekutuphane/download/c1bb99dd-0b47-4072-b2a3-f62c992cb53c"
+      },
+      {
+        "ad": "193 sayılı Gelir Vergisi Kanunu, güncel metin",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.4.193.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, evlerde üretilen ürünlerin internetten satışında esnaf muaflığı",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fonceki-dokumanlar%2F2025_esnaf_muafligi.pdf"
+      },
+      {
+        "ad": "TÜRMOB, genç girişimci sigorta prim desteği kaldırıldı",
+        "url": "https://www.turmob.org.tr/ekutuphane/Read/e02ca364-488a-40ca-99ce-154303ff014f"
+      },
+      {
+        "ad": "2026 mali müşavir asgari ücret tarifesi",
+        "url": "https://asmmmo.org.tr/userfiles/others/files/Mvzt/Prtk/uc/AUT-2026.pdf"
+      },
+      {
+        "ad": "Alomaliye, Bağ-Kur beş puan prim indirimi 2026",
+        "url": "https://www.alomaliye.com/2026/08/18/4-b-bag-kur-5-puan-prim-indirimi-2026/"
+      },
+      {
+        "ad": "2026 asgari ücret tespit komisyonu kararı",
+        "url": "https://www.alomaliye.com/2025/12/26/2026-yili-asgari-ucret-tespit-komisyonu-karari-2025-1/"
+      },
+      {
+        "ad": "İSMMMO, e-ticarette gelir vergisi stopaj oranı",
+        "url": "https://ismmmo.org.tr/dosya/5181/Mevzuat-Dosya/23122024-eticaret-gv-stopaj-orani.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, kurumlar vergisinde oran uygulamaları",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fonceki-dokumanlar%2F2026_KurumlarVergisiOran.pdf"
+      },
+      {
+        "ad": "TÜRMOB, katma değer vergisi oranları",
+        "url": "https://www.turmob.org.tr/ekutuphane/Read/80868166-ffee-4934-8469-2e287fa42470"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, işe başlama ve değişiklik bildirimi",
+        "url": "https://dijital.gib.gov.tr/"
+      },
+      {
+        "ad": "İstanbul Büyükşehir Belediyesi 2026 harç tarifesi örneği",
+        "url": "https://zabita.ibb.gov.tr/wp-content/uploads/2026/01/2026-Yilinda-Uygulanacak-Harc-Tarifesi.pdf"
+      },
+      {
+        "ad": "Geçici vergi dönemleri ve oranı",
+        "url": "https://www.parasut.com/blog/gecici-vergi"
+      }
+    ]
+  }
+]
