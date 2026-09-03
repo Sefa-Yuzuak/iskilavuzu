@@ -4349,5 +4349,436 @@
         "url": "https://www.iskur.gov.tr/haberler/bakanimiz-selcuk-tan-onemli-uyari-guvenliginiz-icin-kisisel-bilgilerinizi-paylasmayin/"
       }
     ]
+  },
+  {
+    "slug": "universite-ogrencisi-calisma-rehberi",
+    "alan": "universite-ogrencisi",
+    "baslik": "Üniversite öğrencisi olarak çalışmak: haklar ve riskler",
+    "ozet": "Çalışmak bursu keser mi, yurt için sınır ne, staj ücreti zorunlu mu, staj emekliliğe sayılır mı. Öğrenciye özel bütün kurallar tek sayfada.",
+    "cevap": "Sigortalı çalışmak bursu kesmiyor. Kesilme halleri yönetmelikte tek tek sayılı ve çalışma bunların arasında yok. Ama yurtta kalıyorsanız bir eşik var: brüt asgari ücretin bir buçuk katından fazla kazandıran bir işte çalışamıyorsunuz. Yani riskte olan bursunuz değil, yurdunuz.",
+    "guncelleme": "2026-09-03",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Bu sayfadaki bazı tutarlar resmî tabandan hesaplandı, örneğin staj ücreti alt sınırı ve saatlik ücret tavanı. Bunları hesaplanan diye işaretledik. Kaynağı olan rakamlarla karıştırmayın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Çalışmak bursu keser mi?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Hayır. Burs ve kredi yönetmeliğinde kesilme halleri tek tek sayılı: başarısızlık, okuldan ayrılma, izin ya da kayıt dondurma, okulun kapanması, vazgeçme, yurttan çıkarılma, kesin hükümle mahkûmiyet ve disiplin cezası. Çalışmak bu listede yok (3)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Üstelik Yükseköğretim Kanunu bunu açıkça yazıyor: kısmi zamanlı çalışma karşılığı ücret ödenmesi, burs ya da öğrenim kredisinin kesilmesi veya yurtlardan yararlanma hakkının kaldırılması sonucunu doğurmaz (6)."
+      },
+      {
+        "tur": "metin",
+        "metin": "2026'da burs ve öğrenim kredisi aylık tutarları şöyle: ön lisans ve lisansta 4.000 lira, yüksek lisansta 8.000 lira, doktorada 12.000 lira (2). Bir öğrenci aynı anda hem burs hem kredi alamıyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Yurtta kalıyorsanız durum farklı. Yurt hizmetleri yönetmeliği, barınma şartı olarak zorunlu staj hariç brüt asgari ücretin bir buçuk katı üzerinde ücretli bir işte çalışmamayı arıyor (4). 2026 için bu eşik 49.545 lira brüt (hesaplanan). Bunu aşarsanız bursunuz değil, yurdunuz gider."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kredi geri ödemesi nasıl işliyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Borç, alınan miktar kadar. Okulla ilişik kesildikten iki yıl sonra başlıyor ve kredi alınan süre kadar sürede aylık taksitlerle ödeniyor (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Erteleme talebinde sosyal güvenlik kaydınızdan çalışmadığınız teyit edilirse ilk yıl ilave yapılmıyor. Sonraki her yıl için yüzde 10 ekleniyor, enflasyon bunun altındaysa enflasyon oranı uygulanıyor. En fazla üç kez ertelenebiliyor. Askerlik dönemine denk gelirse ilavesiz erteleniyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Katkı kredisi ile öğrenim kredisi arasındaki fark veriliş amacında: biri öğrenciye nakit, diğeri öğrenim katkı payı için. Geri ödeme rejimi ikisinde de aynı."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sağlık sigortası ne oluyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Anne baba üzerinden yararlanma sınırı yükseköğrenimde 25 yaş, lise ve dengi öğrenimde 20 yaş. Kanun bunu tanımlarken bir şart daha koyuyor: evli olmamak (5)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Sigortalı olarak işe girdiğiniz an kendi genel sağlık sigortalınız oluyorsunuz, anne baba üzerindeki bakmakla yükümlülük düşüyor. İşten çıkınca son bir yılda 90 gün priminiz varsa 90 gün daha sağlık hakkınız sürüyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Yirmi beş yaş sonrası için öğrencilere istisna yok. Yaşı dolduran öğrenci kendiliğinden genel sağlık sigortası kapsamına alınıyor. Gelir testinde aile içi kişi başı aylık gelir asgari ücretin üçte birinden azsa primi devlet ödüyor. 2026'da bu eşik 11.010 lira (hesaplanan). Aşarsanız aylık 990,90 lira prim ödüyorsunuz (hesaplanan)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Tek yumuşatma mezunlar için: 25 yaşı geçmemek kaydıyla, mezuniyeti izleyen günden itibaren iki yıl boyunca prim borcuna bakılmaksızın sağlık hizmetinden yararlanılıyor (5)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kaç saat çalışabilirsiniz?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Durum",
+          "Azami süre"
+        ],
+        "satirlar": [
+          [
+            "Okula devam eden çocuk, 18 yaş altı",
+            "Ders saatleri dışında günde 2, haftada 10 saat"
+          ],
+          [
+            "Okula gitmeyen çocuk",
+            "Günde 7, haftada 35 saat"
+          ],
+          [
+            "Genç işçi, 15-18 yaş",
+            "Haftada 45 saat"
+          ],
+          [
+            "18 yaş üstü öğrenci",
+            "Öğrenciye özel sınır yok, genel kural haftada 45 saat"
+          ]
+        ],
+        "not": "Kaynak: çocuk ve genç işçiler yönetmeliği ile İş Kanunu (10, 11)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kısmi süreli çalışmanın hukuki tanımı, emsal tam süreli çalışmanın üçte ikisine kadar olan çalışma (12). Yani haftada 45 saat çalışılan bir işyerinde kısmi süreli sınırı 30 saat. Kısmi süreli çalışan, salt bu nedenle farklı işleme tabi tutulamıyor ve parasal hakları süreyle orantılı ödeniyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Staj: ücret zorunlu mu, emekliliğe sayılır mı?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Yükseköğretimde uygulamalı eğitimler yönetmeliği, staj yapan öğrencilere ödenecek ücret için mesleki eğitim kanununa atıf yapıyor (9). O kanundaki taban şöyle: 20 ve üzeri personel çalıştıran işyerinde net asgari ücretin yüzde 30'u, 20'den az personel çalıştıranda yüzde 15'i (8)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "İşyeri büyüklüğü",
+          "Aylık staj ücreti alt sınırı"
+        ],
+        "satirlar": [
+          [
+            "20 ve üzeri personel",
+            "8.422,65 TL"
+          ],
+          [
+            "20'den az personel",
+            "4.211,33 TL"
+          ]
+        ],
+        "not": "2026 net asgari ücretten hesaplandı. Uygulamalı ders kapsamındaki eğitimde ücret ödenmiyor, sözleşmenizde hangisi olduğuna bakın."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Bu ücretin büyük kısmını devlet karşılıyor. Ödenebilecek en az ücretin, 20'den az personel çalıştıran işletmelerde üçte ikisi, 20 ve üzerinde üçte biri İşsizlik Sigortası Fonu'ndan devlet katkısı olarak ödeniyor (8). Yani bütçemiz yok cevabı çoğu zaman gerçek dışı. Kamu kurumlarına devlet katkısı ödenmiyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Staj sigortasını yükseköğrenim stajında öğrenim gördüğünüz yükseköğretim kurumu ödüyor (5)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Ama staj emekliliğe sayılmıyor. Staj öğrencisine yalnızca iş kazası ve meslek hastalığı sigortası uygulanıyor, gerekiyorsa üzerine genel sağlık sigortası ekleniyor. Uzun vadeli sigorta kolları yok, dolayısıyla staj günleri emeklilik prim gününe yazılmıyor (5)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bir nüans daha var ve rakiplerin hiçbiri değinmiyor: mesleki eğitim kanunundaki o madde metinde mesleki ve teknik ortaöğretim öğrencilerini sayıyor. Yükseköğretim stajına uygulanması, çerçeve yönetmelikteki atıfla kuruluyor. İşvereninizle tartışırken bu ayrımı bilmeniz işinize yarar."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Üniversite içinde çalışmak"
+      },
+      {
+        "tur": "metin",
+        "metin": "Yükseköğretim Kanunu kısmi zamanlı öğrenci çalıştırmayı düzenliyor. Burs alanlara veya burs alma şartlarını taşıyanlara öncelik veriliyor ve bu öğrenciler işçi sayılmıyor (6)."
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Çalışma süresi haftada en çok 15 saat (7).",
+          "Saatlik ücret tavanı, günlük brüt asgari ücretin dörtte biri. 2026'da 275,25 lira (hesaplanan). Kesin tutarı üniversite yönetim kurulu belirliyor.",
+          "Sigorta yönünden hizmet akdiyle çalışan sayılıyorsunuz ama yalnızca iş kazası ve meslek hastalığı hükümleri uygulanıyor. Bildirimleri üniversite yapıyor.",
+          "Başvuru, üniversitenin sağlık kültür ve spor daire başkanlığının ilan ettiği çağrıyla yapılıyor."
+        ]
+      },
+      {
+        "tur": "uyari",
+        "metin": "Bir şartı atlamayın: yetim maaşı ve nafaka dışında asgari ücret düzeyinde geliriniz olmaması gerekiyor (7). Yani bu program bursu kesmiyor ama geliriniz varsa programa giremiyorsunuz."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Devlet destekli öğrenci programları"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Program",
+          "Kim katılabilir",
+          "Ödeme"
+        ],
+        "satirlar": [
+          [
+            "Gençlik Programı",
+            "Devlet üniversitesi örgün öğrencisi",
+            "Günlük 1.375 TL, sigorta primi kurumca"
+          ],
+          [
+            "İşbaşı Eğitim Programı",
+            "İş arayan",
+            "Günlük 1.079,83 TL, geleceğin mesleklerinde 1.403,78 TL"
+          ],
+          [
+            "Toplum Yararına Program",
+            "Örgün öğrenci katılamıyor",
+            "Günlük asgari ücret"
+          ]
+        ],
+        "not": "Gençlik programı en çok on ay, haftada 22,5 saat ve hane geliri net asgari ücretin üç katını aşmamalı. İşbaşı eğitiminde yalnızca sağlık ve iş kazası primi yatıyor, emekliliğe sayılmıyor (14, 15, 16)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Genç istihdamın yüzde 57,9'u hizmet sektöründe, yüzde 30,5'i sanayide, yüzde 11,6'sı tarımda. 15-24 yaş işsizliği yüzde 15,3 ve ne eğitimde ne istihdamda olanların oranı yüzde 23,3 (17)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Çağrı merkezi, perakende, kurye, garsonluk ve özel ders için öğrenciye özgü kaynaklı ücret verisi bulunamadı. En yakın resmî veri sektör bazlı ortalama kazanç ve orada öğrenci ayrımı yok. Bu yüzden buraya rakam yazmadık."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Öğrenciyken iş kurmak"
+      },
+      {
+        "tur": "metin",
+        "metin": "Genç girişimci kazanç istisnası 2026'da 400.000 lira. Şartlar: mükellefiyet başlangıcında 29 yaşını doldurmamış olmak, ilk defa gelir vergisi mükellefi olmak, işe başlamayı kanuni sürede bildirmek, işte bilfiil çalışmak ve işi eşten ya da üçüncü dereceye kadar hısımdan devralmamış olmak. Süre üç vergilendirme dönemi ve kullanılmayan kısım devretmiyor (18)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Kritik değişiklik: genç girişimcinin Bağ-Kur prim teşviki 1 Ocak 2026'dan itibaren yürürlükten kaldırıldı (18). Kazanç istisnası devam ediyor ama primi artık kendiniz ödüyorsunuz. Öğrenci olmanın istisnaya etkisine dair açık bir hüküm bulunamadı, ne engel ne avantaj yazılmış."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Destek",
+          "Tutar"
+        ],
+        "satirlar": [
+          [
+            "KOSGEB iş kurma, gerçek kişi",
+            "10.000 TL, geri ödemesiz"
+          ],
+          [
+            "KOSGEB iş kurma, sermaye şirketi",
+            "20.000 TL, geri ödemesiz"
+          ],
+          [
+            "KOSGEB genç girişimci ilavesi",
+            "+10.000 TL"
+          ],
+          [
+            "KOSGEB iş geliştirme",
+            "1.500.000 TL, geri ödemeli, gence +150.000 TL"
+          ],
+          [
+            "TÜBİTAK 2209-A",
+            "12.000 TL, en çok 12 ay"
+          ],
+          [
+            "TÜBİTAK 2209-B",
+            "16.000 TL, en çok 12 ay"
+          ],
+          [
+            "TÜBİTAK girişimcilik programı",
+            "1.350.000 TL karşılığı yüzde 3 hisse"
+          ]
+        ],
+        "not": "KOSGEB'de genç tanımı 35 yaşını tamamlamamış olmak. Araştırma programlarında akademik danışman zorunlu, açıköğretim ve hazırlık öğrencileri yer alamıyor (19, 20, 21, 23)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Girişimcilik destek programında ortaklık payınızın en az yüzde elli olması ve girişimcilik eğitimini tamamlamış olmanız gerekiyor. Teknoloji geliştirme bölgeleri kanunu ise bölge dışı kuluçka merkezlerinde de aynı destek ve istisnaların uygulanacağını söylüyor; yazılım, tasarım ve araştırma geliştirme kazançları 2028 sonuna kadar vergiden müstesna (24)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Riskler"
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Staj adı altında ücretsiz çalıştırma"
+      },
+      {
+        "tur": "metin",
+        "metin": "Ücretin dayanağı yukarıda anlatıldı ve işletmenin ödediği tutarın büyük kısmını zaten devlet karşılıyor. Bu yüzden bütçemiz yok cevabı çoğu zaman geçerli değil. Buna karşılık uygulamalı ders kapsamındaki eğitimde ücret ödenmiyor, sözleşmenizde hangisi olduğuna bakın."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Sigortasız çalıştırma"
+      },
+      {
+        "tur": "metin",
+        "metin": "Maliyeti sadece emeklilik günü değil. Kayıt dışı çalışırken kaza geçirirseniz ispat yükü sizde olur. Hizmetin tespiti için, hizmetin geçtiği yılın sonundan itibaren beş yıl içinde iş mahkemesine başvurmak gerekiyor (5). Kurum denetiminde kayda dayanmayan tespitlerde geriye dönük en fazla bir yıl dikkate alınıyor, yani bir yıldan eskisi için tek yol mahkeme."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "İş dolandırıcılığı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kişisel veri kurumunun duyurusunda tarif edilen kalıp şu: sahte iş ilanı, ardından kimlik kartı fotoğrafı ve hesap numarası talebi, sonra iadesi yapılacak denilerek para transferi istenmesi, sonra irtibatın kesilmesi (25)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Elinizde net bir hukuki test var. İş kurumu kanunu, özel istihdam bürosunun hizmet bedelini işverenden almasını zorunlu kılıyor ve iş arayanlardan her ne ad altında olursa olsun menfaat sağlanamayacağını, hizmet bedeli alınamayacağını yazıyor. İş arayanla yapılan bedel anlaşmaları geçersiz (26). Yani sizden kayıt, komisyon ya da ön ödeme isteyen aracı kanuna aykırı davranıyor."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Sigortalı çalışırsam bursum kesilir mi?",
+        "c": "Hayır. Kesilme halleri yönetmelikte tek tek sayılı ve çalışma bunların arasında değil. Yükseköğretim Kanunu da kısmi zamanlı çalışma için bunu açıkça yazıyor."
+      },
+      {
+        "s": "Yurtta kalırken çalışabilir miyim?",
+        "c": "Evet, ama zorunlu staj hariç brüt asgari ücretin bir buçuk katından fazla kazandıran bir işte çalışmamanız şartıyla. 2026'da bu eşik 49.545 lira."
+      },
+      {
+        "s": "Staj günlerim emekliliğe sayılır mı?",
+        "c": "Hayır. Yalnızca iş kazası ve meslek hastalığı sigortası uygulanıyor, gerekiyorsa genel sağlık sigortası ekleniyor. Uzun vadeli sigorta kolları yok."
+      },
+      {
+        "s": "Staj sigortamı kim öder?",
+        "c": "Yükseköğrenim stajında öğrenim gördüğünüz yükseköğretim kurumu ödüyor."
+      },
+      {
+        "s": "Zorunlu stajda ücret ödenmesi zorunlu mu?",
+        "c": "Yönetmelik ücreti mesleki eğitim kanununa bağlıyor: 20 ve üzeri personelde net asgari ücretin yüzde 30'u, 20'den azında yüzde 15'i taban. Uygulamalı ders kapsamındaki eğitimde ücret ödenmiyor."
+      },
+      {
+        "s": "Üniversitede kısmi zamanlı çalışırsam saatlik ne alırım?",
+        "c": "Tavan, günlük brüt asgari ücretin dörtte biri. 2026'da 275,25 lira. Kesin tutarı üniversite yönetim kurulu belirliyor ve haftada en çok 15 saat çalışabiliyorsunuz."
+      },
+      {
+        "s": "Yirmi beş yaşımı doldurdum, hâlâ öğrenciyim. Sağlık sigortam ne olacak?",
+        "c": "Öğrenciler için istisna yok. Kendiliğinden genel sağlık sigortası tescili yapılıyor. Gelir testinde kişi başı gelir 11.010 liranın altındaysa primi devlet ödüyor, üstündeyse aylık 990,90 lira ödüyorsunuz."
+      },
+      {
+        "s": "İş bulma vaadiyle benden para isteniyor, normal mi?",
+        "c": "Değil. Kanun iş arayandan bedel alınmasını yasaklıyor ve bu anlaşmalar geçersiz. Kimlik ve hesap numarası talebiyle birlikte ön ödeme istenmesi, kişisel veri kurumunun tarif ettiği dolandırıcılık kalıbı."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "351 sayılı Yüksek Öğrenim Kredi ve Yurt Hizmetleri Kanunu",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.351.pdf"
+      },
+      {
+        "ad": "Gençlik ve Spor Bakanlığı, 2026 burs ve kredi tutarları",
+        "url": "https://www.gsb.gov.tr/tr/haber-detay/295278-yukseltilen-gsb-burskredileri-6-ocakta-odenmeye-baslanacak"
+      },
+      {
+        "ad": "Burs ve kredi yönetmeliği, kesilme halleri",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2004/08/20040824.htm"
+      },
+      {
+        "ad": "Yurt Hizmetleri Yönetmeliği",
+        "url": "https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=38510&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5"
+      },
+      {
+        "ad": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5510.pdf"
+      },
+      {
+        "ad": "2547 sayılı Yükseköğretim Kanunu",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2547.pdf"
+      },
+      {
+        "ad": "YÖK, kısmi zamanlı öğrenci çalıştırma usul ve esasları",
+        "url": "https://strateji.yok.gov.tr/"
+      },
+      {
+        "ad": "3308 sayılı Mesleki Eğitim Kanunu",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3308.pdf"
+      },
+      {
+        "ad": "Yükseköğretimde Uygulamalı Eğitimler Çerçeve Yönetmeliği",
+        "url": "https://resmigazete.gov.tr/eskiler/2021/06/20210617-2.htm"
+      },
+      {
+        "ad": "Çocuk ve Genç İşçilerin Çalıştırılma Usul ve Esasları Yönetmeliği",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040406.htm"
+      },
+      {
+        "ad": "4857 sayılı İş Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4857.pdf"
+      },
+      {
+        "ad": "İş Kanununa İlişkin Çalışma Süreleri Yönetmeliği",
+        "url": "https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=5447&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5"
+      },
+      {
+        "ad": "Çalışma ve Sosyal Güvenlik Bakanlığı, 2026 asgari ücret",
+        "url": "https://www.csgb.gov.tr/haberler/2026-yilinda-gecerli-olacak-yeni-asgari-ucret-28-bin-75-lira-olarak-belirlendi/"
+      },
+      {
+        "ad": "İŞKUR Gençlik Programı",
+        "url": "https://www.iskur.gov.tr/is-arayan/aktif-isgucu-programlari/iskur-genclik-programi/"
+      },
+      {
+        "ad": "İŞKUR işbaşı eğitim programı ödemeleri",
+        "url": "https://www.iskur.gov.tr/sikca-sorulan-sorular/aktif-isgucu-hizmetleri/isbasi-egitimi-programi-suresince-hangi-odemeler-yapilmaktadir/"
+      },
+      {
+        "ad": "İŞKUR toplum yararına programlar",
+        "url": "https://www.iskur.gov.tr/is-arayan/aktif-isgucu-programlari/toplum-yararina-programlar-typ/"
+      },
+      {
+        "ad": "TÜİK, istatistiklerle gençlik 2025",
+        "url": "https://www.tuik.gov.tr/media/announcements/ist_genc2025.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, genç girişimcilere vergi teşviki 2026",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU/UNIVERSAL/2026/2026_genc_girisimciler_info.pdf"
+      },
+      {
+        "ad": "KOSGEB girişimci destek programı uygulama esasları",
+        "url": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/1231/girisimci-destek-programi"
+      },
+      {
+        "ad": "TÜBİTAK 2209-A araştırma projeleri destek programı",
+        "url": "https://tubitak.gov.tr/tr/burslar/lisans/burs-programlari/2209-a"
+      },
+      {
+        "ad": "TÜBİTAK 2209-B sanayi odaklı araştırma programı",
+        "url": "https://tubitak.gov.tr/tr/burslar/lisans/burs-programlari/2209-b"
+      },
+      {
+        "ad": "TÜBİTAK girişimcilik destek programı uygulama esasları",
+        "url": "https://tubitak.gov.tr/"
+      },
+      {
+        "ad": "TÜBİTAK yatırım tabanlı girişimcilik çağrısı",
+        "url": "https://tubitak.gov.tr/en/announcement/1812-investment-based-entrepreneurship-support-program-2026-1-pre-seed-investment-call-open-applications"
+      },
+      {
+        "ad": "4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4691.pdf"
+      },
+      {
+        "ad": "Kişisel Verileri Koruma Kurumu, iş vaadi konulu veri ihlalleri duyurusu",
+        "url": "https://www.kvkk.gov.tr/Icerik/7095/IS-VAADI-KONULU-TCK-KAPSAMINDAKI-KISISEL-VERI-IHLALLERINE-ILISKIN-KAMUOYU-DUYURUSU"
+      },
+      {
+        "ad": "4904 sayılı Türkiye İş Kurumu Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4904.pdf"
+      }
+    ]
   }
 ]
