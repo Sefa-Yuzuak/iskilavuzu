@@ -7,6 +7,8 @@
 <meta name="description" content="{% block aciklama %}{{ site.aciklama }}{% endblock %}">
 {% if site.noindex %}
 <meta name="robots" content="noindex, nofollow">
+{% else %}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 {% endif %}
 <link rel="canonical" href="{{ kok }}{% block yol %}/{% endblock %}">
 <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
