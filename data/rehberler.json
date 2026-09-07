@@ -2715,7 +2715,7 @@
         "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5510.pdf"
       },
       {
-        "ad": "Sosyal Güvenlik Kurumu, isteğe bağlı sigortalılık 2026",
+        "ad": "Sosyal Güvenlik Kurumu, ilk defa isteğe bağlı sigortalı olanlar",
         "url": "https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2026-01-12-09-48-59"
       },
       {
@@ -2723,8 +2723,8 @@
         "url": "https://www.pwc.com.tr/tr/medya/kose-yazilari/celal-ozcan/kismi-sureli-calisma-ve-sgk-bildirim-surecleri.html"
       },
       {
-        "ad": "İsteğe bağlı sigorta prim tutarları",
-        "url": "https://www.isvesosyalguvenlik.com/istege-bagli-sigorta-prim-tutarlari/"
+        "ad": "Sosyal Güvenlik Kurumu, ilk defa isteğe bağlı sigortalı olanlar",
+        "url": "https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2026-01-12-09-48-59"
       },
       {
         "ad": "2026 asgari ücret tespit komisyonu kararı",
@@ -2741,10 +2741,6 @@
       {
         "ad": "Kısmi süreli çalışanda hafta tatili ve yıllık izin, Yargıtay kararı",
         "url": "https://www.mondaq.com/turkey/employee-benefits-compensation/1773926/"
-      },
-      {
-        "ad": "Yargıtay, kısmi süreli çalışmada kıdem ihbar ve yıllık izin alacağı",
-        "url": "https://www.alomaliye.com/2026/05/12/yargitaydan-kismi-sureli-calismada-kidem-ihbar-ve-yillik-izin-alacagina-iliskin-karar/"
       },
       {
         "ad": "Çocuk ve Genç İşçilerin Çalıştırılma Usul ve Esasları Yönetmeliği",
@@ -4309,7 +4305,7 @@
         "url": "https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2026-01-12-09-48-59"
       },
       {
-        "ad": "Sosyal Güvenlik Kurumu, bağımsız çalışanlarda yaşlılık aylığı",
+        "ad": "Sosyal Güvenlik Kurumu, 4/b bağımsız çalışanlar ile köy ve mahalle muhtarları",
         "url": "https://www.sgk.gov.tr/Content/Post/e528abf5-8e23-4ed5-b4ab-c016d7cd9ab2/4b-Kendi-Adina-ve-Hesabina-Bagimsiz-Calisanlar-ile-Koy-ve-Mahalle-Muhtarlari-2024-01-11-02-40-49"
       },
       {
@@ -4319,10 +4315,6 @@
       {
         "ad": "Trendyol satıcı paneli, komisyon oranları",
         "url": "https://partner.trendyol.com"
-      },
-      {
-        "ad": "İstanbul Büyükşehir Belediyesi, kadın emeği pazarı",
-        "url": "https://www.ibb.istanbul/News/Detail/37911"
       },
       {
         "ad": "Tarım ve Orman Bakanlığı, gıda işletmelerinde kayıt ve onay",
@@ -5105,6 +5097,1951 @@
       {
         "ad": "Gelir İdaresi Başkanlığı, genç girişimcilere vergi teşviki",
         "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU/UNIVERSAL/2026/2026_genc_girisimciler_info.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "limited-sirket-kurma-maliyeti",
+    "alan": "is-kurma",
+    "baslik": "Limited şirket kurma: 2026 maliyeti, sermayesi ve şahıstan farkı",
+    "ozet": "Limited şirket kurmak ne kadara mal oluyor, 50.000 lira sermayeyi peşin yatırmak gerekiyor mu, hangi ciroda şahıs şirketinden avantajlı hale geliyor. 2026 oranlarıyla.",
+    "cevap": "Limited şirketin asgari sermayesi 50.000 lira ama bunu kuruluşta bankaya bloke etmek gerekmiyor; nakdi sermaye tescilden sonra 24 ay içinde ödenebiliyor. Kuruluş masrafı sermaye hariç kabaca 30.000 ile 42.500 lira arasında. Kazanç 25 kurumlar vergisine tabi ve kârı kendinize aktarırken ayrıca 15 stopaj çıkıyor; bu yüzden düşük ciroda şahıs şirketi neredeyse her zaman daha ucuz.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "En sık karşılaşılan iki yanlış: (1) \"50.000 lirayı bankaya bloke etmen lazım\" — limited şirkette bu zorunluluk yok, anonim şirkette var. (2) \"Limited şirkette borçtan sorumlu değilsin\" — vergi ve SGK borçlarından şahsi malvarlığınızla sorumlusunuz. İkisinin de ayrıntısı aşağıda."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sermaye: ne kadar ve ne zaman ödenir?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Limited şirketin asgari esas sermayesi 50.000 lira. Bu tutar 2023'te 10.000 liradan yükseltildi ve 1 Ocak 2024'te yürürlüğe girdi (1). Anonim şirkette asgari sermaye 250.000 lira, kayıtlı sermaye sistemini seçen halka açık olmayan anonim şirkette 500.000 lira."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kritik fark burada: limited şirkette nakdi sermayenin tescilden önce bankaya yatırılması ve bloke edilmesi zorunlu değil. Taahhüt edilen sermaye, şirket tescil edildikten sonra yirmi dört ay içinde ödenebiliyor (2). Anonim şirkette ise nakdi sermayenin dörtte biri tescilden önce ödenmek zorunda."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yani cebinizde 50.000 lira olmadan da limited şirket kurabilirsiniz. Ama bu para silinmiyor, sadece erteleniyor; iki yıl içinde şirkete koymanız gereken gerçek bir borç."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kuruluş ne kadara mal oluyor?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "2026 tutarı"
+        ],
+        "satirlar": [
+          [
+            "Mali müşavir kuruluş hizmeti",
+            "12.000 – 18.000 TL"
+          ],
+          [
+            "Vekâletname ve imza beyannamesi",
+            "6.500 – 8.000 TL"
+          ],
+          [
+            "Ticaret odası kaydı, ilan, defter tasdiki",
+            "16.500 – 20.000 TL"
+          ],
+          [
+            "Rekabet Kurumu payı (sermayenin binde 4'ü)",
+            "200 TL (50.000 TL sermayede)"
+          ],
+          [
+            "Toplam, sermaye hariç",
+            "yaklaşık 30.000 – 42.500 TL"
+          ]
+        ],
+        "not": "Tutarlar Eylül 2026 itibarıyla mali müşavirlik ve şirket kuruluş hizmeti veren kaynakların yayımladığı aralıklardır (3, 4); il ve büroya göre değişir. Rekabet Kurumu payı 4054 sayılı Kanun'un 39. maddesine dayanır (5)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kuruluş MERSİS üzerinden başlıyor, imzalar ticaret sicili müdürlüğünde atılıyor. İmza beyannamesi artık noterde alınmak zorunda değil, sicil müdürlüğünde de düzenlenebiliyor; bu, birçok rehberde hâlâ eksik yazılan bir nokta."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Aylık sabit gider farkı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Limited şirket bilanço esasına göre defter tutar, şahıs şirketi çoğunlukla işletme defteri tutar. Bu, mali müşavir ücretini doğrudan yükseltir. Şahıs şirketinde işçisiz işletme defteri aylık 3.593 lira iken (6), limited şirkette bilanço esası tarifesi belirgin şekilde üstündedir; büronuzdan yazılı teklif isteyin."
+      },
+      {
+        "tur": "metin",
+        "metin": "Ortağın kendi sigortası her iki yapıda da Bağ-Kur (4/1-b). 2026'da asgari matrahtan aylık 11.808 lira, prim borcu yoksa beş puan indirimle 10.157 lira (7). Yani şirket türü değişse de bu kalem değişmiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Vergi: hangisi daha ucuz?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Şahıs şirketinde kazanç artan oranlı gelir vergisine tabi: 190.000 liraya kadar 15, sonrasında sırasıyla 20, 27, 35 ve 40 oranları uygulanıyor (8). Limited şirkette kazanç önce 25 kurumlar vergisine tabi (9)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Karşılaştırmayı yaparken en çok atlanan kalem: kurumlar vergisi sonrası kalan kârı kendinize aktarmak istediğinizde 15 oranında kâr payı stopajı doğuyor (10). Yani efektif yük sadece 25 değil. Bu iki katmanı hesaba katmayan \"limited daha az vergi ödüyor\" karşılaştırmaları yanıltıcı."
+      },
+      {
+        "tur": "metin",
+        "metin": "Buna bir de yurt içi asgari kurumlar vergisi eklendi: hesaplanan kurumlar vergisi, indirim ve istisnalar düşülmeden önceki kurum kazancının 10'undan az olamıyor (11). İstisnalardan yararlanarak vergiyi sıfırlama yolu böylece kapandı."
+      },
+      {
+        "tur": "metin",
+        "metin": "Pratik sonuç: kazanç düşük ve tamamını kendinize alacaksanız şahıs şirketi genellikle daha ucuz. Kârı şirkette bırakıp büyütecekseniz, ortak alacaksanız ya da yatırım/ihale nedeniyle tüzel kişilik gerekiyorsa limited şirket anlamlı hale geliyor. Kesin eşik kişiden kişiye değişir; kendi rakamlarınızla mali müşavirinize hesaplatın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sorumluluk: sınırlı sorumluluğun sınırı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Limited şirket ortağı, şirketin özel hukuktan doğan borçlarından taahhüt ettiği sermaye payıyla sınırlı sorumludur. Ama kamu alacaklarında durum farklı: ödenmeyen vergi ve SGK borçlarından ortaklar sermaye payları oranında, müdürler ise tüm malvarlığıyla sorumlu tutulabiliyor (12). \"Şirket batarsa evime dokunulmaz\" cümlesi bu yüzden doğru değil."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Karar verirken bakılacak beş soru"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Kârı şirkette mi bırakacaksınız, yoksa her ay kendinize mi aktaracaksınız?",
+          "Ortak alacak mısınız? Şahıs şirketinde ortaklık yapısı kurulamaz.",
+          "Müşterileriniz tüzel kişilik şartı arıyor mu? Bazı ihale ve kurumsal sözleşmelerde aranıyor.",
+          "İlk yıl cironuz gerçekçi olarak ne kadar? Düşükse limited şirketin sabit gideri sizi ezer.",
+          "Genç girişimci istisnasından yararlanabilecek misiniz? Bu istisna yalnızca gerçek kişilere, yani şahıs şirketine tanınıyor."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Son madde çoğu zaman belirleyici oluyor. Genç girişimci kazanç istisnası 2026'da 400.000 liraya kadar üç yıl geçerli ve limited şirket kurduğunuzda bu hakkı kullanamıyorsunuz."
+      }
+    ],
+    "sss": [
+      {
+        "s": "50.000 lirayı kuruluşta bankaya yatırmam gerekiyor mu?",
+        "c": "Hayır. Limited şirkette nakdi sermaye blokajı zorunlu değil; taahhüt edilen tutar tescilden sonra yirmi dört ay içinde şirkete ödenebiliyor. Blokaj zorunluluğu anonim şirkette var, orada da nakdi sermayenin dörtte biri kadar."
+      },
+      {
+        "s": "Limited şirket mi şahıs şirketi mi daha az vergi ödüyor?",
+        "c": "Düşük kazançta genellikle şahıs şirketi. Limited şirkette 25 kurumlar vergisinin üzerine, kârı kendinize aktarırken 15 kâr payı stopajı ekleniyor. Şahıs şirketinde ise oran 15'ten başlıyor ve genç girişimci istisnası kullanılabiliyor."
+      },
+      {
+        "s": "Şirket borcundan evime haciz gelir mi?",
+        "c": "Özel hukuk borçlarında ortağın sorumluluğu sermaye payıyla sınırlı. Ancak ödenmeyen vergi ve SGK borçlarında ortaklar payları oranında, müdürler tüm malvarlığıyla sorumlu tutulabiliyor."
+      },
+      {
+        "s": "Tek kişiyle limited şirket kurulabilir mi?",
+        "c": "Evet. Tek ortaklı limited şirket kurulabiliyor. Bu durumda tek ortak aynı zamanda müdür olarak atanabilir."
+      },
+      {
+        "s": "Sonradan şahıstan limitede geçebilir miyim?",
+        "c": "Evet, tür değiştirme mümkün ve uygulamada sık yapılıyor. Bu yüzden ilk yıl şahıs şirketiyle başlayıp ciro oturunca limitede geçmek yaygın bir strateji."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Ticaret Bakanlığı, anonim ve limited şirketlerde asgari sermaye tutarları artırıldı",
+        "url": "https://icticaret.ticaret.gov.tr/haberler/anonim-ve-limited-sirketlerde-asgari-sermaye-tutarlari-artirilmistir"
+      },
+      {
+        "ad": "6102 sayılı Türk Ticaret Kanunu, güncel metin",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6102.pdf"
+      },
+      {
+        "ad": "Limited şirket kuruluş maliyeti kalemleri, 2026",
+        "url": "https://mukellef.co/blog/limited-sirket-kurma-maliyeti/"
+      },
+      {
+        "ad": "2026 şirket kurma maliyetleri: şahıs, limited, anonim karşılaştırması",
+        "url": "https://faturaport.com/blog/crm/2026-sirket-kurma-maliyetleri-nelerdir-sahis-limited-anonim-karsilastirmasi"
+      },
+      {
+        "ad": "4054 sayılı Rekabetin Korunması Hakkında Kanun",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4054.pdf"
+      },
+      {
+        "ad": "2026 mali müşavir asgari ücret tarifesi",
+        "url": "https://asmmmo.org.tr/userfiles/others/files/Mvzt/Prtk/uc/AUT-2026.pdf"
+      },
+      {
+        "ad": "Alomaliye, Bağ-Kur beş puan prim indirimi 2026",
+        "url": "https://www.alomaliye.com/2026/08/18/4-b-bag-kur-5-puan-prim-indirimi-2026/"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, 2026 gelir vergisi tarifesi",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fyardim-kaynaklar%2Fyararli-bilgiler%2Fgelir-vergisi-tarifeleri%2Fgelir-vergisi-tarifesi-2026.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, kurumlar vergisinde oran uygulamaları 2026",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fonceki-dokumanlar%2F2026_KurumlarVergisiOran.pdf"
+      },
+      {
+        "ad": "Kâr payı dağıtımında stopaj oranı yüzde 15'e çıkarıldı (Cumhurbaşkanı Kararı 9286)",
+        "url": "https://www.stb-cpaturkey.com/kar-paylari-uzerindeki-stopaj-oranlari-%15e-cikarildi/"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, yurt içi asgari kurumlar vergisi rehberi 2026",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fonceki-dokumanlar%2F2026_YurtIci_Asgari_KurumlarVergisiRehberi.pdf"
+      },
+      {
+        "ad": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.3.6183.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, genç girişimcilere vergi teşviki broşürü",
+        "url": "https://www.gib.gov.tr/duyuru-arsivi/guncel/16742_genc_girisimcilere_vergi_tesviki_brosuru_yayimlandi"
+      }
+    ]
+  },
+  {
+    "slug": "sosyal-medya-kazanci-vergisi",
+    "alan": "ek-gelir",
+    "baslik": "Sosyal medya geliri vergisi: 2026'da ne zaman vergi ödersiniz?",
+    "ozet": "YouTube, Instagram ve TikTok gelirinde 5.300.000 liralık istisna nasıl çalışıyor, tek bir banka hesabı şartı ne demek, sınırı bir lira aşınca ne oluyor.",
+    "cevap": "Sosyal içerik üreticiliğinden elde edilen kazanç 2026'da 5.300.000 liraya kadar gelir vergisinden istisna. Ama istisna otomatik değil: vergi dairesinden belge alıp Türkiye'deki bir bankada bu iş için ayrı hesap açmanız ve tüm hasılatı münhasıran o hesaptan tahsil etmeniz gerekiyor. Banka her tahsilatta 15 stopaj kesiyor. Sınır bir lira bile aşılırsa o yılın tamamı genel hükümlere göre vergilendiriliyor.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Bu istisna \"5.300.000 liraya kadar vergisiz kazanç\" değil, \"şartları tutarsa beyanname vermeden 15 stopajla kapanan kazanç\" demektir. Şartlardan biri eksikse istisna hiç uygulanmaz. En sık yapılan hata, gelirin bir kısmını başka hesaba ya da nakit almak."
+      },
+      {
+        "tur": "baslik",
+        "metin": "İstisna kimi kapsıyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gelir Vergisi Kanunu'nun mükerrer 20/B maddesi, internet ve benzeri elektronik ortamlar üzerinden paylaşımda bulunan sosyal içerik üreticilerinin bu faaliyetten doğan kazançlarını istisna kapsamına alıyor (1). Kapsama reklam gelirleri, sponsorluk, bağış, hediye, bahşiş ve ücretli abonelik gelirleri giriyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Aynı madde akıllı telefon uygulaması geliştirenleri de kapsıyor: elektronik uygulama paylaşım ve satış platformları üzerinden elde edilen kazançlar da istisnaya dahil."
+      },
+      {
+        "tur": "baslik",
+        "metin": "2026 sınırı: 5.300.000 lira"
+      },
+      {
+        "tur": "metin",
+        "metin": "İstisnanın üst sınırı, gelir vergisi tarifesinin dördüncü diliminde yer alan tutara bağlı ve bu tutar 2026 için 5.300.000 lira (2, 3). Sınır kazanca değil, yıllık brüt hasılata bakılarak uygulanır."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Sınır aşılırsa kısmi istisna yok. Hasılatınız 5.300.001 lira olursa 5.300.000 lirası değil, tamamı genel hükümlere göre vergilendiriliyor ve izleyen yılın mart ayında yıllık beyanname veriyorsunuz. Yıl içinde kesilen 15 stopajı beyannamede mahsup edebiliyorsunuz."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Şartlar: hepsi aynı anda sağlanmalı"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Bağlı bulunduğunuz vergi dairesine başvurup istisna kapsamında olduğunuza dair belge almak.",
+          "Türkiye'de kurulu bir bankada, yalnızca bu faaliyete özgü bir hesap açmak.",
+          "Faaliyetten doğan tüm hasılatı münhasıran bu hesap aracılığıyla tahsil etmek.",
+          "Yıllık hasılatın tarifenin dördüncü dilim tutarını aşmaması.",
+          "Faaliyetin ticari organizasyon boyutuna ulaşmamış olması."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Banka, hesaba aktarılan tutarlar üzerinden aktarım tarihi itibarıyla 15 oranında gelir vergisi tevkifatı yapıp vergi dairesine yatırıyor. Sizin ayrıca bir işlem yapmanız gerekmiyor; istisna şartları sağlandığı sürece bu kesinti nihai vergi oluyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "İstisnanın kapsamadıkları"
+      },
+      {
+        "tur": "metin",
+        "metin": "İstisna yalnızca sosyal içerik üreticiliği ve mobil uygulama geliştiriciliği faaliyetine ait. Aynı kişi başka bir ticari faaliyet yürütüyorsa, o faaliyetin kazancı ayrı değerlendirilir ve genel hükümlere tabi olur."
+      },
+      {
+        "tur": "metin",
+        "metin": "Sık sorulan bir konu: istisna gelir vergisine ait, katma değer vergisiyle doğrudan ilgisi yok. Mükerrer 20/B kapsamındaki faaliyet için KDV hesaplanmaması ayrı bir düzenlemeye dayanıyor ve kazanç sınırının aşılması bu durumu kendiliğinden değiştirmiyor (4). Sınırı aşacak ölçeğe geldiyseniz mali müşavirinize danışın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Vergi incelemelerinde en çok ne eleştiriliyor?"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Gelirin bir bölümünün istisna hesabı dışındaki hesaplara ya da nakit alınması.",
+          "Yurt dışı platform ödemelerinin aracı ödeme kuruluşları üzerinden alınıp bankaya hiç uğramaması.",
+          "Belgeyi almadan faaliyete başlanması; belge tarihinden önceki hasılat için istisna tartışmalı hale geliyor.",
+          "Ürün satışı, danışmanlık gibi içerik üreticiliği sayılmayan gelirlerin de aynı hesaba alınması.",
+          "Ekip çalıştırma, ofis tutma gibi ticari organizasyon işaretlerinin oluşması."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu beş başlık, uygulamada en sık eleştiri konusu yapılan noktalar olarak derleniyor (5). Hepsinin ortak noktası aynı: istisna, hasılatın izlenebilir tek bir kanaldan akmasına dayanıyor."
+      }
+    ],
+    "sss": [
+      {
+        "s": "İstisnadan yararlanmak için şirket kurmam gerekir mi?",
+        "c": "Hayır. İstisna gerçek kişilere tanınıyor ve şirket kurma zorunluluğu yok. Vergi dairesinden istisna belgesi alıp bankada ayrı hesap açmanız yeterli."
+      },
+      {
+        "s": "Banka kaç oranında kesinti yapıyor?",
+        "c": "Hesaba aktarılan tutar üzerinden yüzde 15 gelir vergisi tevkifatı yapılıyor ve banka bunu vergi dairesine yatırıyor."
+      },
+      {
+        "s": "Sınırı aşarsam yalnızca aşan kısım mı vergilendirilir?",
+        "c": "Hayır. Sınır bir lira bile aşılırsa istisna tümüyle uygulanamaz ve o yılın kazancının tamamı genel hükümlere göre vergilendirilir. Yıl içinde kesilen stopajı beyannamede mahsup edebilirsiniz."
+      },
+      {
+        "s": "Gelirimi PayPal ya da benzeri bir aracıdan alsam olur mu?",
+        "c": "Şart, hasılatın Türkiye'de kurulu bir bankadaki özel hesap aracılığıyla tahsil edilmesi. Ödemenin aracı kuruluşta kalması ve bankaya girmemesi istisnayı riske atar."
+      },
+      {
+        "s": "Bağış ve bahşişler de istisnaya giriyor mu?",
+        "c": "Evet. Reklam, sponsorluk, bağış, hediye, bahşiş ve ücretli abonelik gelirleri madde kapsamında sayılıyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "193 sayılı Gelir Vergisi Kanunu, güncel metin (mükerrer madde 20/B)",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.4.193.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, 2026 gelir vergisi tarifesi",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fyardim-kaynaklar%2Fyararli-bilgiler%2Fgelir-vergisi-tarifeleri%2Fgelir-vergisi-tarifesi-2026.pdf"
+      },
+      {
+        "ad": "Sosyal içerik üreticisi istisnası: 2026'da 5.300.000 TL eşiği ve banka stopajı",
+        "url": "https://gokaygul.com/tr/blog/sosyal-icerik-ureticisi-vergi-istisnasi-2026/"
+      },
+      {
+        "ad": "TÜRMOB, katma değer vergisi oranları",
+        "url": "https://www.turmob.org.tr/ekutuphane/Read/80868166-ffee-4934-8469-2e287fa42470"
+      },
+      {
+        "ad": "Sosyal medya içerik üreticilerinde vergi incelemelerinde sık eleştiri konuları",
+        "url": "https://www.muhasebetr.com/yazarlarimiz/anilbilen/003/"
+      },
+      {
+        "ad": "GVK mükerrer madde 20/B, sosyal içerik kazanç istisnası değerlendirmesi",
+        "url": "https://fatiharas.com/gvk-madde-mukerrer-20-b-sosyal-icerik-ureticiligi-istisnasi"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, Dijital Vergi Dairesi",
+        "url": "https://dijital.gib.gov.tr/"
+      }
+    ]
+  },
+  {
+    "slug": "staj-ucreti-ve-ogrenci-haklari",
+    "alan": "universite-ogrencisi",
+    "baslik": "Staj ücreti 2026: ne kadar, kim öder, sigortası ne olur?",
+    "ozet": "Zorunlu stajda asgari ücretin yüzde kaçı ödeniyor, işyerinin çalışan sayısı neyi değiştiriyor, devlet katkısı kimi kapsıyor ve stajyerin hangi hakları var.",
+    "cevap": "2026'da zorunlu stajda taban ücret, işyerinde yirmi ve üzeri çalışan varsa net asgari ücretin yüzde 30'u, yani 8.422,65 lira; yirmiden az çalışan varsa yüzde 15'i, yani 4.211,33 lira. Yirmi ve üzeri çalışanı olan işletmelerde ödenecek asgari tutarın üçte birini devlet karşılıyor. Zorunlu stajda sigorta primini okul öder ve ücretten yasal kesinti yapılmaz.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Staj ücreti asgari ücretin brütünden değil, netinden hesaplanır. 2026'da net asgari ücret 28.075,50 lira (1). Brütten hesaplayan tablolar yanlış sonuç verir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "2026 staj ücretleri"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Durum",
+          "Oran",
+          "2026 aylık taban"
+        ],
+        "satirlar": [
+          [
+            "Yirmi ve üzeri çalışanı olan işyeri",
+            "net asgari ücretin 30'u",
+            "8.422,65 TL"
+          ],
+          [
+            "Yirmiden az çalışanı olan işyeri",
+            "net asgari ücretin 15'i",
+            "4.211,33 TL"
+          ],
+          [
+            "Net asgari ücret (referans)",
+            "—",
+            "28.075,50 TL"
+          ]
+        ],
+        "not": "Oranlar 3308 sayılı Mesleki Eğitim Kanunu'na dayanır (2). Tutarlar 2026 net asgari ücretinden hesaplanmıştır (1, 3). Bunlar tabandır; işveren daha fazlasını ödeyebilir."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu tutarlar asgari sınır. Özellikle mühendislik ve yazılım stajlarında piyasa çok daha yükseğe çıkabiliyor; taban ücret yasal zorunluluk, tavan diye bir şey yok."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Devlet katkısı: işverenin gerçek maliyeti"
+      },
+      {
+        "tur": "metin",
+        "metin": "Yirmi ve üzeri çalışanı olan işletmelerde, stajyere ödenecek asgari tutarın üçte biri devlet tarafından karşılanıyor (3). Yani işletme 8.422,65 liranın tamamını cebinden çıkarmıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu, staj yeri ararken işe yarayan bir bilgi: küçük bir işletme \"bütçemiz yok\" dediğinde, ödeyeceği taban tutarın yasal olarak daha düşük olduğunu (yüzde 15) ve destek mekanizmasının varlığını hatırlatabilirsiniz."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sigorta kim öder?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Zorunlu stajda öğrencinin iş kazası ve meslek hastalığı sigortası ile genel sağlık sigortası primleri okul tarafından ödenir; öğrenciye ödenen ücretten yasal kesinti yapılmaz. Gönüllü stajda ise durum farklıdır ve kesintiler söz konusu olabilir."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Staj sigortası, uzun vadeli sigorta kolları (emeklilik) kapsamında değildir. \"Stajım emekliliğime sayılır\" beklentisi doğru değil; staj süresi malullük, yaşlılık ve ölüm sigortası primi bakımından hizmet olarak işlemez."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Stajyerin hakları"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Ücret hakkı: zorunlu stajda ücret ödenmesi yasal zorunluluktur, tarafların anlaşmasına bırakılmamıştır.",
+          "Staj sözleşmesi: okul, öğrenci ve işletme arasında yazılı sözleşme düzenlenir.",
+          "Çalışma süresi: stajyer, mesleki eğitimin gerektirdiği süre dışında ve işçi gibi çalıştırılamaz.",
+          "İş sağlığı ve güvenliği: işletme, stajyere de eğitim vermek ve koruyucu donanım sağlamakla yükümlüdür.",
+          "Devamsızlık ve izin: okulun uygulama yönergesinde belirtilen izin hakları geçerlidir."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Yükseköğretimde uygulamalı eğitimlerin çerçevesi ayrı bir yönetmelikle belirlenmiş durumda (4); üniversitenizin kendi uygulama esasları da bu çerçeveye dayanır. Stajınızda sorun çıkarsa önce bölüm staj komisyonuna başvurun."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Staj dışında öğrenciye açık gelir yolları"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kısmi zamanlı öğrenci çalıştırma programıyla üniversite içinde çalışmak, İŞKUR işbaşı eğitim programı ve gençlik programları öğrenciler için düzenli kanallar (5, 6). Bunların ayrıntısını ve tutarlarını üniversite öğrencisi çalışma rehberinde topladık."
+      }
+    ],
+    "sss": [
+      {
+        "s": "2026'da staj ücreti ne kadar?",
+        "c": "Yirmi ve üzeri çalışanı olan işyerlerinde en az 8.422,65 lira, yirmiden az çalışanı olanlarda en az 4.211,33 lira. Bunlar net asgari ücretin sırasıyla yüzde 30'u ve yüzde 15'idir."
+      },
+      {
+        "s": "Staj ücretinden vergi ve SGK kesilir mi?",
+        "c": "Zorunlu stajda ödenen ücretten yasal kesinti yapılmaz. Sigorta primini okul öder."
+      },
+      {
+        "s": "İşletme staj ücreti ödemezse ne yapabilirim?",
+        "c": "Zorunlu stajda ücret yasal zorunluluktur. Önce okulunuzun staj komisyonuna ve koordinatör öğretmene bildirin; çözülmezse Çalışma ve Sosyal Güvenlik Bakanlığı'na şikâyet yolu açıktır."
+      },
+      {
+        "s": "Staj süresi emekliliğime sayılır mı?",
+        "c": "Hayır. Staj sigortası iş kazası, meslek hastalığı ve genel sağlık sigortasını kapsar; uzun vadeli sigorta kollarını kapsamaz."
+      },
+      {
+        "s": "Gönüllü stajda da ücret zorunlu mu?",
+        "c": "Gönüllü staj zorunlu staj hükümlerine tabi değildir; ücret tarafların anlaşmasına bağlıdır ve ödenen tutar yasal kesintilere tabi olabilir."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "2026 asgari ücret tespit komisyonu kararı",
+        "url": "https://www.alomaliye.com/2025/12/26/2026-yili-asgari-ucret-tespit-komisyonu-karari-2025-1/"
+      },
+      {
+        "ad": "3308 sayılı Mesleki Eğitim Kanunu",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3308.pdf"
+      },
+      {
+        "ad": "2026 yılı stajyer ücreti ve devlet katkısı uygulaması",
+        "url": "https://blog.ozkansoft.com/2026-yili-stajyer-ucreti-ve-devlet-katkisi-uygulamasi/"
+      },
+      {
+        "ad": "Yükseköğretimde Uygulamalı Eğitimler Çerçeve Yönetmeliği",
+        "url": "https://resmigazete.gov.tr/eskiler/2021/06/20210617-2.htm"
+      },
+      {
+        "ad": "YÖK, kısmi zamanlı öğrenci çalıştırma usul ve esasları",
+        "url": "https://strateji.yok.gov.tr/"
+      },
+      {
+        "ad": "İŞKUR işbaşı eğitim programı ödemeleri",
+        "url": "https://www.iskur.gov.tr/sikca-sorulan-sorular/aktif-isgucu-hizmetleri/isbasi-egitimi-programi-odemeleri/"
+      },
+      {
+        "ad": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5510.pdf"
+      },
+      {
+        "ad": "2026 stajyer maaşları ve hesaplaması",
+        "url": "https://www.cottgroup.com/tr/blog/calisma-hayati/item/stajyer-maasi-ne-kadar"
+      },
+      {
+        "ad": "4857 sayılı İş Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4857.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "ev-hanimi-istege-bagli-sigorta-emeklilik",
+    "alan": "ev-hanimi",
+    "baslik": "Ev hanımı emekliliği: isteğe bağlı sigorta 2026 primi ve şartları",
+    "ozet": "Hiç çalışmamış biri isteğe bağlı sigortayla emekli olabilir mi, 2026 primi ne kadar, kaç gün ve kaç yaş gerekiyor, doğum borçlanması ne kazandırıyor.",
+    "cevap": "İsteğe bağlı sigorta primi, beyan edilen kazancın yüzde 33'ü. 2026'da asgari matrahtan ödenirse aylık 10.899,90 lira. Ödeyen kişi 4/1-b (Bağ-Kur) sigortalısı sayılır. Emeklilik için kadınlarda genel olarak 58 yaş ve 7.200 prim günü aranıyor; hiç çalışmamış biri için bu, kesintisiz yaklaşık yirmi yıl prim demek. Doğum borçlanması bu süreyi belirgin şekilde kısaltabilir.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "İnternetteki birçok içerik isteğe bağlı sigortada \"primin üçte birini devlet karşılıyor\" diyor. Bu doğru değil; o destek başka bir uygulamaya ait. İsteğe bağlı sigortada primin tamamını sigortalı öder."
+      },
+      {
+        "tur": "baslik",
+        "metin": "İsteğe bağlı sigorta nedir?"
+      },
+      {
+        "tur": "metin",
+        "metin": "İsteğe bağlı sigorta, zorunlu sigortalılığı olmayan kişilerin kendi istekleriyle prim ödeyerek sosyal güvenlik kapsamına girmesini sağlayan uygulama. Yasal dayanağı 5510 sayılı Kanun (1). Prim ödeyen kişi 4/1-b, yani Bağ-Kur sigortalısı sayılıyor (2)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Başvuru için on sekiz yaşını doldurmuş olmak, zorunlu sigortalı olmamak ya da ayda otuz günden az çalışmak ve isteğe bağlı sigorta talep dilekçesiyle SGK'ya başvurmak gerekiyor. Başvuru e-Devlet üzerinden de yapılabiliyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "2026 primi ne kadar?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Matrah",
+          "Aylık prim (33)"
+        ],
+        "satirlar": [
+          [
+            "Asgari matrah: 33.030 TL",
+            "10.899,90 TL"
+          ],
+          [
+            "Azami matrah: 297.270 TL",
+            "98.099,10 TL"
+          ]
+        ],
+        "not": "Prim oranı, malullük-yaşlılık-ölüm sigortası için 21 ve genel sağlık sigortası için 12 olmak üzere toplam 33'tür; oran ve 2026 asgari prim tutarı SGK'nın kendi sayfasından alınmıştır (2). Matrah alt ve üst sınırları 2026 prime esas kazanç sınırlarıdır (3)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Matrahı alt ve üst sınır arasında kendiniz belirliyorsunuz. Yüksek matrah daha yüksek emekli aylığı demek, ama uzun yıllar sürdürülebilir olması gerekiyor; çoğu kişi asgari matrahtan ödüyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kaç gün, kaç yaş?"
+      },
+      {
+        "tur": "metin",
+        "metin": "İlk defa isteğe bağlı sigortalı olanlar 4/1-b kapsamında değerlendirilir (2). Bağımsız çalışanlarda yaşlılık aylığı için aranan genel şart, kadınlarda 58 yaş ve 7.200 prim günü (5)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "7.200 gün, yirmi yıl kesintisiz prim demek. Kırk yaşında başlayan biri altmış yaşında bu günü doldurur ama yaş şartını çoktan geçmiş olur; belirleyici olan hangi şartın daha geç sağlandığıdır. Kendi durumunuz için SGK'dan yazılı hizmet dökümü isteyin, tahminle ilerlemeyin."
+      },
+      {
+        "tur": "metin",
+        "metin": "Sigortalılık başlangıç tarihiniz varsa, yani geçmişte kısa süre de olsa çalıştıysanız, tabi olduğunuz şartlar değişebilir. Eski sigorta başlangıcı çoğu zaman lehinize sonuç verir; bu yüzden ilk iş, hizmet dökümünüzü çıkarmak."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Doğum borçlanması: en çok atlanan hak"
+      },
+      {
+        "tur": "metin",
+        "metin": "Doğum borçlanması, çocuk doğumu nedeniyle çalışılamayan sürelerin prim ödenerek hizmete saydırılmasını sağlıyor (6). Kadın sigortalılar en fazla üç doğum için ikişer yıl, yani toplam altı yıla kadar borçlanabiliyor. Bu, ev hanımları için prim gününü toplu şekilde artıran en etkili yol."
+      },
+      {
+        "tur": "metin",
+        "metin": "Borçlanmadan yararlanmak için doğumdan önce sigortalılığın başlamış olması aranıyor. Yani hiç sigortalı olmamış birinin doğrudan doğum borçlanması yapması mümkün değil; önce sigortalılık başlangıcının bulunması gerekiyor. Bu ayrım, uygulamada en çok karıştırılan noktalardan biri."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Prim ödemek her zaman mantıklı mı?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Değil. Aylık 10.899,90 lira, net asgari ücretin üçte birinden fazla. Yirmi yıl boyunca bu tutarı ödeyip ödeyemeyeceğinizi baştan hesaplayın; yarıda bırakılan sigortada ödenen primler emekli aylığına dönüşmeyebilir, yalnızca gün olarak durur."
+      },
+      {
+        "tur": "metin",
+        "metin": "Karar vermeden önce şu üçünü yapın: hizmet dökümünü çıkarın, doğum borçlanması hakkınız var mı bakın, SGK'ya emeklilik şartlarınızı yazılı sorun. Üçü de ücretsiz ve e-Devlet üzerinden başlatılabiliyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Gelir tarafını da düşünüyorsanız, evde üretim ve esnaf muaflığı gibi yasal yollar için ev hanımı için yasal gelir yolları rehberimize bakabilirsiniz."
+      }
+    ],
+    "sss": [
+      {
+        "s": "2026 isteğe bağlı sigorta primi ne kadar?",
+        "c": "Beyan edilen kazancın yüzde 33'ü. Asgari matrah olan 33.030 liradan ödenirse aylık 10.899,90 lira."
+      },
+      {
+        "s": "İsteğe bağlı sigorta hangi statüde sayılır?",
+        "c": "İlk defa isteğe bağlı sigortalı olanlar 4/1-b, yani Bağ-Kur kapsamında değerlendirilir."
+      },
+      {
+        "s": "Hiç çalışmamış bir ev hanımı emekli olabilir mi?",
+        "c": "Evet, isteğe bağlı sigortayla mümkün. Ancak kadınlarda genel olarak 58 yaş ve 7.200 prim günü arandığı için yaklaşık yirmi yıllık düzenli prim gerekiyor."
+      },
+      {
+        "s": "Doğum borçlanmasını hiç sigortam yokken yapabilir miyim?",
+        "c": "Hayır. Doğum borçlanması için doğumdan önce sigortalılığın başlamış olması gerekiyor."
+      },
+      {
+        "s": "Primin bir kısmını devlet karşılıyor mu?",
+        "c": "Hayır. İsteğe bağlı sigortada primin tamamı sigortalı tarafından ödenir."
+      },
+      {
+        "s": "Ödemeyi bırakırsam yatırdığım primler yanar mı?",
+        "c": "Yanmaz, ödenen günler hizmet olarak kayıtlı kalır. Ancak emeklilik için gereken gün ve yaş şartları sağlanmazsa aylık bağlanmaz."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5510.pdf"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, ilk defa isteğe bağlı sigortalı olanlar",
+        "url": "https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2026-01-12-09-48-59"
+      },
+      {
+        "ad": "SGK 2026 prim parametreleri, prime esas kazanç alt ve üst sınırı",
+        "url": "https://www.sgk.gov.tr/"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, ilk defa isteğe bağlı sigortalı olanlar",
+        "url": "https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2026-01-12-09-48-59"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, 4/b bağımsız çalışanlar ile köy ve mahalle muhtarları",
+        "url": "https://www.sgk.gov.tr/Content/Post/e528abf5-8e23-4ed5-b4ab-c016d7cd9ab2/4b-Kendi-Adina-ve-Hesabina-Bagimsiz-Calisanlar-ile-Koy-ve-Mahalle-Muhtarlari-2024-01-11-02-40-49"
+      },
+      {
+        "ad": "Sosyal Güvenlik Kurumu, doğum borçlanması",
+        "url": "https://www.sgk.gov.tr/Content/Post/4aa4cd49-4af5-43f2-8ecc-ec00326153ff/Dogum-Borclanmasi-2026-05-11-10-54-53"
+      },
+      {
+        "ad": "2026 asgari ücret tespit komisyonu kararı",
+        "url": "https://www.alomaliye.com/2025/12/26/2026-yili-asgari-ucret-tespit-komisyonu-karari-2025-1/"
+      },
+      {
+        "ad": "e-Devlet, SGK tescil ve hizmet dökümü hizmetleri",
+        "url": "https://www.turkiye.gov.tr/"
+      }
+    ]
+  },
+  {
+    "slug": "evde-uretim-esnaf-muafligi",
+    "alan": "evden-is",
+    "baslik": "Evde üretip satmak: esnaf muaflığıyla şirketsiz gelir",
+    "ozet": "Evde el emeğiyle ürettiğiniz ürünü şirket kurmadan satmanın yasal yolu. 2026 hasılat sınırları, muafiyet belgesi, banka hesabı şartı ve muafiyeti bozan hatalar.",
+    "cevap": "Evde kendi el emeğinizle ürettiğiniz ürünleri, iş yeri açmadan ve sanayi tipi makine kullanmadan satıyorsanız esnaf muaflığından yararlanabilirsiniz. Yalnızca internetten satıyorsanız 2026 hasılat sınırı 1.900.000 lira; hem yüz yüze hem internetten satıyorsanız sınır yıllık brüt asgari ücret tutarı olan 396.360 lira. Vergi dairesinden muafiyet belgesi alıp tüm tahsilatı bankadan yapmak zorunlu.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Esnaf muaflığı \"kayıt dışı satış serbest\" demek değil. Belge almadan, banka hesabı açmadan satış yapmak muafiyet değil, vergi kaçağıdır. Muafiyetin karşılığı, hasılatın izlenebilir olması."
+      },
+      {
+        "tur": "baslik",
+        "metin": "İki ayrı muafiyet var, karıştırmayın"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gelir Vergisi Kanunu'nun 9. maddesi evde üretim için iki ayrı bent içeriyor ve hasılat sınırları farklı (1). Aynı takvim yılında ikisinden birden yararlanılamıyor; hangi yolda olduğunuzu baştan seçmeniz gerekiyor."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Birinci yol: hem yüz yüze hem internetten satış (9/6)"
+      },
+      {
+        "tur": "metin",
+        "metin": "Evde ürettiğiniz ürünü pazarda, kermeste, komşuya ya da internetten satabiliyorsunuz. Sınır daha düşük: yıllık brüt asgari ücret tutarı, 2026 için 396.360 lira (2). Bu, aylık brüt asgari ücret 33.030 liranın on iki katıdır."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "İkinci yol: yalnızca internetten satış (9/10)"
+      },
+      {
+        "tur": "metin",
+        "metin": "Satışı münhasıran internet ve benzeri elektronik ortamlar üzerinden yapıyorsanız sınır 2026'da 1.900.000 liraya çıkıyor (3). Karşılığında yüz yüze satış hakkınızı kaybediyorsunuz; tek bir elden satış bile bu yolu bozar."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Şartlar"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Ürünlerin evde, kendi el emeğinizle üretilmiş olması.",
+          "İş yeri açılmamış olması. Dükkân, atölye, depo kiralarsanız muafiyet biter.",
+          "Sanayi tipi ya da seri üretim yapan makine kullanılmaması.",
+          "Başka bir ticari, zirai ya da mesleki faaliyetten dolayı gerçek usulde gelir vergisi mükellefi olmamak.",
+          "Faaliyetin bir gelir ya da kurumlar vergisi mükellefine bağımlı, onun emir ve talimatıyla yürütülmemesi.",
+          "Vergi dairesinden esnaf vergi muafiyeti belgesi alınması.",
+          "Türkiye'de kurulu bankada hesap açılıp tüm hasılatın münhasıran bu hesaptan tahsil edilmesi."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Son iki madde, muafiyetin belgeye bağlanan tarafı. Belgeyi aldıktan sonra defter tutma ve beyanname verme yükümlülüğünüz olmuyor; banka tahsilatlar üzerinden stopaj yapıyor ve iş orada kapanıyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Neler \"evde üretim\" sayılıyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gelir İdaresi'nin yayımladığı bilgilendirmelerde örnek olarak dikiş, nakış, örgü, dantel, her türlü el işi, turşu, reçel, salça, ev yemeği, sabun, mum, takı ve benzeri ürünler sayılıyor (2, 3). Ortak nokta: ürünün evde ve el emeğiyle ortaya çıkması."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Hazır ürün alıp satmak muafiyet kapsamında değil. Toptancıdan aldığınız ürünü paketleyip satıyorsanız bu üretim değil ticarettir; mükellefiyet açmanız gerekir. Muafiyeti en sık bozan durum budur."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Gıda üretiyorsanız ek bir adım var"
+      },
+      {
+        "tur": "metin",
+        "metin": "Vergi muafiyeti gıda mevzuatından muafiyet anlamına gelmiyor. Turşu, reçel, ev yemeği gibi gıda ürünlerinde Tarım ve Orman Bakanlığı'nın işletme kayıt belgesi düzenlemesi ayrıca geçerli (4, 5). Satış kanalınıza göre il tarım müdürlüğüne başvurmanız gerekebilir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sınırı aşarsanız ne olur?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Hasılat sınırı aşıldığında muafiyet o yıl için kalkıyor ve mükellefiyet tesis ettirmeniz gerekiyor. Bu kötü bir haber değil aslında; sınıra dayandıysanız iş büyümüş demektir. Bu noktada şahıs şirketi kurma maliyeti rehberimizdeki sabit gider tablosuna bakıp geçişi planlayın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Nereden başlanır?"
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "Hangi bentte olacağınızı seçin.",
+            "metin": "Yalnızca internetten mi satacaksınız, yoksa yüz yüze de mi? Sınırlar buna göre değişiyor."
+          },
+          {
+            "baslik": "Vergi dairesine başvurun.",
+            "metin": "Esnaf vergi muafiyeti belgesi için bağlı olduğunuz vergi dairesine başvurun. Belge ücretsiz."
+          },
+          {
+            "baslik": "Banka hesabı açın.",
+            "metin": "Türkiye'de kurulu bir bankada bu faaliyete özgü hesap açın ve tüm tahsilatı buradan yapın."
+          },
+          {
+            "baslik": "Gıda üretiyorsanız kayıt belgesi alın.",
+            "metin": "İl tarım müdürlüğüne başvurup işletme kayıt belgesi gerekip gerekmediğini sorun."
+          },
+          {
+            "baslik": "Hasılatı takip edin.",
+            "metin": "Yıllık toplamı kendiniz izleyin; sınırı aşarken haberdar olmalısınız."
+          }
+        ]
+      }
+    ],
+    "sss": [
+      {
+        "s": "Esnaf muaflığı için şirket kurmam gerekir mi?",
+        "c": "Hayır. Muafiyetin amacı zaten şirket kurmadan, defter tutmadan ve beyanname vermeden satış yapabilmenizi sağlamak. Vergi dairesinden muafiyet belgesi almanız yeterli."
+      },
+      {
+        "s": "2026 hasılat sınırı ne kadar?",
+        "c": "Yalnızca internetten satıyorsanız 1.900.000 lira. Hem yüz yüze hem internetten satıyorsanız yıllık brüt asgari ücret tutarı olan 396.360 lira."
+      },
+      {
+        "s": "Hazır aldığım ürünü satabilir miyim?",
+        "c": "Hayır. Muafiyet evde kendi el emeğinizle ürettiğiniz ürünleri kapsıyor. Hazır ürün alıp satmak ticari faaliyettir ve mükellefiyet gerektirir."
+      },
+      {
+        "s": "Trendyol veya Etsy'de satış yapabilir miyim?",
+        "c": "Evet, internetten satış kapsamına girer. Ancak tahsilatın Türkiye'deki muafiyet hesabınıza gelmesi ve yüz yüze satış yapmamanız gerekir."
+      },
+      {
+        "s": "Dikiş makinem varsa muafiyet bozulur mu?",
+        "c": "Ev tipi dikiş makinesi sorun değil. Muafiyeti bozan, sanayi tipi ya da seri üretime yönelik makine kullanmak."
+      },
+      {
+        "s": "İki muafiyetten aynı anda yararlanabilir miyim?",
+        "c": "Hayır. Aynı takvim yılında 9/6 ve 9/10 bentlerinden aynı anda faydalanılamıyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "193 sayılı Gelir Vergisi Kanunu, güncel metin (madde 9)",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.4.193.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, evlerde üretilen ürünlerin satışında esnaf muaflığı",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fyardim-kaynaklar%2Finfografikler%2Fpdfs%2Fesnaf_muafiyeti9_1_6.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, evlerde üretilen ürünlerin internetten satışında esnaf muaflığı",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fonceki-dokumanlar%2F2025_esnaf_muafligi.pdf"
+      },
+      {
+        "ad": "Tarım ve Orman Bakanlığı, gıda işletmelerinde kayıt ve onay",
+        "url": "https://www.tarimorman.gov.tr/Konular/Gida-Ve-Yem-Hizmetleri/Gida-Hizmetleri/Kayit-Onay"
+      },
+      {
+        "ad": "İstanbul İl Tarım Müdürlüğü, perakende işletmelerin kayıt işlemleri",
+        "url": "https://istanbul.tarimorman.gov.tr/Belgeler/SolMenu/Subeler/GidaYem/03-1_DepoPerakendeveTopluTuketim.pdf"
+      },
+      {
+        "ad": "2026 asgari ücret tespit komisyonu kararı",
+        "url": "https://www.alomaliye.com/2025/12/26/2026-yili-asgari-ucret-tespit-komisyonu-karari-2025-1/"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, Dijital Vergi Dairesi",
+        "url": "https://dijital.gib.gov.tr/"
+      },
+      {
+        "ad": "İSMMMO, e-ticarette gelir vergisi stopaj oranı",
+        "url": "https://ismmmo.org.tr/dosya/5181/Mevzuat-Dosya/23122024-eticaret-gv-stopaj-orani.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "e-ticaret-yasal-kurulum-etbis",
+    "alan": "mevzuat",
+    "baslik": "İnternetten satışın yasal kurulumu: ETBİS, belgeler ve cezalar",
+    "ozet": "E-ticarete başlarken hangi kayıtlar zorunlu, ETBİS'e kim kaydolmak zorunda, kayıt olmazsanız ceza ne kadar, sitede hangi bilgiler bulunmak zorunda.",
+    "cevap": "Kendi sitesi ya da pazaryeri üzerinden e-ticaret yapan hizmet sağlayıcıların, faaliyete başlamadan önce e-Devlet üzerinden ETBİS'e kaydolması zorunlu. Kayıt ücretsiz. Yükümlülüğü yerine getirmeyenler için idari para cezası 79.230 liradan başlıyor. Bunun yanında mesafeli satış sözleşmesi, ön bilgilendirme formu ve iletişim bilgilerinin sitede yer alması gerekiyor.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "ETBİS kaydı ile vergi mükellefiyeti farklı şeyler. ETBİS Ticaret Bakanlığı'na, mükellefiyet vergi dairesine yapılan bir işlem. İkisi birbirinin yerine geçmez; e-ticaret yapan çoğu kişinin ikisini de tamamlaması gerekir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "ETBİS nedir, kim kaydolmak zorunda?"
+      },
+      {
+        "tur": "metin",
+        "metin": "ETBİS, Ticaret Bakanlığı'nın e-ticaret faaliyetlerini izlemek için kurduğu Elektronik Ticaret Bilgi Sistemi (1). Kendi elektronik ticaret ortamında faaliyet gösteren hizmet sağlayıcılar ile pazaryeri işleten aracı hizmet sağlayıcılar kayıt kapsamında."
+      },
+      {
+        "tur": "metin",
+        "metin": "Kayıt, elektronik ticaret faaliyetine başlamadan önce e-Devlet üzerinden yapılıyor ve ücretsiz (2). Kayıt sonrası sitenize eklemeniz gereken doğrulama işareti veriliyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Yalnızca pazaryerinde satış yapıyorsanız durum farklı olabiliyor: pazaryerini işleten şirket zaten aracı hizmet sağlayıcı olarak kayıtlı olur. Kendi alan adınız üzerinden satış yapmıyorsanız yükümlülüğünüzü pazaryerinin satıcı paneline ve Ticaret Bakanlığı'nın duyurusuna bakarak teyit edin."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kayıt olmazsanız ceza"
+      },
+      {
+        "tur": "metin",
+        "metin": "ETBİS'e kayıt ve bildirim yükümlülüğünü yerine getirmeyenlere idari para cezası uygulanıyor; yaygın olarak aktarılan tutar 79.230 liradan başlayıp 396.150 liraya kadar çıkıyor (3). Ceza tutarları her yıl yeniden değerleme oranında güncelleniyor, güncel rakamı Ticaret Bakanlığı duyurularından teyit edin."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sitede bulunması zorunlu bilgiler"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Ticaret unvanı, MERSİS numarası ya da vergi kimlik numarası.",
+          "Açık adres, telefon ve elektronik posta gibi doğrudan iletişim bilgileri.",
+          "Mesafeli satış sözleşmesi ve ön bilgilendirme formu.",
+          "Cayma hakkı, süresi ve kullanım koşulları.",
+          "Teslimat, iade ve şikâyet süreçlerine dair bilgiler.",
+          "Kişisel verilerin işlenmesine ilişkin aydınlatma metni.",
+          "ETBİS doğrulama işareti."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu yükümlülüklerin dayanağı 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun (4, 5). Mesafeli sözleşmelerde cayma hakkı, tüketici lehine emredici bir düzenleme; sözleşmeye \"iade kabul edilmez\" yazmak bu hakkı ortadan kaldırmıyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Vergi tarafı: hangi yapıyla başlamalı?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Durum",
+          "Uygun yapı"
+        ],
+        "satirlar": [
+          [
+            "Evde kendi ürettiğiniz ürünü internetten satıyorsunuz",
+            "Esnaf muaflığı, 2026'da 1.900.000 TL'ye kadar"
+          ],
+          [
+            "Hazır ürün alıp satıyorsunuz, ciro düşük",
+            "Şahıs şirketi"
+          ],
+          [
+            "Ortak var, kârı şirkette bırakacaksınız",
+            "Limited şirket"
+          ],
+          [
+            "Yalnızca sosyal medya içeriğinden gelir alıyorsunuz",
+            "Sosyal içerik üreticiliği istisnası"
+          ]
+        ],
+        "not": "Her satırın ayrıntısı ilgili rehberlerimizde. Hazır ürün alıp satmak esnaf muaflığı kapsamında değildir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Başlangıç sırası"
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "Vergi yapısını seçin.",
+            "metin": "Esnaf muaflığı mı, şahıs şirketi mi, limited mi? Yukarıdaki tablo başlangıç noktası."
+          },
+          {
+            "baslik": "Mükellefiyeti açın.",
+            "metin": "Şirket kuruyorsanız işe başlama bildirimini yapın; muafiyet yolundaysanız belgeyi alın."
+          },
+          {
+            "baslik": "ETBİS kaydını yapın.",
+            "metin": "Faaliyete başlamadan önce e-Devlet üzerinden kaydolun, doğrulama işaretini siteye ekleyin."
+          },
+          {
+            "baslik": "Yasal metinleri hazırlayın.",
+            "metin": "Mesafeli satış sözleşmesi, ön bilgilendirme formu, iade ve gizlilik metinleri."
+          },
+          {
+            "baslik": "Ödeme ve fatura altyapısını kurun.",
+            "metin": "Tahsilatın kayıtlı kanaldan geçmesi ve fatura düzeninin oturması gerekiyor."
+          }
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Yurt dışından ürün getirip satmayı düşünüyorsanız, 2026'da gümrük tarafında ciddi bir değişiklik oldu; ayrıntısı yurt dışından ürün getirip satmak rehberimizde."
+      }
+    ],
+    "sss": [
+      {
+        "s": "ETBİS kaydı ücretli mi?",
+        "c": "Hayır, kayıt tamamen ücretsiz ve e-Devlet üzerinden yapılıyor."
+      },
+      {
+        "s": "Sadece Instagram'dan satış yapıyorum, ETBİS gerekir mi?",
+        "c": "Sosyal medya üzerinden düzenli ticari satış yapıyorsanız e-ticaret hizmet sağlayıcısı sayılabilirsiniz. Durumunuzu Ticaret Bakanlığı'nın ETBİS kayıt ve bildirim esasları duyurusundan teyit edin."
+      },
+      {
+        "s": "Kayıt olmazsam ceza ne kadar?",
+        "c": "Yaygın olarak aktarılan tutarlar 79.230 lira ile 396.150 lira arasında. Tutarlar her yıl yeniden değerleme oranıyla güncelleniyor."
+      },
+      {
+        "s": "Mesafeli satışta cayma süresi kaç gün?",
+        "c": "Tüketici, mesafeli sözleşmelerde on dört gün içinde gerekçe göstermeden cayma hakkını kullanabiliyor. Bazı ürün grupları için istisnalar var."
+      },
+      {
+        "s": "Önce şirket mi kurmalıyım yoksa ETBİS mi?",
+        "c": "Önce vergi mükellefiyeti ya da muafiyet belgesi, sonra ETBİS. ETBİS kaydında vergi kimlik bilgileriniz isteniyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Ticaret Bakanlığı, ETBİS'e kayıt ve bildirim esasları",
+        "url": "https://ticaret.gov.tr/duyurular/elektronik-ticaret-bilgi-sistemine-etbis-kayit-ve-bildirim-esaslari"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, elektronik ticaret bilgi platformu",
+        "url": "https://www.eticaret.gov.tr/cevrimiciegitim/etbis-kayit-26"
+      },
+      {
+        "ad": "E-ticaret siteleri için ETBİS kayıt zorunluluğu ve idari para cezaları",
+        "url": "https://www.karadagavukatlik.av.tr/e-ticaret-siteleri-icin-etbis-sistemine-kayit-zorunlulugu/"
+      },
+      {
+        "ad": "6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "ad": "6502 sayılı Tüketicinin Korunması Hakkında Kanun",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6502.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, evlerde üretilen ürünlerin internetten satışında esnaf muaflığı",
+        "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fonceki-dokumanlar%2F2025_esnaf_muafligi.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, Dijital Vergi Dairesi",
+        "url": "https://dijital.gib.gov.tr/"
+      },
+      {
+        "ad": "6698 sayılı Kişisel Verilerin Korunması Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6698.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "kamuda-isci-alimi-kura-usulu",
+    "alan": "kamuda-is",
+    "baslik": "KPSS'siz kamu işçi alımı: kura usulü nasıl işliyor?",
+    "ozet": "KPSS şartı olmayan kamu işçi alımları nerede yayımlanıyor, noter kurası nasıl yapılıyor, başvuru şartları neler ve \"KPSS'siz\" ne anlama geliyor.",
+    "cevap": "Kamu kurumlarının sürekli ve geçici işçi alımları KPSS'ye değil, İŞKUR üzerinden yapılan başvuruya ve çoğunlukla noter huzurunda çekilen kuraya dayanıyor. İlanlar İŞKUR'un açık iş ilanları sayfasında yayımlanıyor. KPSS'siz olması şartsız olduğu anlamına gelmiyor; öğrenim düzeyi, meslek belgesi, yaş ve deneyim şartları ilanda ayrıca aranıyor.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "\"KPSS'siz personel alımı\" başlığı, başvuru için hiçbir koşul aranmadığı anlamına gelmiyor. İlanların çoğunda öğrenim düzeyi, mesleki sertifika, yaş sınırı ya da deneyim şartı bulunuyor. Şartları tutmayan başvurular kura listesine bile alınmıyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Memur, sözleşmeli, işçi: hangisi hangi yolla?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Statü",
+          "Seçim yöntemi",
+          "İlan nerede"
+        ],
+        "satirlar": [
+          [
+            "Memur (657 sayılı Kanun)",
+            "KPSS puanı ve merkezi yerleştirme",
+            "ÖSYM tercih kılavuzu"
+          ],
+          [
+            "Sözleşmeli personel",
+            "Genellikle KPSS puanı, kurum sınavı olabilir",
+            "Kurum sitesi, Kariyer Kapısı"
+          ],
+          [
+            "Sürekli işçi",
+            "İŞKUR başvurusu ve noter kurası",
+            "İŞKUR açık iş ilanları"
+          ],
+          [
+            "Geçici işçi",
+            "İŞKUR başvurusu ve kura",
+            "İŞKUR açık iş ilanları"
+          ]
+        ],
+        "not": "Kamu kurum ve kuruluşlarına işçi alınmasında usul ve esaslar ayrı bir yönetmelikle düzenlenmiştir (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu ayrım önemli: kamuda iş aramaya başlarken hangi statüyü hedeflediğinizi bilmezseniz yanlış yerde ilan ararsınız. Memur kadrosu için KPSS ve ÖSYM tercih dönemi, işçi kadrosu için İŞKUR takibi gerekiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kura nasıl yapılıyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kamu kurumu ihtiyacını İŞKUR'a bildiriyor, İŞKUR ilanı yayımlıyor. Şartları taşıyan başvurular arasından, açık iş sayısının belirli bir katı kadar aday noter huzurunda çekilen kurayla belirleniyor (2). Kurayla belirlenen adaylar sözlü sınava ya da uygulamalı sınava çağrılıyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Son dönemde yapılan büyük ölçekli sürekli işçi alımlarında adaylar noter kurasıyla belirlendi (3). Kura çekimleri genellikle kurumun internet sitesinden canlı yayımlanıyor ve sonuç listeleri aynı yerde açıklanıyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Kura, torpil iddialarının en çok dolaştığı aşama. Kura noter huzurunda yapılıyor ve tutanağa bağlanıyor. Size \"kurayı garantiliyorum\" diyen kişi ya da kurum varsa bu doğrudan dolandırıcılıktır; İŞKUR üzerinden yapılan başvurularda iş arayandan ücret alınamaz (4)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Başvuru şartlarında dikkat edilecekler"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "İkametgâh şartı: birçok ilanda başvuru, ilanın verildiği il ya da ilçede ikamet edenlerle sınırlanıyor.",
+          "Öğrenim düzeyi: ilkokul, ortaokul, lise ya da ön lisans olarak net belirtiliyor; üstü de altı da elenme sebebi olabiliyor.",
+          "Mesleki belge: şoför kadrolarında ehliyet ve SRC, teknik kadrolarda ustalık belgesi gibi şartlar aranıyor.",
+          "Yaş sınırı: ilanda alt ve üst yaş sınırı bulunabiliyor.",
+          "Askerlik durumu: erkek adaylarda askerlikle ilişiği bulunmama şartı yaygın.",
+          "Tek ilana başvuru: birçok alımda aynı anda yalnızca bir ilana başvurulabiliyor."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Son madde en çok hataya yol açan kural. Birden fazla ilana başvurmak, başvurularınızın tamamının geçersiz sayılmasına yol açabiliyor; ilan metnini bu açıdan mutlaka okuyun."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Güvenlik soruşturması"
+      },
+      {
+        "tur": "metin",
+        "metin": "Kamuda göreve başlamadan önce arşiv araştırması yapılıyor; bazı kadrolarda güvenlik soruşturması da isteniyor. Uygulamanın çerçevesi 7315 sayılı Kanun'la belirlenmiş durumda (5)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Pratik takip yöntemi"
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "İŞKUR kaydınızı güncelleyin.",
+            "metin": "Başvuru İŞKUR kaydı üzerinden yapılıyor; öğrenim ve belge bilgileriniz güncel olmalı."
+          },
+          {
+            "baslik": "Açık iş ilanlarını filtreleyin.",
+            "metin": "İŞKUR açık iş ilanlarında ilinizi ve kamu işvereni seçeneğini kullanın."
+          },
+          {
+            "baslik": "İlan metnini baştan sona okuyun.",
+            "metin": "Özellikle ikametgâh, öğrenim ve tek başvuru kurallarına bakın."
+          },
+          {
+            "baslik": "Kura tarihini takip edin.",
+            "metin": "Kura ve sonuç ilanları kurumun kendi sitesinde yayımlanıyor."
+          },
+          {
+            "baslik": "Sözlü sınava hazırlanın.",
+            "metin": "Kurayı geçenler için belirleyici aşama sözlü ya da uygulamalı sınav."
+          }
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Memur kadrosunu hedefliyorsanız süreç tamamen farklı işliyor; KPSS ve kamuda işe girme rehberimizde puan, tercih ve yerleştirme aşamalarını ayrıca anlattık."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Kamu işçi alımında KPSS şartı var mı?",
+        "c": "Sürekli ve geçici işçi alımlarında KPSS şartı aranmıyor. Adaylar İŞKUR başvurusu ve noter kurası ile belirleniyor."
+      },
+      {
+        "s": "İlanlar nerede yayımlanıyor?",
+        "c": "İŞKUR'un açık iş ilanları sayfasında. Kura ve sonuç duyuruları ise alımı yapan kurumun kendi internet sitesinde yayımlanıyor."
+      },
+      {
+        "s": "Aynı anda birkaç ilana başvurabilir miyim?",
+        "c": "Çoğu alımda hayır. Birden fazla başvuru, tüm başvuruların geçersiz sayılmasına yol açabiliyor. İlan metnindeki kurala bakın."
+      },
+      {
+        "s": "Kura çekimine katılmam gerekiyor mu?",
+        "c": "Hayır. Kura noter huzurunda yapılıyor ve adayların hazır bulunması zorunlu değil; çekimler genellikle canlı yayımlanıyor."
+      },
+      {
+        "s": "Kurayı kazandım, işe alındım mı?",
+        "c": "Hayır. Kura yalnızca sözlü ya da uygulamalı sınava çağrılacakları belirliyor. Asıl seçim sınav aşamasında yapılıyor."
+      },
+      {
+        "s": "Başvuru için para isteniyor mu?",
+        "c": "Hayır. İŞKUR üzerinden yapılan işlemlerde iş arayandan ücret alınamaz. Ücret isteyen her yapı dolandırıcılıktır."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "Kamu kurum ve kuruluşlarına işçi alınmasında uygulanacak usul ve esaslar hakkında yönetmelik",
+        "url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.200915188.pdf"
+      },
+      {
+        "ad": "İŞKUR, kamu işçi alım ilanları sıkça sorulan sorular",
+        "url": "https://www.iskur.gov.tr/sikca-sorulan-sorular/kamu-isci-alim-ilanlari/"
+      },
+      {
+        "ad": "Kamu personel alımı ilanları ve kura ile belirlenen sürekli işçi alımı",
+        "url": "https://www.yenisafak.com/galeri/ozgun/kamu-personel-alimi-2026-kpssli-ve-kpss-sartsiz-memur-sozlesmeli-personel-ve-isci-ilanlari-4840043"
+      },
+      {
+        "ad": "İŞKUR, iş arayandan ücret alınamaz kuralı",
+        "url": "https://www.iskur.gov.tr/sikca-sorulan-sorular/ozel-istihdam-burolari/"
+      },
+      {
+        "ad": "7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
+        "url": "https://resmigazete.gov.tr/eskiler/2021/04/20210417-1.htm"
+      },
+      {
+        "ad": "657 sayılı Devlet Memurları Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.657.pdf"
+      },
+      {
+        "ad": "4904 sayılı Türkiye İş Kurumu Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4904.pdf"
+      },
+      {
+        "ad": "İŞKUR açık iş ilanları",
+        "url": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanArama.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "ikinci-is-yapmak-ve-cift-sigortalilik",
+    "alan": "part-time",
+    "baslik": "İkinci iş yapmak: yasal mı, sigorta nasıl işler, riski ne?",
+    "ozet": "Bir işte çalışırken ikinci bir işte çalışmak yasal mı, iki yerden sigortalı olunca ne oluyor, çalışma süresi sınırı ve işten çıkarılma riski.",
+    "cevap": "Türk hukukunda bir işçinin birden fazla işyerinde çalışmasını genel olarak yasaklayan bir hüküm yok; ikinci iş kural olarak yasal. Her işveren ayrı ayrı SGK bildirimi yapar ve kendi ödediği ücret üzerinden prim öder. Ancak yasal çalışma süresi aşılmamalı, iş sözleşmesindeki rekabet yasağı ve sadakat borcu ihlal edilmemelidir; aksi halde haklı nedenle fesih riski doğar.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "\"İkinci iş yasak\" da \"ikinci iş tamamen serbest\" de doğru değil. Yasak genel değil, sözleşmeye ve işin niteliğine bağlı. Sözleşmenizde ek iş yasağı ya da rekabet yasağı maddesi varsa durum tamamen değişir; önce kendi sözleşmenizi okuyun."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Yasal çerçeve"
+      },
+      {
+        "tur": "metin",
+        "metin": "İş Kanunu'nda işçinin birden fazla işverene bağlı çalışmasını yasaklayan genel bir hüküm bulunmuyor (1). Uygulamada belirleyici olan üç şey: çalışma sürelerinin aşılmaması, iş sözleşmesindeki kısıtlamalar ve sadakat borcu."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Çalışma süresi sınırı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Haftalık çalışma süresi kural olarak kırk beş saat ve günlük çalışma süresi on bir saati aşamaz (1, 2). İki işin toplamı bu sınırları aşacak şekilde kurgulanamaz. Ayrıca iki vardiya arasında kesintisiz on bir saatlik dinlenme süresi öngörülmüştür."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Sadakat borcu ve rekabet yasağı"
+      },
+      {
+        "tur": "metin",
+        "metin": "İşçi, işverenin haklı menfaatlerini korumakla yükümlü. İkinci iş, birinci işverenle rekabet eden bir işyerinde ise ya da birinci işteki verimi düşürüyorsa, işveren haklı nedenle fesih yoluna gidebiliyor. Rekabet yasağının sınırları Türk Borçlar Kanunu'nda düzenlenmiş durumda (3)."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sigorta nasıl işler?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Aynı anda birden fazla işyerinde 4/a kapsamında çalışmak mümkün. Her işveren ayrı ayrı işe giriş bildirgesi verir ve kendi ödediği ücret üzerinden prim bildirir (4)."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Konu",
+          "Nasıl işler"
+        ],
+        "satirlar": [
+          [
+            "Prim günü",
+            "Aynı ay içinde en fazla 30 gün sayılır; iki işten toplam 60 gün olmaz"
+          ],
+          [
+            "Prime esas kazanç",
+            "İki işten gelen kazanç toplanır"
+          ],
+          [
+            "Üst sınır",
+            "2026 prime esas kazanç tavanı 297.270 TL"
+          ],
+          [
+            "Emeklilik",
+            "Gün sayısı artmaz, ancak kazanç arttığı için aylık yükselebilir"
+          ],
+          [
+            "Fazla prim",
+            "Tavanı aşan kısım için ödenen prim iade talebine konu olabilir"
+          ]
+        ],
+        "not": "Prim gününün ayda otuzu geçmemesi, ikinci işin emekliliği hızlandırmadığı anlamına gelir. Tavan tutarı 2026 SGK prim parametrelerine göredir (5)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "En sık kurulan yanlış beklenti: \"İki yerden sigortalı olursam iki kat gün kazanırım, erken emekli olurum.\" Böyle olmuyor. Ayda en fazla otuz gün sayılıyor. Kazanan taraf gün değil, prime esas kazanç ve dolayısıyla ileride bağlanacak aylık."
+      },
+      {
+        "tur": "baslik",
+        "metin": "4/a ve 4/b birlikte olursa"
+      },
+      {
+        "tur": "metin",
+        "metin": "Bir yandan işçi olarak çalışıp diğer yandan şahıs şirketi ya da serbest meslek faaliyeti yürütüyorsanız, statülerin çakışması söz konusu olur. Kural olarak önce başlayan sigortalılık esas alınır ve 4/a ile 4/b birlikte yürüdüğünde 4/a öncelikli sayılır (6)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu, ek gelir için şirket kuran ücretlileri doğrudan ilgilendiriyor: işçi olarak sigortanız devam ederken ayrıca Bağ-Kur primi ödemeniz gerekmeyebilir. Kendi durumunuz için SGK'dan yazılı görüş isteyin; uygulama sigortalılık başlangıç tarihlerine göre değişiyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kamu görevlisiyseniz durum farklı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Devlet memurları için ticaret ve kazanç getirici faaliyet yasağı bulunuyor (7). Memurlar bakımından ikinci iş, özel sektör çalışanlarındaki gibi serbest değil; istisnalar dar ve nettir. Kamuda çalışıyorsanız ek gelir planınızı kendi mevzuatınıza göre kurgulayın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "İkinci işe başlamadan önce yapılacaklar"
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "Sözleşmenizi okuyun.",
+            "metin": "Ek iş yasağı, rekabet yasağı ve gizlilik maddelerine bakın."
+          },
+          {
+            "baslik": "Süreleri toplayın.",
+            "metin": "İki işin haftalık toplamı kırk beş saati, günlük toplamı on bir saati aşmamalı."
+          },
+          {
+            "baslik": "Rekabet var mı bakın.",
+            "metin": "İkinci iş, birinci işverenin faaliyet alanıyla örtüşüyorsa risk yüksek."
+          },
+          {
+            "baslik": "SGK durumunuzu netleştirin.",
+            "metin": "Özellikle 4/a ve 4/b çakışmasında yazılı görüş isteyin."
+          },
+          {
+            "baslik": "Gelir vergisi tarafını planlayın.",
+            "metin": "İki işten alınan ücret belirli tutarı aşarsa yıllık beyanname yükümlülüğü doğabilir."
+          }
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Yarım zamanlı çalışmanın ücret, izin ve kıdem tarafını part-time çalışma rehberimizde ayrıca ele aldık."
+      }
+    ],
+    "sss": [
+      {
+        "s": "Aynı anda iki işte çalışmak yasal mı?",
+        "c": "Kural olarak evet. İş Kanunu'nda genel bir yasak yok. Ancak çalışma süresi sınırları aşılmamalı ve iş sözleşmesindeki ek iş ya da rekabet yasağı ihlal edilmemeli."
+      },
+      {
+        "s": "İki yerden sigortalı olursam daha erken emekli olur muyum?",
+        "c": "Hayır. Aynı ay içinde en fazla otuz gün prim sayılıyor. İkinci iş gün kazandırmaz, prime esas kazancı artırarak ileride bağlanacak aylığı yükseltebilir."
+      },
+      {
+        "s": "İşverenim ikinci işimi öğrenirse çıkarabilir mi?",
+        "c": "İkinci iş rekabet oluşturuyorsa, sadakat borcunu ihlal ediyorsa ya da birinci işteki performansı düşürüyorsa haklı nedenle fesih gündeme gelebilir. Sözleşmede açık yasak varsa risk daha yüksektir."
+      },
+      {
+        "s": "Tavanı aşan primler ne oluyor?",
+        "c": "İki işten bildirilen kazanç toplamı prime esas kazanç tavanını aşarsa, fazla ödenen prim için iade talebinde bulunulabiliyor."
+      },
+      {
+        "s": "Memurum, ikinci iş yapabilir miyim?",
+        "c": "Devlet memurları için ticaret ve kazanç getirici faaliyet yasağı bulunuyor. İstisnalar dar olduğu için kendi kurumunuzun mevzuatına ve 657 sayılı Kanun'a bakmanız gerekir."
+      },
+      {
+        "s": "Yıllık izindeyken başka işte çalışabilir miyim?",
+        "c": "Yıllık izin dinlenme amacı taşır. İzin süresinde ücret karşılığı başka işte çalışmak, işverene izin ücretini geri isteme hakkı verebilir."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "4857 sayılı İş Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4857.pdf"
+      },
+      {
+        "ad": "İş Kanununa İlişkin Çalışma Süreleri Yönetmeliği",
+        "url": "https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=5447&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5"
+      },
+      {
+        "ad": "6098 sayılı Türk Borçlar Kanunu (rekabet yasağı)",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6098.pdf"
+      },
+      {
+        "ad": "PwC Türkiye, aynı anda birden fazla işyerinde çalışanların sosyal güvenliği",
+        "url": "https://www.pwc.com.tr/tr/medya/kose-yazilari/celal-ozcan/ayni-anda-birden-fazla-isyerinde-calisanlarin-sosyal-guvenligi.html"
+      },
+      {
+        "ad": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5510.pdf"
+      },
+      {
+        "ad": "Sigortalıların birden fazla işyerinde çalışması ve statü çakışması",
+        "url": "https://www.muhasebetr.com/yazarlarimiz/seyfettincicek/001/"
+      },
+      {
+        "ad": "657 sayılı Devlet Memurları Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.657.pdf"
+      },
+      {
+        "ad": "SGK 2026 prim parametreleri",
+        "url": "https://www.sgk.gov.tr/"
+      }
+    ]
+  },
+  {
+    "slug": "kosgeb-girisimci-destegi",
+    "alan": "is-kurma",
+    "baslik": "KOSGEB girişimci desteği 2026: kim, ne kadar, hangi şartla alır?",
+    "ozet": "KOSGEB girişimci destek programında geri ödemesiz kuruluş desteği ne kadar, kadın ve genç girişimciye ilave destek var mı, eğitim şartı nasıl tamamlanır.",
+    "cevap": "Kuruluş desteği geri ödemesiz: gerçek kişi işletmelerine 10.000 lira, sermaye şirketlerine 20.000 lira. Girişimci kadın, 35 yaş altı genç, engelli, gazi ya da şehit yakını ise 10.000 lira ilave ediliyor. Programa girebilmek için önce uygulamalı girişimcilik eğitimini tamamlamak ve işletmeyi eğitimden sonra kurmak gerekiyor.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "İnternette dolaşan \"KOSGEB 375.000 lira hibe veriyor\" ya da \"2 milyon TL destek\" başlıkları, geri ödemesiz hibeyle geri ödemeli krediyi aynı torbaya koyuyor. Kuruluş aşamasında elinize geçecek geri ödemesiz tutar çok daha küçük. Ayrımı aşağıda kalem kalem ayırdık."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Programın yapısı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Girişimci Destek Programı, yeni kurulan işletmeleri hedefleyen bir KOSGEB programı (1). Program iki ana bileşenden oluşuyor: kuruluş aşamasındaki geri ödemesiz destekler ve sonraki aşamada çağrıya çıkan iş geliştirme destekleri."
+      },
+      {
+        "tur": "uyari",
+        "metin": "İş geliştirme desteği geri ödemeli bir destektir, hibe değildir. Yüksek rakamlar genellikle bu bileşenden geliyor. Başvuru öncesinde hangi bileşene baktığınızı netleştirin."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Geri ödemesiz kuruluş desteği"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Durum",
+          "Geri ödemesiz tutar"
+        ],
+        "satirlar": [
+          [
+            "Gerçek kişi işletmesi (şahıs)",
+            "10.000 TL"
+          ],
+          [
+            "Sermaye şirketi (limited, anonim)",
+            "20.000 TL"
+          ],
+          [
+            "İlave: kadın girişimci",
+            "+10.000 TL"
+          ],
+          [
+            "İlave: 35 yaş altı genç girişimci",
+            "+10.000 TL"
+          ],
+          [
+            "İlave: engelli, gazi ya da şehit yakını",
+            "+10.000 TL"
+          ]
+        ],
+        "not": "Tutarlar KOSGEB girişimci destek programı kapsamındaki kuruluş desteğine aittir (2). İlave destek, sayılan durumlardan birinin varlığı halinde eklenir."
+      },
+      {
+        "tur": "metin",
+        "metin": "Yani şahıs şirketi kuran genç bir girişimci için kuruluş desteği 20.000 lira, sermaye şirketi kuran aynı kişi için 30.000 lira olarak hesaplanıyor. Bu tutarlar şirket kuruluş masrafını kısmen karşılıyor, tamamını değil."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Personel desteği"
+      },
+      {
+        "tur": "metin",
+        "metin": "İşletmede çalışan personelin tahakkuk eden prim gün sayıları toplamı 360 ve üzeri olan her dönem için, bir aylık brüt asgari ücretin işverene toplam maliyeti kadar geri ödemesiz destek sağlanıyor (2). Bu, istihdam yaratan işletmeler için programın en değerli kalemi."
+      },
+      {
+        "tur": "metin",
+        "metin": "360 prim günü, bir tam zamanlı çalışanın on iki ayı ya da iki çalışanın altışar ayı gibi düşünülebilir. Destek çalışana değil işletmeye ödeniyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Ön şart: uygulamalı girişimcilik eğitimi"
+      },
+      {
+        "tur": "metin",
+        "metin": "Programa başvurabilmek için KOSGEB'in uygulamalı girişimcilik eğitimini tamamlamış olmak gerekiyor. Eğitim KOSGEB'in öğrenme yönetim sistemi üzerinden çevrimiçi alınabiliyor ve ücretsiz (3)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Sıralama kritik: eğitimi işletmeyi kurmadan önce tamamlayın. İşletme kuruluş tarihi eğitim tarihinden önce olursa destek başvurusu reddedilebiliyor. Bu, en sık yapılan ve geri dönüşü olmayan hata."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Başvuru sırası"
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "Uygulamalı girişimcilik eğitimini tamamlayın.",
+            "metin": "KOSGEB öğrenme yönetim sistemi üzerinden çevrimiçi, ücretsiz."
+          },
+          {
+            "baslik": "İşletmenizi kurun.",
+            "metin": "Eğitim sertifikası tarihinden sonra kuruluş yapın."
+          },
+          {
+            "baslik": "KOSGEB veri tabanına kaydolun.",
+            "metin": "İşletme bilgilerinizi KOSGEB sistemine tanımlayın."
+          },
+          {
+            "baslik": "İş planınızı hazırlayın.",
+            "metin": "Program, işletmenin hedeflerini ve gider kalemlerini gösteren bir plan istiyor."
+          },
+          {
+            "baslik": "Müdürlüğe başvurun.",
+            "metin": "Bağlı bulunduğunuz KOSGEB il müdürlüğüne başvurunuzu yapın."
+          }
+        ]
+      },
+      {
+        "tur": "baslik",
+        "metin": "Gerçekçi beklenti"
+      },
+      {
+        "tur": "metin",
+        "metin": "KOSGEB desteği bir işi ayakta tutmaya yetmez; kuruluş masrafının bir kısmını karşılar ve istihdam yaratırsanız anlamlı hale gelir. Şahıs şirketinde aylık sabit gider Bağ-Kur ve mali müşavirle birlikte 14.000 ile 15.400 lira arasında; 20.000 liralık kuruluş desteği bunun kabaca bir buçuk ayına denk geliyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Destek başvurusunu işin merkezine koymayın. Önce müşteriyi ve nakit akışını kurun, desteği hızlandırıcı olarak kullanın. Kendi işini kurmak rehberimizde fikirden ilk müşteriye giden yolu ayrıca anlattık."
+      },
+      {
+        "tur": "metin",
+        "metin": "Genç girişimciyseniz vergi tarafındaki istisnayı da kaçırmayın: 2026'da 400.000 liraya kadar üç yıl geçerli kazanç istisnası bulunuyor (4) ve bu yalnızca gerçek kişilere, yani şahıs şirketine tanınıyor."
+      }
+    ],
+    "sss": [
+      {
+        "s": "KOSGEB kuruluş desteği ne kadar?",
+        "c": "Gerçek kişi işletmelerine 10.000 lira, sermaye şirketlerine 20.000 lira geri ödemesiz. Kadın, 35 yaş altı genç, engelli, gazi ya da şehit yakını girişimciye 10.000 lira ilave ediliyor."
+      },
+      {
+        "s": "Önce şirket kurup sonra eğitim alabilir miyim?",
+        "c": "Hayır. Uygulamalı girişimcilik eğitimini işletmeyi kurmadan önce tamamlamanız gerekiyor. Sıralamayı bozmak başvurunun reddine yol açabiliyor."
+      },
+      {
+        "s": "Eğitim ücretli mi?",
+        "c": "Hayır. Uygulamalı girişimcilik eğitimi KOSGEB'in öğrenme yönetim sistemi üzerinden çevrimiçi ve ücretsiz alınabiliyor."
+      },
+      {
+        "s": "375.000 lira hibe alabilir miyim?",
+        "c": "Bu tür yüksek tutarlar programın tüm bileşenlerinin üst sınırlarını toplayan hesaplar. Kuruluş aşamasında elinize geçen geri ödemesiz tutar çok daha küçük; iş geliştirme desteği ise geri ödemelidir."
+      },
+      {
+        "s": "Personel desteği nasıl hesaplanıyor?",
+        "c": "Personelin tahakkuk eden prim gün sayıları toplamının 360 ve üzeri olduğu her dönem için, bir aylık brüt asgari ücretin işverene toplam maliyeti kadar geri ödemesiz destek veriliyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "KOSGEB girişimci destek programı",
+        "url": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/1231/girisimci-destek-programi"
+      },
+      {
+        "ad": "KOSGEB girişimci destek programı 2026 dönem çağrısı",
+        "url": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9374/girisimci-destek-programi-is-gelistirme-cagrisi-2026-yili-2-donem-basvurulari-basladi"
+      },
+      {
+        "ad": "KOSGEB uygulamalı girişimcilik eğitimi",
+        "url": "https://lms.kosgeb.gov.tr/"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, genç girişimcilere vergi teşviki broşürü",
+        "url": "https://www.gib.gov.tr/duyuru-arsivi/guncel/16742_genc_girisimcilere_vergi_tesviki_brosuru_yayimlandi"
+      },
+      {
+        "ad": "2026 mali müşavir asgari ücret tarifesi",
+        "url": "https://asmmmo.org.tr/userfiles/others/files/Mvzt/Prtk/uc/AUT-2026.pdf"
+      },
+      {
+        "ad": "Alomaliye, Bağ-Kur beş puan prim indirimi 2026",
+        "url": "https://www.alomaliye.com/2026/08/18/4-b-bag-kur-5-puan-prim-indirimi-2026/"
+      },
+      {
+        "ad": "2026 asgari ücret tespit komisyonu kararı",
+        "url": "https://www.alomaliye.com/2025/12/26/2026-yili-asgari-ucret-tespit-komisyonu-karari-2025-1/"
+      }
+    ]
+  },
+  {
+    "slug": "freelance-calisma-ve-vergilendirme",
+    "alan": "ek-gelir",
+    "baslik": "Freelance çalışmak: fatura, stopaj ve vergi 2026",
+    "ozet": "Serbest çalışırken müşteriye nasıl belge kesilir, serbest meslek makbuzunda stopaj ve KDV nasıl işler, mükellefiyet açmadan freelance yapılabilir mi.",
+    "cevap": "Türkiye'de düzenli freelance gelir elde ediyorsanız belge düzenlemeniz, bunun için de mükellefiyet açmanız gerekiyor. Serbest meslek erbabı serbest meslek makbuzu, ticari kazanç sahibi fatura düzenler. Makbuzda kurumsal müşteri brüt tutar üzerinden gelir vergisi stopajı keser ve genel KDV oranı yüzde 20'dir. Arızi, yani süreklilik taşımayan tek seferlik işler bunun dışında değerlendirilir.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "\"Faturasız çalışırım, küçük tutar zaten\" yaklaşımı en riskli yol. Ödemeyi banka üzerinden alıyorsanız hareket kayıtlı demektir. Süreklilik varsa mükellefiyet gerekir; yoksa vergi ziyaı cezası ve gecikme faizi gündeme gelir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Önce ayrım: serbest meslek mi, ticari kazanç mı?"
+      },
+      {
+        "tur": "metin",
+        "metin": "Gelir Vergisi Kanunu, sermayeden çok kişisel çalışmaya, ilmi veya mesleki bilgiye dayanan ve bağımsız yürütülen faaliyeti serbest meslek olarak tanımlıyor (1). Yazılım geliştirme, tasarım, çeviri, danışmanlık, eğitmenlik gibi işler çoğunlukla bu tanıma giriyor."
+      },
+      {
+        "tur": "metin",
+        "metin": "Faaliyet bir organizasyona, stoka, alım satıma dayanıyorsa ticari kazanç söz konusu olur. İkisinin belgesi ve defteri farklıdır: serbest meslekte serbest meslek makbuzu ve serbest meslek kazanç defteri, ticari kazançta fatura ve işletme ya da bilanço defteri."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Serbest meslek makbuzunda ne oluyor?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "Nasıl uygulanır"
+        ],
+        "satirlar": [
+          [
+            "Brüt tutar",
+            "Anlaşılan hizmet bedeli"
+          ],
+          [
+            "Gelir vergisi stopajı",
+            "Kurumsal müşteri brüt üzerinden keser ve vergi dairesine yatırır"
+          ],
+          [
+            "KDV",
+            "Genel oran yüzde 20"
+          ],
+          [
+            "Damga vergisi",
+            "Serbest meslek makbuzu için ayrıca gündeme gelebilir"
+          ],
+          [
+            "Net tahsilat",
+            "Brüt eksi stopaj artı KDV"
+          ]
+        ],
+        "not": "Stopaj yükümlülüğü, ödemeyi yapan tarafın vergi mükellefi olmasına bağlıdır (2). Bireysel müşteriye kesilen makbuzda stopaj olmaz; verginin tamamı yıllık beyanla ödenir. Genel KDV oranı 2023'ten bu yana yüzde 20'dir (3)."
+      },
+      {
+        "tur": "uyari",
+        "metin": "İnternetteki birçok hesaplama aracı hâlâ KDV'yi yüzde 18 alıyor. Genel oran 2023 Temmuz'da yüzde 20'ye çıktı. Yanlış oranla kesilen belge sonradan düzeltme gerektirir."
+      },
+      {
+        "tur": "metin",
+        "metin": "Stopaj kaybolan para değil. Yıl sonunda verdiğiniz yıllık beyannamede hesaplanan gelir vergisinden mahsup ediliyor; fazla kesilmişse iade ya da mahsup yoluyla geri alınıyor. Bu yüzden makbuz nüshalarını saklayın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Yurt dışına hizmet veriyorsanız"
+      },
+      {
+        "tur": "metin",
+        "metin": "Yurt dışındaki müşteriye verilen ve yurt dışında faydalanılan hizmetlerde KDV istisnası gündeme gelebiliyor. Ayrıca yurt dışına verilen bazı hizmetlerde kazancın belirli bir oranının beyan edilen gelirden indirilmesine imkân tanıyan düzenleme bulunuyor (1)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu iki başlık teknik ve şartlara bağlı. Yurt dışı gelirinizin ölçeği anlamlıysa mali müşavirinize özel olarak sorun; genel geçer blog bilgisiyle ilerlemeyin."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Arızi kazanç: tek seferlik işler"
+      },
+      {
+        "tur": "metin",
+        "metin": "Süreklilik taşımayan, bir defaya mahsus yapılan işlerden elde edilen kazanç arızi kazanç olarak değerlendiriliyor ve belirli bir tutara kadar istisna uygulanıyor (1). Süreklilik ölçütü uygulamada işin tekrarına, müşteri sayısına ve reklam yapılıp yapılmadığına bakılarak değerlendiriliyor."
+      },
+      {
+        "tur": "uyari",
+        "metin": "Ayda birkaç iş yapıyorsanız bu artık arızi değil süreklidir. \"Yılda birkaç kez yapıyorum\" savunması, ilan verdiğiniz ya da profil üzerinden düzenli iş aldığınız durumlarda kabul görmez."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sigorta tarafı"
+      },
+      {
+        "tur": "metin",
+        "metin": "Serbest meslek faaliyeti nedeniyle mükellefiyet açtığınızda kural olarak 4/1-b, yani Bağ-Kur kapsamına giriyorsunuz. Ancak bir işyerinde ücretli olarak da çalışıyorsanız statü çakışması söz konusu olur ve genellikle 4/a öncelikli sayılır (4)."
+      },
+      {
+        "tur": "metin",
+        "metin": "Bu ayrım, tam zamanlı çalışıp yan işten gelir elde edenler için doğrudan para demek. Ayrıntısını ikinci iş yapmak ve çift sigortalılık rehberimizde ele aldık."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Başlangıç için pratik sıra"
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "Faaliyetinizi sınıflandırın.",
+            "metin": "Serbest meslek mi, ticari kazanç mı? Belge türü buna göre değişiyor."
+          },
+          {
+            "baslik": "Mükellefiyet açın.",
+            "metin": "İşe başlama bildirimi, işe başlama tarihinden itibaren on gün içinde yapılmalı."
+          },
+          {
+            "baslik": "Belge düzeninizi kurun.",
+            "metin": "e-Serbest meslek makbuzu ya da e-fatura uygulamasına geçiş şartlarınızı kontrol edin."
+          },
+          {
+            "baslik": "Tahsilatı bankadan yapın.",
+            "metin": "Kayıtlı tahsilat hem ispat hem denetim açısından güvenli."
+          },
+          {
+            "baslik": "Geçici vergi dönemlerini takvime alın.",
+            "metin": "Yıl içinde geçici vergi beyanı yükümlülüğünüz doğabilir."
+          }
+        ]
+      }
+    ],
+    "sss": [
+      {
+        "s": "Mükellefiyet açmadan freelance çalışabilir miyim?",
+        "c": "Süreklilik taşımayan tek seferlik işler arızi kazanç olarak değerlendirilebiliyor. Ancak düzenli iş alıyorsanız faaliyet süreklidir ve mükellefiyet açmanız gerekir."
+      },
+      {
+        "s": "Serbest meslek makbuzunda KDV oranı kaç?",
+        "c": "Genel oran yüzde 20. Yüzde 18 yazan hesaplama araçları güncel değil; genel oran 2023 Temmuz'da değişti."
+      },
+      {
+        "s": "Stopaj kesilirse ayrıca vergi öder miyim?",
+        "c": "Stopaj peşin ödenen vergidir. Yıllık beyannamede hesaplanan gelir vergisinden mahsup edilir; fazlası iade ya da mahsup yoluyla geri alınır."
+      },
+      {
+        "s": "Bireysel müşteriye makbuz keserken stopaj olur mu?",
+        "c": "Hayır. Stopaj yükümlülüğü ödemeyi yapanın vergi mükellefi olmasına bağlı. Bireysel müşteride verginin tamamı yıllık beyanla ödenir."
+      },
+      {
+        "s": "Ücretli çalışıyorum, freelance için ayrıca Bağ-Kur öder miyim?",
+        "c": "Statü çakışmasında genellikle 4/a öncelikli sayılır ve ayrıca Bağ-Kur primi doğmayabilir. Sigortalılık başlangıç tarihlerine göre değiştiği için SGK'dan yazılı görüş isteyin."
+      },
+      {
+        "s": "Yurt dışı müşteriden alınan gelirde KDV var mı?",
+        "c": "Yurt dışında faydalanılan hizmetlerde KDV istisnası gündeme gelebiliyor. Şartlara bağlı olduğu için mali müşavirinize özel olarak danışın."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "193 sayılı Gelir Vergisi Kanunu, güncel metin",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.4.193.pdf"
+      },
+      {
+        "ad": "İSMMMO, e-ticarette gelir vergisi stopaj oranı",
+        "url": "https://ismmmo.org.tr/dosya/5181/Mevzuat-Dosya/23122024-eticaret-gv-stopaj-orani.pdf"
+      },
+      {
+        "ad": "TÜRMOB, katma değer vergisi oranları",
+        "url": "https://www.turmob.org.tr/ekutuphane/Read/80868166-ffee-4934-8469-2e287fa42470"
+      },
+      {
+        "ad": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5510.pdf"
+      },
+      {
+        "ad": "3065 sayılı Katma Değer Vergisi Kanunu",
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.3065.pdf"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, işe başlama ve değişiklik bildirimi",
+        "url": "https://dijital.gib.gov.tr/"
+      },
+      {
+        "ad": "Freelance çalışanlar için vergi ve KDV rehberi 2026",
+        "url": "https://musavirlerkulubu.com.tr/makale/freelancer-ve-serbest-calisan-vergi-rehberi-2026-serbest-meslek-kdv-beyan"
+      },
+      {
+        "ad": "2026 mali müşavir asgari ücret tarifesi",
+        "url": "https://asmmmo.org.tr/userfiles/others/files/Mvzt/Prtk/uc/AUT-2026.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "is-fikri-nasil-test-edilir",
+    "alan": "is-fikirleri",
+    "baslik": "İş fikrini para harcamadan test etmenin yolları",
+    "ozet": "Bir iş fikrine yatırım yapmadan önce talebin gerçek olup olmadığını nasıl ölçersiniz? Ön satış, sahte kapı testi, elle yapılan hizmet ve doğru sorular.",
+    "cevap": "Bir iş fikrini test etmenin tek geçerli ölçütü, insanların ürün için para ya da somut bir taahhüt vermesi. Anket ve fikir sorma yanıltıcıdır çünkü kimse hayali bir ürüne hayır demez. Ürünü yapmadan önce ön satış yapmak, sahte kapı testi kurmak ve hizmeti önce elle vermek, en düşük maliyetli üç doğrulama yöntemidir.",
+    "guncelleme": "2026-09-07",
+    "bolumler": [
+      {
+        "tur": "uyari",
+        "metin": "Bu rehber mevzuat değil yöntem anlatıyor; içindeki hiçbir cümle vergi ya da hukuk tavsiyesi değildir. Kurulum tarafı için şahıs şirketi kurma maliyeti ve limited şirket rehberlerimize bakın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Neden anket işe yaramıyor?"
+      },
+      {
+        "tur": "metin",
+        "metin": "\"Böyle bir ürün olsa alır mıydınız?\" sorusu neredeyse her zaman evet cevabı alır. Karşınızdaki kişi sizi kırmak istemez ve hayali bir ürünün bedelini hayal etmesi kolaydır. Bu yüzden fikir doğrulaması, niyet beyanına değil davranışa bakmalıdır."
+      },
+      {
+        "tur": "metin",
+        "metin": "Doğru sorular geçmişe bakar: \"Bu sorunu en son ne zaman yaşadınız?\", \"O gün ne yaptınız?\", \"Şu an bunun için ne kadar harcıyorsunuz?\". Geçmiş davranış, gelecek niyetinden çok daha güvenilir bir sinyaldir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Üç düşük maliyetli test"
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Ön satış"
+      },
+      {
+        "tur": "metin",
+        "metin": "Ürünü üretmeden önce satmak. Bir sayfa hazırlayıp fiyatı yazın ve gerçek ödeme ya da kapora alın. Para vermek, ilgiyle gerçek talebi ayıran en keskin çizgidir. Ürünü çıkaramazsanız iade edersiniz; kaybınız yalnızca zaman olur."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Sahte kapı testi"
+      },
+      {
+        "tur": "metin",
+        "metin": "Var olmayan bir özelliğe ya da ürüne giden bir düğme koyup kaç kişinin tıkladığını ölçmek. Tıklayan kişiye dürüst bir mesaj gösterin: henüz hazır değil, haber vermemizi ister misiniz? Toplanan e-posta sayısı, gerçek talebin ölçüsü olur."
+      },
+      {
+        "tur": "altbaslik",
+        "metin": "Önce elle yapmak"
+      },
+      {
+        "tur": "metin",
+        "metin": "Otomasyon kurmadan hizmeti elle verin. Yazılım yazmadan önce süreci tabloyla, mesajla, telefonla yürütün. İlk on müşteriye elle hizmet vermek, yazacağınız yazılımın ne olması gerektiğini de öğretir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Ne ölçülür?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Sinyal",
+          "Gücü"
+        ],
+        "satirlar": [
+          [
+            "\"Güzel fikir\" demesi",
+            "Çok zayıf"
+          ],
+          [
+            "E-posta bırakması",
+            "Zayıf"
+          ],
+          [
+            "Görüşmeye zaman ayırması",
+            "Orta"
+          ],
+          [
+            "Ön ödeme ya da kapora vermesi",
+            "Güçlü"
+          ],
+          [
+            "Tekrar satın alması",
+            "En güçlü"
+          ],
+          [
+            "Başkasına önermesi",
+            "En güçlü"
+          ]
+        ],
+        "not": "Tabloda aşağı indikçe sinyalin maliyeti artıyor. Karşı taraf ne kadar çok şey riske atıyorsa, sinyal o kadar gerçektir."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Testin bütçesi ve süresi"
+      },
+      {
+        "tur": "metin",
+        "metin": "İyi bir doğrulama testi haftalarla ölçülür, aylarla değil. Kendinize baştan iki şey yazın: kaç gün süreceği ve hangi sayıyı görürseniz devam edeceğiniz. Bu iki cümleyi baştan yazmazsanız, sonucu kendi lehinize yorumlarsınız."
+      },
+      {
+        "tur": "metin",
+        "metin": "Örnek bir eşik: iki hafta içinde on kişiyle görüşme, üç ön ödeme. Sayıyı tutturamazsanız fikir kötü demek değil; kurgunuzun, hedef kitlenizin ya da fiyatınızın değişmesi gerekiyor demek."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Sık yapılan hatalar"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Yakın çevreye sormak. Aile ve arkadaşlar sizi kırmaz, bu yüzden veri sayılmazlar.",
+          "Ürünü mükemmelleştirmeden kimseye göstermemek.",
+          "Fiyatı test etmemek. Ücretsiz ilgi, ücretli talebi kanıtlamaz.",
+          "Tek bir kanaldan gelen ilgiyi genel talep sanmak.",
+          "Şirket kurup sabit gider yaratmadan önce hiç satış denememek.",
+          "Rakip yok sanmak. Rakip yoksa çoğu zaman pazar da yoktur."
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Son madde özellikle önemli. Var olan bir rakip, birinin bu işten para kazandığının kanıtıdır. Dünyada işleyen iş modelleri ve Türkiye karşılıkları rehberimizde bu bakışı örneklerle ele aldık."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Test geçtiyse sıradaki adım"
+      },
+      {
+        "tur": "metin",
+        "metin": "Talebi doğruladıysanız yapı kurma zamanı gelmiştir. Şahıs şirketi mi limited mi sorusuna, esnaf muaflığı yolunun size uyup uymadığına ve KOSGEB desteğine bakın; her biri için ayrı rehberimiz var."
+      }
+    ],
+    "sss": [
+      {
+        "s": "İş fikrimi test etmek için ne kadar para gerekir?",
+        "c": "Genellikle çok az. Ön satış, sahte kapı testi ve hizmeti elle vermek için ürün geliştirmeniz gerekmez; en büyük maliyet kalemi zamanınızdır."
+      },
+      {
+        "s": "Anket yapmak neden yeterli değil?",
+        "c": "İnsanlar hayali bir ürüne kolayca evet der çünkü bu cevabın hiçbir maliyeti yoktur. Gerçek sinyal, para ya da zaman gibi bir maliyeti karşı tarafın üstlenmesidir."
+      },
+      {
+        "s": "Fikrimi anlatırsam çalarlar mı?",
+        "c": "Uygulamada fikirden çok uygulama değerlidir. Kimseyle konuşmadan geliştirilen ürünlerin başarısızlık nedeni genellikle çalınmak değil, talebin hiç olmamasıdır."
+      },
+      {
+        "s": "Kaç kişiyle görüşmek yeterli?",
+        "c": "Kesin sayı yok, ancak on ile yirmi arası hedef müşteriyle yapılan derinlemesine görüşme çoğu fikirde tekrar eden kalıpları göstermeye yeter."
+      },
+      {
+        "s": "Test başarısız olursa fikri bırakmalı mıyım?",
+        "c": "Şart değil. Çoğu zaman sorun fikirde değil hedef kitlede, fiyatta ya da anlatımdadır. Önce tek bir değişkeni değiştirip tekrar deneyin."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "KOSGEB girişimci destek programı",
+        "url": "https://www.kosgeb.gov.tr/site/tr/genel/destekdetay/1231/girisimci-destek-programi"
+      },
+      {
+        "ad": "KOSGEB uygulamalı girişimcilik eğitimi",
+        "url": "https://lms.kosgeb.gov.tr/"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, genç girişimcilere vergi teşviki broşürü",
+        "url": "https://www.gib.gov.tr/duyuru-arsivi/guncel/16742_genc_girisimcilere_vergi_tesviki_brosuru_yayimlandi"
+      },
+      {
+        "ad": "TÜİK, girişim istatistikleri",
+        "url": "https://www.tuik.gov.tr/"
+      },
+      {
+        "ad": "Ticaret Bakanlığı, kurulan ve kapanan şirket istatistikleri",
+        "url": "https://ticaret.gov.tr/istatistikler/kurulan-kapanan-sirket-istatistikleri"
+      },
+      {
+        "ad": "Gelir İdaresi Başkanlığı, işe başlama ve değişiklik bildirimi",
+        "url": "https://dijital.gib.gov.tr/"
       }
     ]
   }
