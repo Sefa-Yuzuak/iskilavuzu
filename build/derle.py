@@ -136,6 +136,8 @@ def main() -> int:
 
     yaz(DIST / "index.html", env.get_template("home.html").render(**ortak))
     yaz(DIST / "404.html", env.get_template("404.html").render(**ortak))
+    yaz(DIST / "gizlilik" / "index.html",
+        env.get_template("gizlilik.html").render(**ortak))
 
     yaz(DIST / "rehberler" / "index.html",
         env.get_template("rehberler.html").render(**ortak))
@@ -151,7 +153,8 @@ def main() -> int:
 
     # site haritasi
     yollar = (["/"] + (["/rehberler/"] if rehberler else [])
-              + [a["yol"] for a in alanlar] + [r["yol"] for r in rehberler])
+              + [a["yol"] for a in alanlar] + [r["yol"] for r in rehberler]
+              + ["/gizlilik/"])
     tarihler = {r["yol"]: r.get("guncelleme") for r in rehberler}
     girdiler = "\n".join(
         f"  <url><loc>{kok}{y}</loc>"
@@ -165,6 +168,10 @@ def main() -> int:
     yaz(DIST / "robots.txt",
         ("User-agent: *\nDisallow: /\n" if site["noindex"] else "User-agent: *\nAllow: /\n")
         + f"Sitemap: {kok}/sitemap.xml\n")
+
+    # AdSense yetkili satici beyani: /ads.txt yoksa Google reklam talebini kisitlar.
+    if site.get("adsense"):
+        yaz(DIST / "ads.txt", f"google.com, {site['adsense'].removeprefix('ca-')}, DIRECT, f08c47fec0942fa0\n")
 
     # llms.txt: yapay zeka motorlarina sitenin haritasi
     satirlar = [f"# {site['ad']}", "", f"> {site['aciklama']}", ""]

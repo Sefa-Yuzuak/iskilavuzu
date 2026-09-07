@@ -27,6 +27,7 @@
 {% if site.gsc %}
 <meta name="google-site-verification" content="{{ site.gsc }}">
 {% endif %}
+{% if site.adsense %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense }}" crossorigin="anonymous"></script>{% endif %}
 {% block sema %}{% endblock %}
 {% if site.ga4 %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4 }}"></script>
@@ -69,6 +70,7 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}',{anonymize_ip:true});
       <p class="alt-ad">{{ site.ad }}</p>
       <p class="alt-metin">{{ site.aciklama }}</p>
       {% if site.eposta %}<p><a href="mailto:{{ site.eposta }}">{{ site.eposta }}</a></p>{% endif %}
+      <p class="alt-metin"><a href="/gizlilik/">Gizlilik ve çerezler</a></p>
     </div>
     <nav aria-label="Tüm konular">
       <p class="alt-baslik">Konular</p>
