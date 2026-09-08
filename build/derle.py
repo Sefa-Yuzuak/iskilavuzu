@@ -126,6 +126,28 @@ def main() -> int:
     )
     env.filters["tarih"] = tarih_yaz
 
+    # OLCULDU (08.09.2026 denetimi): 39 sayfanin 19'unda <title> 62 karakteri
+    # asiyordu. Sabit " — Is Kilavuzu" eki 14 karakter; SERP ~62'den sonrasini
+    # kirpiyor, yani markanin adi hic gorunmedigi gibi baslik da yarim kaliyordu.
+    # Rehber basligi KIRPILMAZ (editoryal metin); site adi ancak toplam sinira
+    # siginca ekleniyor.
+    def unvan(b: str) -> str:
+        b = " ".join((b or "").split())
+        ekli = f"{b} — {site['ad']}"
+        return ekli if len(ekli) <= 60 else b
+
+    # Ayni denetimde 4 rehberin meta aciklamasi 160 karakteri asiyordu (en uzunu
+    # 175) ve SERP'te cumlenin ortasinda kesiliyordu. Ozet metni sayfada tam
+    # duruyor; yalnizca <meta> ve og:description kirpiliyor.
+    def kisalt(metin, en: int = 158) -> str:
+        m = " ".join((metin or "").split())
+        if len(m) <= en:
+            return m
+        return m[:en].rsplit(" ", 1)[0].rstrip(" ,;:–—-") + "…"
+
+    env.filters["unvan"] = unvan
+    env.filters["kisalt"] = kisalt
+
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir(parents=True)

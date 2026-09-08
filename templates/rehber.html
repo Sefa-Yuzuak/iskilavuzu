@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
-{% block baslik %}{{ rehber.baslik }} — {{ site.ad }}{% endblock %}
-{% block aciklama %}{{ rehber.ozet }}{% endblock %}
+{% block baslik %}{{ rehber.baslik | unvan }}{% endblock %}
+{% block aciklama %}{{ rehber.ozet | kisalt }}{% endblock %}
 {% block yol %}{{ rehber.yol }}{% endblock %}
 {% block ogtur %}article{% endblock %}
 

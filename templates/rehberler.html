@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block baslik %}Tüm rehberler — {{ site.ad }}{% endblock %}
+{% block baslik %}{{ 'Tüm rehberler' | unvan }}{% endblock %}
 {% block aciklama %}{{ site.ad }} sitesindeki bütün rehberler. Her rehberdeki sayı kaynağıyla birlikte duruyor.{% endblock %}
 {% block yol %}/rehberler/{% endblock %}
 
