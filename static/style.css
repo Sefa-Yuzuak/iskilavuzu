@@ -167,7 +167,11 @@ img{max-width:100%; height:auto}
 .cevap-etiket{font-size:.7rem; font-weight:600; letter-spacing:.12em; text-transform:uppercase; color:var(--vurgu); margin:0 0 .4rem}
 .cevap p:last-child{margin:0}
 
-.yazi-govde{display:grid; gap:30px; grid-template-columns:1fr}
+/* minmax(0,1fr) şart: düz `1fr` ızgara öğesine min-width:auto bırakıyor, öğe de
+   içindeki tablonun min-width:400px'inin altına inemiyor. Sonuç: 360px ekranda
+   sayfa 422px'e genişliyor ve .tablo-kap'ın overflow-x'i hiç devreye girmiyordu. */
+.yazi-govde{display:grid; gap:30px; grid-template-columns:minmax(0,1fr)}
+.yazi-govde>*{min-width:0}
 @media (min-width:1000px){
   .yazi-govde{grid-template-columns:minmax(0,1fr) 230px; gap:52px}
   .icindekiler{order:2; position:sticky; top:78px; align-self:start}
@@ -196,6 +200,12 @@ img{max-width:100%; height:auto}
 
 .tablo-kap{margin:0 0 1.4rem; overflow-x:auto; border:1px solid var(--cizgi); border-radius:6px; background:var(--yuzey)}
 .tablo-kap table{border-collapse:collapse; width:100%; font-size:.9rem; min-width:400px}
+/* Dar ekranda min-width:400px tablonun beşte birini kaydırma alanına itiyordu ve
+   kaydırılabildiğine dair bir işaret yok. 2-3 sütunlu tablolar sığabiliyor. */
+@media (max-width:560px){
+  .tablo-kap table{min-width:0}
+  .tablo-kap th,.tablo-kap td{padding:9px 10px}
+}
 .tablo-kap th{
   text-align:left; font-size:.7rem; font-weight:600; letter-spacing:.09em; text-transform:uppercase;
   color:var(--soluk); background:var(--yuzey2); padding:11px 15px; border-bottom:1px solid var(--cizgi-koyu); white-space:nowrap;
