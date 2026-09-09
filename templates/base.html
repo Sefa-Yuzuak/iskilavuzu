@@ -5,11 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block baslik %}{{ site.ad }}{% endblock %}</title>
 <meta name="description" content="{% block aciklama %}{{ site.aciklama }}{% endblock %}">
-{% if site.noindex %}
-<meta name="robots" content="noindex, nofollow">
-{% else %}
-<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
-{% endif %}
+{% block robots %}{% if site.noindex %}<meta name="robots" content="noindex, nofollow">
+{% else %}<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+{% endif %}{% endblock %}
 <link rel="canonical" href="{{ kok }}{% block yol %}/{% endblock %}">
 <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#0E5A5E">

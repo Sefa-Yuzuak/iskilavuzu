@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 
+{# Hata sayfasi indekslenmemeli: "index, follow" + ana sayfayi gosteren
+   canonical, Google icin yumusak-404 sinyali. #}
+{% block robots %}<meta name="robots" content="noindex, follow">{% endblock %}
 {% block baslik %}Sayfa bulunamadı — {{ site.ad }}{% endblock %}
 
 {% block govde %}
