@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{# Baslik blogu gecersiz kilinmiyordu: sitenin en guclu URL sinin title i
+   yalnizca marka adiydi (11 karakter). #}
+{% block baslik %}İş Kurma, Ek Gelir ve Part-Time İş Rehberleri — {{ site.ad }}{% endblock %}
+
 {% block sema %}
 <script type="application/ld+json">
 {
@@ -50,7 +54,7 @@
 <section class="kap bolum">
   <div class="bolum-bas">
     <h2>Konular</h2>
-    <p>On başlık var. Her biri tek bir soruya cevap veriyor: bu yoldan gerçekten para kazanılıyor mu, kazanılıyorsa ne kadar sermaye, ne kadar zaman ve hangi izinler gerekiyor.</p>
+    <p>{{ alanlar | length }} başlık var. Her biri tek bir soruya cevap veriyor: bu yoldan gerçekten para kazanılıyor mu, kazanılıyorsa ne kadar sermaye, ne kadar zaman ve hangi izinler gerekiyor.</p>
   </div>
 
   <div class="izgara">

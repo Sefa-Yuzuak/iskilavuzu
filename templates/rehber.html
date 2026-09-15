@@ -143,7 +143,9 @@
         <p class="kaynak-not">Bu sayfadaki her sayı aşağıdaki kaynaklardan alınmıştır. Tutarlar ve oranlar değişebilir, karar vermeden önce kaynağı kontrol edin.</p>
         <ol class="kaynak">
           {% for k in rehber.kaynaklar %}
-          <li><a href="{{ k.url }}" rel="nofollow noopener" target="_blank">{{ k.ad }}</a></li>
+          {# Kaynak gostermek editoryal bir baglantidir; nofollow sitenin butun
+             guvenilirlik dayanagini motorlara kapatiyordu (335 baglanti). #}
+          <li><a href="{{ k.url }}" rel="noopener" target="_blank">{{ k.ad }}</a></li>
           {% endfor %}
         </ol>
         {% endif %}

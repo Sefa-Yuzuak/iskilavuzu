@@ -1,6 +1,8 @@
 {% extends "base.html" %}
 
-{% block baslik %}{{ alan.ad | unvan }}{% endblock %}
+{# Ciplak etiket arama niyetini karsilamiyordu; alanlar.json daki baslik_seo
+   varsa o kullanilir, yoksa konu adina dusulur. #}
+{% block baslik %}{{ (alan.baslik_seo or alan.ad) | unvan }}{% endblock %}
 {% block aciklama %}{{ alan.aciklama | kisalt }}{% endblock %}
 {% block yol %}{{ alan.yol }}{% endblock %}
 
