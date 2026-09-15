@@ -17,10 +17,13 @@
 <meta property="og:title" content="{{ self.baslik() }}">
 <meta property="og:description" content="{{ self.aciklama() }}">
 <meta property="og:url" content="{{ kok }}{{ self.yol() }}">
-<meta name="twitter:card" content="summary">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:image" content="{{ kok }}/static/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:image" content="{{ kok }}/static/og.png">
+<link rel="preload" href="/static/f/sourceserif4-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/static/f/archivo-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/static/style.css">
 {% if site.gsc %}
 <meta name="google-site-verification" content="{{ site.gsc }}">
