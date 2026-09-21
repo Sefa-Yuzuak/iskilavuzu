@@ -252,3 +252,11 @@ ol.kaynak li{margin-bottom:.5rem}
 .alt-liste li{margin-bottom:.45rem; break-inside:avoid}
 .alt-liste a{text-decoration:none; color:var(--govde)}
 .alt-liste a:hover{color:var(--vurgu); text-decoration:underline}
+
+/* Ana sayfadaki "Butun rehberler" dizini: her rehberi ana sayfadan tek adima
+   indirmek icin. minmax(0,1fr) sart, uzun baslik izgarayi tasirmasin. */
+.dizin-baslik{font-size:1rem; margin:18px 0 6px}
+.dizin{list-style:none; margin:0; padding:0; display:grid; gap:4px 16px;
+       grid-template-columns:repeat(auto-fill,minmax(min(100%,240px),1fr))}
+.dizin li{min-width:0}
+.dizin a{display:block; padding:4px 0; overflow-wrap:anywhere}

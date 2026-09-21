@@ -379,7 +379,7 @@
   {
     "slug": "yurtdisindan-urun-getirip-satmak",
     "alan": "ithalat",
-    "baslik": "Yurt dışından ürün getirip satmak: vergi, gümrük ve gerçek maliyet",
+    "baslik": "Yurt dışından ürün getirip satmak: vergi, gümrük, maliyet",
     "ozet": "Küçük ölçekli ithalatın adım adım kuralları. Muafiyet limitinin kalkması, tek ve maktu vergi oranları, GTİP, gümrük müşaviri ve Çin'den tedarik.",
     "cevap": "Yurt dışından gelen gönderilerde vergisiz eşik 6 Şubat 2026'da tamamen kaldırıldı. Artık ilk kuruştan itibaren vergi doğuyor: Avrupa Birliği ülkelerinden yüzde 30, diğer ülkelerden yüzde 60 tek ve maktu vergi. Ayda en fazla beş gönderi ve gönderi başına 30 kilogram sınırı var.",
     "guncelleme": "2026-09-03",
@@ -5103,7 +5103,7 @@
   {
     "slug": "limited-sirket-kurma-maliyeti",
     "alan": "is-kurma",
-    "baslik": "Limited şirket kurma: 2026 maliyeti, sermayesi ve şahıstan farkı",
+    "baslik": "Limited şirket kurma: 2026 maliyeti, sermayesi, şahıstan farkı",
     "ozet": "Limited şirket kurmak ne kadara mal oluyor, 50.000 lira sermayeyi peşin yatırmak gerekiyor mu, hangi ciroda şahıs şirketinden avantajlı hale geliyor. 2026 oranlarıyla.",
     "cevap": "Limited şirketin asgari sermayesi 50.000 lira ama bunu kuruluşta bankaya bloke etmek gerekmiyor; nakdi sermaye tescilden sonra 24 ay içinde ödenebiliyor. Kuruluş masrafı sermaye hariç kabaca 30.000 ile 42.500 lira arasında. Kazanç 25 kurumlar vergisine tabi ve kârı kendinize aktarırken ayrıca 15 stopaj çıkıyor; bu yüzden düşük ciroda şahıs şirketi neredeyse her zaman daha ucuz.",
     "guncelleme": "2026-09-07",
@@ -5601,7 +5601,7 @@
   {
     "slug": "ev-hanimi-istege-bagli-sigorta-emeklilik",
     "alan": "ev-hanimi",
-    "baslik": "Ev hanımı emekliliği: isteğe bağlı sigorta 2026 primi ve şartları",
+    "baslik": "Ev hanımı emekliliği: isteğe bağlı sigorta 2026 primi",
     "ozet": "Hiç çalışmamış biri isteğe bağlı sigortayla emekli olabilir mi, 2026 primi ne kadar, kaç gün ve kaç yaş gerekiyor, doğum borçlanması ne kazandırıyor.",
     "cevap": "İsteğe bağlı sigorta primi, beyan edilen kazancın yüzde 33'ü. 2026'da asgari matrahtan ödenirse aylık 10.899,90 lira. Ödeyen kişi 4/1-b (Bağ-Kur) sigortalısı sayılır. Emeklilik için kadınlarda genel olarak 58 yaş ve 7.200 prim günü aranıyor; hiç çalışmamış biri için bu, kesintisiz yaklaşık yirmi yıl prim demek. Doğum borçlanması bu süreyi belirgin şekilde kısaltabilir.",
     "guncelleme": "2026-09-07",
@@ -6491,7 +6491,7 @@
   {
     "slug": "kosgeb-girisimci-destegi",
     "alan": "is-kurma",
-    "baslik": "KOSGEB girişimci desteği 2026: kim, ne kadar, hangi şartla alır?",
+    "baslik": "KOSGEB girişimci desteği 2026: kim, ne kadar, hangi şartla?",
     "ozet": "KOSGEB girişimci destek programında geri ödemesiz kuruluş desteği ne kadar, kadın ve genç girişimciye ilave destek var mı, eğitim şartı nasıl tamamlanır.",
     "cevap": "Kuruluş desteği geri ödemesiz: gerçek kişi işletmelerine 10.000 lira, sermaye şirketlerine 20.000 lira. Girişimci kadın, 35 yaş altı genç, engelli, gazi ya da şehit yakını ise 10.000 lira ilave ediliyor. Programa girebilmek için önce uygulamalı girişimcilik eğitimini tamamlamak ve işletmeyi eğitimden sonra kurmak gerekiyor.",
     "guncelleme": "2026-09-07",

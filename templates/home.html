@@ -69,6 +69,26 @@
   </div>
 </section>
 
+{% if rehberler %}
+{# 21.09.2026'da sunucu kayitlarindan olculdu: Googlebot bu sitede yedi gunde
+   11 sayfa cekti, cogu ana sayfa. Ana sayfa ise 24 rehberin yalniz 6'sina
+   baglaniyordu; kalan 18'i konu merkezlerinin arkasindaydi. Tarama butcesi
+   gunde bir sayfayken iki adim geride kalan sayfa hic gorulmuyor. Bu dizin
+   her rehberi ana sayfadan tek adima indiriyor. #}
+<section class="kap bolum">
+  <div class="bolum-bas">
+    <h2>Bütün rehberler</h2>
+    <p>{{ rehberler | length }} rehberin tamamı, konusuna göre.</p>
+  </div>
+  {% for a in alanlar if a.rehberler %}
+  <h3 class="dizin-baslik">{{ a.ikon }} {{ a.ad }}</h3>
+  <ul class="dizin">
+    {% for r in a.rehberler %}<li><a href="{{ r.yol }}">{{ r.baslik }}</a></li>{% endfor %}
+  </ul>
+  {% endfor %}
+</section>
+{% endif %}
+
 <section class="kap bolum ilke">
   <div class="bolum-bas"><h2>Nasıl yazıyoruz</h2></div>
   <ul class="ilke-liste">

@@ -107,6 +107,15 @@ def main() -> int:
         a["yol"] = f"/{a['slug']}/"
         a["rehberler"] = [r for r in rehberler if r.get("alan") == a["slug"]]
 
+    # Ana sayfadaki "Butun rehberler" dizini alanlar uzerinden dolasiyor. Konusu
+    # taninmayan bir rehber o dizinden SESSIZCE duser ve ana sayfadan tek adimda
+    # ulasilmaz olur — duzeltilen ariza tam buydu. Derlemeyi durdur.
+    kapsanan = sum(len(a["rehberler"]) for a in alanlar)
+    if kapsanan != len(rehberler):
+        kayip = sorted({r["slug"] for r in rehberler}
+                       - {r["slug"] for a in alanlar for r in a["rehberler"]})
+        raise SystemExit(f"Konusu taninmayan rehber var, ana sayfa dizininden duserdi: {kayip}")
+
     # ilgili rehberler: once ayni alandan, sonra diger alanlardan
     for r in rehberler:
         ayni = [x for x in rehberler if x.get("alan") == r.get("alan") and x is not r]
