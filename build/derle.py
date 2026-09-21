@@ -169,6 +169,10 @@ def main() -> int:
     yaz(DIST / "404.html", env.get_template("404.html").render(**ortak))
     yaz(DIST / "gizlilik" / "index.html",
         env.get_template("gizlilik.html").render(**ortak))
+    # AdSense incelemesi yayincinin kim oldugunu ve nasil ulasilacagini
+    # goruyor olmak istiyor; site 21.09.2026'da bu sayfa olmadan basvurmustu.
+    yaz(DIST / "hakkinda" / "index.html",
+        env.get_template("hakkinda.html").render(**ortak))
 
     yaz(DIST / "rehberler" / "index.html",
         env.get_template("rehberler.html").render(**ortak))
@@ -185,7 +189,7 @@ def main() -> int:
     # site haritasi
     yollar = (["/"] + (["/rehberler/"] if rehberler else [])
               + [a["yol"] for a in alanlar] + [r["yol"] for r in rehberler]
-              + ["/gizlilik/"])
+              + ["/gizlilik/", "/hakkinda/"])
     tarihler = {r["yol"]: r.get("guncelleme") for r in rehberler}
     girdiler = "\n".join(
         f"  <url><loc>{kok}{y}</loc>"

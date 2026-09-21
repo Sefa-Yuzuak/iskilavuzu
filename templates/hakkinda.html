@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block baslik %}{{ 'Hakkında ve yöntem' | unvan }}{% endblock %}
+{% block aciklama %}{{ site.ad }} rehberleri nasıl hazırlanıyor, kaynaklar nereden geliyor, hangi iddia yazılmaz.{% endblock %}
+{% block yol %}/hakkinda/{% endblock %}
+{% block govde %}
+<article class="kap yazi" style="max-width:820px">
+<h1>Hakkında ve yöntem</h1>
+
+<p>{{ site.ad }}, Türkiye'de çalışma, ek gelir ve kendi işini kurma konularında
+bağımsız bir rehber sitesidir. Amacı tek: bir yoldan gerçekten para kazanılıp
+kazanılmadığını, kazanılıyorsa ne kadar sermaye, ne kadar zaman ve hangi
+izinlerin gerektiğini kaynağıyla birlikte göstermek.</p>
+
+<p>Şu an sitede <strong>{{ rehberler | length }} rehber</strong> ve
+<strong>{{ alanlar | length }} konu başlığı</strong> var.</p>
+
+<h2>Nasıl yazıyoruz</h2>
+<ul>
+<li><strong>Uydurma rakam yok.</strong> Bir maliyet, ücret veya oran yazıyorsak
+kaynağı sayfanın altında duruyor. Bilinmeyen bir sayıyı tahminle doldurmuyoruz.</li>
+<li><strong>Kuruma gidiyoruz.</strong> Sayısal her iddia, kurumun kendi
+sayfasından (SGK, GİB, KOSGEB, İŞKUR, ÇSGB gibi) doğrulanıyor; blog ve haber
+siteleri kaynak sayılmaz.</li>
+<li><strong>Tarih atıyoruz.</strong> Vergi tutarları ve sınav takvimleri
+değişiyor; her rehberde son güncelleme tarihi yazılı.</li>
+<li><strong>Ne kazandırmadığını da yazıyoruz.</strong> Bir yol çoğu insan için
+zarar ediyorsa bunu söylemek rehberin işi.</li>
+<li><strong>Her rehber yaygın bir yanlışı düzeltir.</strong> Sitenin ayrışma
+noktası bu.</li>
+</ul>
+
+<h2>Bu site ne değildir</h2>
+<p>Burada yazılanlar genel bilgilendirmedir; <strong>hukuki, mali veya yatırım
+tavsiyesi değildir</strong>. Kendi durumunuz için bağlayıcı bilgiyi ilgili
+kurumdan ya da bir mali müşavirden almanız gerekir. Site hiçbir kurumun,
+şirketin veya platformun temsilcisi değildir ve kimseden ücret karşılığı
+tanıtım yazmaz.</p>
+
+<h2>Düzeltme ve iletişim</h2>
+<p>Bir rehberde hatalı ya da eskimiş bir bilgi gördüyseniz bildirin; kaynağıyla
+birlikte kontrol edip düzeltiyoruz. Bildirimleriniz ve diğer talepleriniz için
+{% if site.eposta %}<a href="mailto:{{ site.eposta }}">{{ site.eposta }}</a>
+adresine yazabilirsiniz.{% else %}iletişim adresi yakında bu sayfada
+yayımlanacaktır.{% endif %}</p>
+
+<p class="soluk">Sitenin yayıncısı ve içerik sorumlusu:
+{{ site.yayinci or site.ad }}.</p>
+</article>
+{% endblock %}
