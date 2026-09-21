@@ -7044,5 +7044,188 @@
         "url": "https://dijital.gib.gov.tr/"
       }
     ]
+  },
+  {
+    "slug": "iskur-genclik-programi",
+    "alan": "universite-ogrencisi",
+    "baslik": "İŞKUR Gençlik Programı: kimler girebilir, günlük ne kadar?",
+    "ozet": "Devlet üniversitesi öğrencilerine haftada en fazla 3 gün çalışma ve günlük 1.375 TL cep harçlığı veren program. Şartların içinde çoğu haberde geçmeyen bir hane geliri sınırı var.",
+    "cevap": "İŞKUR Gençlik Programı, devlet üniversitesinde örgün eğitim gören öğrencilerin haftada en fazla 3 gün ve 20,5 saat çalışıp katıldıkları her gün için 1.375 TL cep harçlığı aldığı bir aktif işgücü programı. Şartların içinde en çok gözden kaçanı hane geliri sınırı: aynı adreste oturanların aylık toplam kazancı net asgari ücretin üç katını, yani 2026 için 84.226,50 lirayı aşarsa başvuru kabul edilmiyor. Açık öğretim ve uzaktan eğitim öğrencileri programa giremiyor.",
+    "guncelleme": "2026-09-21",
+    "bolumler": [
+      {
+        "tur": "metin",
+        "metin": "Program, üniversite öğrencisine hem gelir hem iş deneyimi sağlamak için kurulmuş. İŞKUR'un kendi tanımıyla amaç, \"üniversite öğrencilerinin istihdam edilebilirliğini artıracak bilgi, beceri, çalışma alışkanlığı ve disiplinini kazandırmak\". Katılımcıya ayrıca iş arama, finansal okuryazarlık ve mülakat konularında danışmanlık veriliyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kimler başvurabilir?"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Türkiye Cumhuriyeti vatandaşı olmak.",
+          "İŞKUR'a kayıtlı olmak.",
+          "18 yaşını tamamlamış olmak.",
+          "Devlet üniversitesinde örgün eğitime devam ediyor olmak.",
+          "Yaşlılık veya malullük aylığı almamak.",
+          "Son bir aylık sürede 5510 sayılı Kanun kapsamında sigortalı olmamak.",
+          "Program talep tarihinden önceki bir yıl içinde yüklenicinin ya da bağlı kuruluşlarının çalışanı olmamak.",
+          "Hane geliri şartını sağlamak (aşağıda ayrıntılı)."
+        ]
+      },
+      {
+        "tur": "baslik",
+        "metin": "En çok gözden kaçan şart: hane geliri"
+      },
+      {
+        "tur": "metin",
+        "metin": "İŞKUR'un şartı şöyle: başvuru tarihinde Adres Kayıt Sistemine göre aynı adreste ikamet edenlerin aylık toplam kazancı, net asgari ücretin üç katını aşmamalı. Burada kritik ayrıntı şu: hesaba giren şey kişi başına düşen gelir değil, hanenin TOPLAM geliri. Yani anne ve babanın ikisi de çalışıyorsa gelirleri toplanıyor."
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Hesap",
+          "2026 tutarı"
+        ],
+        "satirlar": [
+          [
+            "Net asgari ücret (aylık)",
+            "28.075,50 TL"
+          ],
+          [
+            "Üç katı — hane geliri üst sınırı",
+            "84.226,50 TL"
+          ]
+        ]
+      },
+      {
+        "tur": "uyari",
+        "metin": "Bu şart haberlerin çoğunda hiç yazılmıyor. \"Üniversite öğrencisiyim, başvururum\" diye yola çıkan pek çok kişi başvurusunun neden kabul edilmediğini burada öğreniyor. Başvurmadan önce hanedeki tüm gelirleri toplayın."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Ne kadar ödeniyor?"
+      },
+      {
+        "tur": "tablo",
+        "basliklar": [
+          "Kalem",
+          "Tutar / sınır"
+        ],
+        "satirlar": [
+          [
+            "Katılım sağlanan her gün",
+            "1.375 TL cep harçlığı"
+          ],
+          [
+            "Haftalık üst sınır",
+            "3 gün ve 20,5 saat"
+          ],
+          [
+            "Program süresi",
+            "En fazla 10 ay"
+          ],
+          [
+            "Toplam yararlanma",
+            "En fazla 140 fiili gün"
+          ],
+          [
+            "140 günün tamamı kullanılırsa",
+            "192.500 TL"
+          ]
+        ]
+      },
+      {
+        "tur": "metin",
+        "metin": "Saat başına bakınca tablo daha net: haftalık 20,5 saat üç güne bölününce günde yaklaşık 6,8 saat ediyor ve 1.375 lira bu süreye dağılınca saat başına yaklaşık 201 lira çıkıyor. Aynı dönemde net asgari ücret saat başına 124,78 lira. Yani program, saat başına net asgari ücretin kabaca 1,6 katını ödüyor. Öğrenciler için bu, part-time işlerin çoğundan yüksek bir saatlik getiri."
+      },
+      {
+        "tur": "metin",
+        "metin": "Sigorta tarafında da katılımcıdan bir şey istenmiyor: İŞKUR, katılım sağlanan günler için 5510 sayılı Kanunun 5/1-(e) bendi kapsamında %5,5 oranındaki sosyal güvenlik prim giderlerini ödüyor."
+      },
+      {
+        "tur": "baslik",
+        "metin": "Kimler yararlanamaz?"
+      },
+      {
+        "tur": "madde",
+        "maddeler": [
+          "Açık öğretim öğrencileri.",
+          "Uzaktan eğitim öğrencileri.",
+          "Kaydını donduran ya da kaydı pasif durumda olan öğrenciler.",
+          "Vakıf üniversitesi öğrencileri — program devlet üniversiteleriyle yürütülüyor."
+        ]
+      },
+      {
+        "tur": "baslik",
+        "metin": "Başvuru ne zaman, nereden?"
+      },
+      {
+        "tur": "uyari",
+        "metin": "Tüm üniversiteleri kapsayan ORTAK bir başvuru takvimi yok. Programlar üniversite üniversite açılıyor ve tarihler farklı oluyor. \"İŞKUR Gençlik Programı başvuruları başladı\" başlıklı haberler genelde tek bir üniversitenin ilanını anlatıyor; kendi okulunuzun ilanı açılmadan başvuramazsınız."
+      },
+      {
+        "tur": "adim",
+        "adimlar": [
+          {
+            "baslik": "İŞKUR kaydınızı açın ve güncelleyin.",
+            "metin": "Programın şartlarından biri kuruma kayıtlı olmak. Öğrenim bilgileriniz güncel değilse ilan eşleşmesi doğru çalışmıyor."
+          },
+          {
+            "baslik": "Hane gelirinizi hesaplayın.",
+            "metin": "Aynı adreste oturanların aylık toplam kazancı 84.226,50 lirayı aşıyorsa başvuru sonuçsuz kalır; önce bunu kontrol edin."
+          },
+          {
+            "baslik": "Kendi üniversitenizin ilanını bekleyin.",
+            "metin": "İlanlar e-Şube üzerinden yayımlanıyor ve okuldan okula farklı tarihlerde açılıyor."
+          },
+          {
+            "baslik": "Ders programınızda tam gün boşluk olduğunu doğrulayın.",
+            "metin": "Program haftada en fazla 3 gün ve 20,5 saat; derslerinizle çakışmayan gün yoksa katılım mümkün olmuyor."
+          }
+        ]
+      }
+    ],
+    "sss": [
+      {
+        "s": "İŞKUR Gençlik Programı günlük ne kadar ödüyor?",
+        "c": "Katılım sağlanan her gün için 1.375 TL cep harçlığı ödeniyor. Haftalık üst sınır 3 gün olduğu için haftada en fazla 4.125 TL ediyor."
+      },
+      {
+        "s": "Açık öğretim öğrencisi başvurabilir mi?",
+        "c": "Hayır. Program devlet üniversitelerinde örgün eğitime devam eden öğrenciler için; açık öğretim ve uzaktan eğitim kapsam dışı."
+      },
+      {
+        "s": "Ailemin geliri yüksekse başvuramaz mıyım?",
+        "c": "Aynı adreste ikamet edenlerin aylık toplam kazancı net asgari ücretin üç katını, yani 2026 için 84.226,50 lirayı aşıyorsa şart sağlanmıyor. Hesaba kişi başı gelir değil hane toplamı giriyor."
+      },
+      {
+        "s": "Programa toplam ne kadar süre katılabilirim?",
+        "c": "Program en fazla 10 ay sürüyor ve bir katılımcı toplamda en fazla 140 fiili gün yararlanabiliyor."
+      },
+      {
+        "s": "Sigortam yapılıyor mu?",
+        "c": "Katılım sağlanan günler için 5510 sayılı Kanunun 5/1-(e) bendi kapsamında %5,5 oranındaki sosyal güvenlik prim giderleri İŞKUR tarafından ödeniyor."
+      },
+      {
+        "s": "Başvurular ne zaman başlıyor?",
+        "c": "Tüm üniversiteler için ortak bir takvim yok. Programlar üniversite bazında açılıyor ve ilan tarihleri değişiyor; kendi okulunuzun ilanını takip etmeniz gerekiyor."
+      }
+    ],
+    "kaynaklar": [
+      {
+        "ad": "İŞKUR Gençlik Programı — Türkiye İş Kurumu",
+        "url": "https://www.iskur.gov.tr/is-arayan/aktif-isgucu-programlari/iskur-genclik-programi/"
+      },
+      {
+        "ad": "İŞKUR e-Şube — Gençlik Programı ilan arama",
+        "url": "https://esube.iskur.gov.tr/Istihdam/IstIskurGenclikProgramArama.aspx"
+      },
+      {
+        "ad": "Aktif İşgücü Hizmetleri Yönetmeliği",
+        "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18709&MevzuatTur=7&MevzuatTertip=5"
+      }
+    ]
   }
 ]
